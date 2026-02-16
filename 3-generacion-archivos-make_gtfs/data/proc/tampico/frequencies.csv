@@ -1,0 +1,122 @@
+route_short_name,route_long_name,route_type,shape_id,service_window_id,frequency,direction
+74,Isleta Pérez,2,shape_74,weekday,5,1
+76,Cascajal,2,shape_76,weekday,5,1
+81,Golfo,2,shape_81,weekday,5,1
+89A,Altamira - Tampiquito por Soriana,2,shape_89A,weekday,5,1
+67,Central Camionera - Madero,2,shape_67,weekday,5,1
+82,Bellavista,2,shape_82,weekday,5,1
+66,Madero - El Blanco,2,shape_66,weekday,5,1
+75,Morelos - Moralillo,2,shape_75,weekday,5,1
+59,Águila - Madero,2,shape_59,weekday,5,1
+56,Bellavista,2,shape_56,weekday,5,1
+73,Central Camionera por Perimetral,2,shape_73,weekday,5,1
+85,Madero Polvorín,2,shape_85,weekday,5,1
+71,Galeana por Sección 21,2,shape_71,weekday,5,1
+69,Madero - Candelario Garza,2,shape_69,weekday,5,1
+72,Colonias,2,shape_72,weekday,5,1
+88,Altamira - Batería 7 Ampliación. Adolfo López Mateos,2,shape_88,weekday,5,1
+61,Obrera - Penal,2,shape_61,weekday,5,1
+77,Madero - Universidad,2,shape_77,weekday,5,1
+65,Águila,2,shape_65,weekday,5,1
+64,Madero - Barra,2,shape_64,weekday,5,1
+62,Obrera - Madero,2,shape_62,weekday,5,1
+112,Cuauhtémoc - Mariano - Matamoros,2,shape_112,weekday,5,1
+68,Madero,2,shape_68,weekday,5,1
+60,Madero - Blanco Palmas,2,shape_60,weekday,5,1
+84,Moralillo Veracruz.,2,shape_84,weekday,5,1
+88A,Altamira - Batería 7 - Los Presidentes,2,shape_88A,weekday,5,1
+87,Madero - Heriberto Kehoe - Las Flores,2,shape_87,weekday,5,1
+89,Altamira. Gpe. Victoria - Los Presidentes,2,shape_89,weekday,5,1
+32,Madero - Heriberto Kehoe - Las Flores,2,shape_32,weekday,5,1
+58,Madero - Rev. Verde,2,shape_58,weekday,5,1
+63,Seguro Social - Lomas de Infonavit,2,shape_63,weekday,5,1
+12,Morelos - Moralillo,2,shape_12,weekday,5,1
+27,Tampico - Santa Elena,2,shape_27,weekday,5,1
+80,Universidad,2,shape_80,weekday,5,1
+8,Seguro Social - Lomas de Infonavit,2,shape_8,weekday,5,1
+117,Altamira - San Jacinto - Paseo del Real,2,shape_117,weekday,5,1
+86,Águila Echeverría,2,shape_86,weekday,5,1
+44,Obrera por Republica de Cuba,2,shape_44,weekday,5,1
+83,Tampico - Playa,2,shape_83,weekday,5,1
+70,Germinal por Boulevard,2,shape_70,weekday,5,1
+79,MAUN,2,shape_79,weekday,5,1
+118,Frac. Haciendas - Soriana - Aeropuerto,2,shape_118,weekday,5,1
+21,FOVISSTE - Lucio Blanco,2,shape_21,weekday,5,1
+17,Maun - Revolución Verde - Madero,2,shape_17,weekday,5,1
+20,Miramar - Borreguera - Madero,2,shape_20,weekday,5,1
+28,Unidad Morelos,2,shape_28,weekday,5,1
+14,Tampico Cañada,2,shape_14,weekday,5,1
+43,Aviación por Boulevard,2,shape_43,weekday,5,1
+46,El Blanco - Kínder - Las Flores,2,shape_46,weekday,5,1
+29,Águila Echeverría - Panteón,2,shape_29,weekday,5,1
+Fracc.,Sotavento - Soriana Aeropuerto - AUT,2,shape_Fracc.,weekday,5,1
+41,Unidad Morelos UAT - Madero - Col Árbol Grande,2,shape_41,weekday,5,1
+34,Las flores - Madero -,2,shape_34,weekday,5,1
+49,Tancol,2,shape_49,weekday,5,1
+15,Madero - UAT - Niños Héroes,2,shape_15,weekday,5,1
+78,Germinal por Águilas,2,shape_78,weekday,5,1
+6,Madero - Revolución Verde - Las Torres,2,shape_6,weekday,5,1
+3,Madero - Revolución Verde - Central de Abastos,2,shape_3,weekday,5,1
+39,Playa Sur - Refinería,2,shape_39,weekday,5,1
+48,Germinal por Boulevard,2,shape_48,weekday,5,1
+22,Tampico - Borreguera por boulevard Zona Conurbada Tampico - Madero - Altamira,2,shape_22,weekday,5,1
+33,Madero - La Paz,2,shape_33,weekday,5,1
+52,Santa Elena - Ampliación. - U. Nacional por Boulevard,2,shape_52,weekday,5,1
+120,Fracc. Arboledas - Soriana - Aeropuerto,2,shape_120,weekday,5,1
+30,Ganadera por Divisoria,2,shape_30,weekday,5,1
+57,Tancol,2,shape_57,weekday,5,1
+18,Tampico - Universidad - Echeverría,2,shape_18,weekday,5,1
+25,Madero - Col Echeverría,2,shape_25,weekday,5,1
+7,Tampico - Playa por Boulevard,2,shape_7,weekday,5,1
+55,Bosque,2,shape_55,weekday,5,1
+119,Pedrera - Soriana - Aeropuerto,2,shape_119,weekday,5,1
+116,Altamira - Intramunicipal,2,shape_116,weekday,5,1
+37,Escolleras - Madero,2,shape_37,weekday,5,1
+47,Cetir 78 Bosques por Boulevard,2,shape_47,weekday,5,1
+24,Tampico - Tancol - Col del Bosque,2,shape_24,weekday,5,1
+40,Playa Norte - Refinería,2,shape_40,weekday,5,1
+31,Tierra Alta - Niños Héroes - Casa Blanca,2,shape_31,weekday,5,1
+1,Mirador - Aviación por Boulevard,2,shape_1,weekday,5,1
+2,Tampico - Bosque Central de Abastos - Casa Blanca,2,shape_2,weekday,5,1
+50,Colonia Del Valle,2,shape_50,weekday,5,1
+90,Altamira - Ej. Lomas del Real - Barranco,2,shape_90,weekday,5,1
+38,Circuito Norte,2,shape_38,weekday,5,1
+10,Enrique Cárdenas - Central Camionera - Tampico,2,shape_10,weekday,5,1
+26,Tampico - Puertas Coloradas - Divisoria,2,shape_26,weekday,5,1
+51,Serapio Venegas por Boulevard,2,shape_51,weekday,5,1
+42,Pedro José Méndez - Carnitas Orta,2,shape_42,weekday,5,1
+115,Altamira - Zapata por Arboledas,2,shape_115,weekday,5,1
+45,E. C. González por Av. Hidalgo,2,shape_45,weekday,5,1
+23,E. Cárdenas González - Universidad,2,shape_23,weekday,5,1
+5,Madero - Blanco Palmas - Albañiles,2,shape_5,weekday,5,1
+113,Univ. Politécnica de Altamira - Santa Amalia - Santa Elena,2,shape_113,weekday,5,1
+4,Colosio - Águila Madero - Golfo,2,shape_4,weekday,5,1
+19,Nuevo Madero - Serapio Venegas,2,shape_19,weekday,5,1
+16,Ejido Contadero - Germinal - Águila,2,shape_16,weekday,5,1
+101,Nuevo Madero - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_101,weekday,5,1
+54,Col Nuevo Tampico - Altamira por Carnitas Ortas,2,shape_54,weekday,5,1
+101A,Nuevo Madero - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico - Madero - Altamira,2,shape_101A,weekday,5,1
+9,Santa Elena - Colonias - Tampico,2,shape_9,weekday,5,1
+104,Lomas de Altamira - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_104,weekday,5,1
+105A,Zapata - Haciendas - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico Madero - Altamira,2,shape_105A,weekday,5,1
+105,Zapata - Haciendas - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_105,weekday,5,1
+110,Universidad Politécnica de Altamira - Santa Amalia - Germinal Zona Conurbada Tampico - Madero - Altamira,2,shape_110,weekday,5,1
+53,Altamira,2,shape_53,weekday,5,1
+109A,Aldama - Lomas del Real - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_109A,weekday,5,1
+103A,Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_103A,weekday,5,1
+109,Aldama - Lomas del Real - Tampico por Ayuntamiento y Av. Hidalgo,2,shape_109,weekday,5,1
+103,Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_103,weekday,5,1
+100,Infonavit - Altamira - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_100,weekday,5,1
+100A,Infonavit - Altamira - Tampico por Av. Ayuntamiento y Av. Hidalgo,2,shape_100A,weekday,5,1
+106,Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_106,weekday,5,1
+106A,Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_106A,weekday,5,1
+107A,Santa Amalia - Tampico por  Ayuntamiento y Av. Hidalgo,2,shape_107A,weekday,5,1
+103B,Electricistas - Arboledas - Tampico por H. Ayuntamiento y Av. Hidalgo,2,shape_103B,weekday,5,1
+107,Santa Amalia - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_107,weekday,5,1
+36,Santa Amalia - Polvorín - Madero -,2,shape_36,weekday,5,1
+114A,López Mateos - Margaritas - Tampico por Ayuntamiento Av. Hidalgo,2,shape_114A,weekday,5,1
+11,Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento,2,shape_11,weekday,5,1
+114,López Mateos - Margaritas - Tampico por Av. Hidalgo y Ayuntamiento,2,shape_114,weekday,5,1
+111A,Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento,2,shape_111A,weekday,5,1
+108A,Cuauhtémoc - Tampico - Univ. Politécnica de Altamira por Ayuntamiento y Av. Hidalgo,2,shape_108A,weekday,5,1
+108,Cuauhtémoc - Tampico - Universidad Politécnica de Altamira por Av. Hidalgo y Ayuntamiento Zona Conurbada Tampico - Madero - Altamira,2,shape_108,weekday,5,1

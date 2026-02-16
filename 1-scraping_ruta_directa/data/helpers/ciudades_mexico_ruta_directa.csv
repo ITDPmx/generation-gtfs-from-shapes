@@ -1,0 +1,24 @@
+﻿id,name,lat,lng,slug,__typename,entity_id
+68127,Aguascalientes,21.88332939,-102.30000305,aguascalientes.aguascalientes,City,68127
+68787,Cancún,21.1742897,-86.84655762,cancun.quintana-roo,City,68787
+69632,Culiacán,24.79031944,-107.38781738,culiacan.sinaloa,City,69632
+70672,Hermosillo,29.1026001,-110.97731781,hermosillo.sonora,City,70672
+71146,Juárez,31.72023964,-106.46083832,juarez.chihuahua,City,71146
+71666,León,21.09309006,-101.6450119,leon.guanajuato,City,71666
+71816,Los Mochis,25.79302025,-108.99807739,los-mochis.sinaloa,City,71816
+72047,Mazatlán,23.23290062,-106.40619659,mazatlan.sinaloa,City,72047
+72102,Ciudad de México,19.42847061,-99.12766266,ciudad-de-mexico.cdmx,City,72102
+72219,Monterrey,25.67506981,-100.31846619,monterrey.nuevo-leon,City,72219
+72225,Morelia,19.70078087,-101.18443298,morelia.michoacan,City,72225
+72261,Mérida,20.97537041,-89.61695862,merida.yucatan,City,72261
+72925,Puebla,19.03792953,-98.20346069,puebla.puebla,City,72925
+73025,Querétaro,20.58862495,-100.39008331,queretaro.queretaro,City,73025
+73104,Reynosa,26.08061028,-98.28835297,reynosa.tamaulipas,City,73104
+73226,Saltillo,25.42321014,-101.00530243,saltillo.coahuila,City,73226
+74051,San Luis Potosí,22.14982033,-100.97915649,san-luis-potosi.san-luis-potosi,City,74051
+75191,Tampico,22.29508018,-97.93595123,tampico.tamaulipas,City,75191
+75562,Tijuana,32.5022316,-116.97212219,tijuana.baja-california,City,75562
+75748,Torreón,25.54389,-103.41898346,torreon.coahuila,City,75748
+76113,Xalapa de Enríquez,19.53124046,-96.91589355,xalapa-de-enriquez.veracruz,City,76113
+142186,Guadalajara,20.65969849,-103.34960938,guadalajara.jalisco,City,142186
+142272,Colima,19.24568176,-103.72518158,colima.colima,City,145493

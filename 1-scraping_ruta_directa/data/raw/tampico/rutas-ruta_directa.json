@@ -1,0 +1,2379 @@
+{
+    "routes": [
+        {
+            "data": {
+                "route": {
+                    "id": "3124",
+                    "encodedLine": "u~qfCrcgtQxRnIf@gEoQ}HaIqDaAvDsCyAcRyHiYkM_WyKeFcAwDb@kIfFuEjBeIlBcItCuE`QyChCeIjBiM|GwPGcIm@mDqAaMl@wDwAwLiD{LyDcO{Ds`@kKsd@yLwQ~RaD`RmF`FmKdGqGhP}RpWqQbM}HdKiEdGkQzLZjCQhBaHpGae@zVgh@pXkEvAsJJey@cR@z@zy@dQzIC|A`i@k[kD_MuANnPgZmE_Ba@e@Lq@c@eFf@??dFg@p@b@d@M~A`@fZlEOoP~LtAvYpEcCvNnGiJeAw@VgAs@O}Agk@aIIeX{Foa@sI?f@va@pIlWvG`JQpEaBnMmHjYcPfe@kVvFo@~BoBbCoFtBcE|FgJvD}G|HeKpQcM|RqWhJkJlJmLtDwF`DaRvQ_Srd@xLhh@pNhUnGvLhDvDvA`Mm@lDpAbIl@vPFhM}GdIkBxCiCtEaQhScGtEkBjIgFvDc@dFbA~VxKhYjMbRxHrCxA`AwD`IpDnQ|Hg@fE",
+                    "shortName": "1",
+                    "longName": "Mirador - Aviación por Boulevard",
+                    "slug": "ruta-1-mirador-aviacion-por-boulevard.4uH",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145047",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3125",
+                    "encodedLine": "}sigCr~ltQkF}CYr@]bGHf@hM`Ip@?Re@ZaGAY_GuDtIgFkDmHhF[ImKhIGJrKxSa@QyRbAgTbU`Fv\\vHzTnE~OdDnUbFjKhCvO`DdIHfHqBtLmHrJ_F|ScLvXuO|DiBvDi@xBy@xHl@dHlBtJ|@lEuAdFoBrQXtJz@j^lGxHeCpIcAxJXbKhCjVdFpTzClIh@rL{@zVaGxWgJrQsHrQaGhUsHpWuHp^cLjQmE~LiDvGa@rMw`@rKe[|RzIpEiM|Ko[vAj@fBvBP~Ci@lEiMfe@{D_BkA{@rAuCfAgDyCwAqMcGoHxTeI{DsHrTcJfXWlAmAP_MhDiYrHcUbHaUhGiYxJq]dMeEfB}KfFkKfC{V`GsKj@mJYcScDqUmE}KaDgLQaIlAiIzBmRgD}MqCuGOqRk@}GjD_Dz@mImAeHmBuFiEeAU_CbAmD|D_E|BwXtO}SbLiXlOgHpBeIIwOaDkKiCoUcF_PeD{ToEw\\wHcUaFcAfTPxRyS`@KsKiIFHlKiFZjDlHuIfF~FtD@X[`GSd@q@?iMaIIg@\\cGXs@",
+                    "shortName": "2",
+                    "longName": "Tampico - Bosque Central de Abastos - Casa Blanca",
+                    "slug": "ruta-2-tampico-bosque-central-de-abastos-casa-blanca.4uJ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145048",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3126",
+                    "encodedLine": "ssigCf~ltQ}F}CKv@_@tGZr@nMjHr@]VoHkGiDrIiF}C}GsDmJ}CaPs@}J`BuEjCcCbPElOhCS{@vWoFhEmAnPcLti@}H`O^nWn@Aq\\zJaA~AVnJ{@nPaF_Jq]zf@aOzd@uNbb@qLdc@_Npi@uOj\\qKVr@`a@wLn@nAtTpFnBh@vDtBr`@g`@nBnCjJqJfD`D~C`BpA_DsCsAiCeCvBuBt@}@Gc@N_@VUMSyC|@mBp@SX{NnNjJcJnCkCRWlBs@vC{@PT]VKZ@PDNu@|@wBtBoBcCyB|BoUxTqJjJ_J~IwDuBoBi@}TgGr@oA{_@jLwa@tLul@hR_a@|Lu^bL}@yAkd@lNkg@hO~Ip]oP`FoJz@_BW{J`A@p\\oWo@aO_@oSxCeUbDoPbLiElAwWnFRz@mOiCcPDkCbCaBtEr@|J|C`PrDlJ|C|GsIhFjGhDWnHs@\\oMkH[s@^uGJw@",
+                    "shortName": "3",
+                    "longName": "Madero - Revolución Verde - Central de Abastos",
+                    "slug": "ruta-3-madero-revolucion-verde-central-de-abastos.4uK",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145049",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3127",
+                    "encodedLine": "ajggCz`ptQgB?rEoa@xObDrLzBjE~A|@?K_AfFiBU}AjBmLnCiX}GcLuAiE`CNhd@tIPxTgEeCr@aAvCX@cGWgGB}TI_JyITq@gOpTzFvSxDtHG~GqB`M{GlV}MxL}GxMqHjIsEhGo@lF]dD\\zG`BzFxA|Fc@lHcDpSP|LjAnYpFjQeEjUr@lh@fMhV~@~e@oKfR}GqM{[mEaMyH}^kSgeAln@gwAlLlGxCuHjKbFqDpHlL|GsA`DrFpCnBv@vDwIzGrDjRnFjBsI|A}Fs@vD`NvFtB}Dh@\\|MnFlRhIxRhIvEcOvRlImBrFgSkG??fSjGlBsFwRmIwEbOyRiImRiI}MoFi@]uB|DaNwFCGe@lAm@~CuSaG_DhIcQgJSZmL}GpDqHkKcFjAmCkCeBg{@xjB|Opz@xH|^lE`MpMz[gR|G_f@nKiV_Amh@gMkUs@kQdEoYqF}LkAqSQmHbD}Fb@{FyA{GaBeD]mF\\iGn@kIrEyMpHyL|GmV|MaMzG_HpBuHFaL}Co@}QmKPn@rXmCMH~IC|TVfGAbGwCYs@`AfEdCQyTid@uIaCOtAhE|GbLoChXkBlLT|AgFhBJ~@}@?kE_BsL{ByOcDsEna@",
+                    "shortName": "4",
+                    "longName": "Colosio - Águila Madero - Golfo",
+                    "slug": "ruta-4-colosio-aguila-madero-golfo.4uL",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145050",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3128",
+                    "encodedLine": "afggCbjhtQdDoAbCnKeDtA~@Cr@dDaKvCiIrCm^tK}CjAOUxI{BpC|LiEpA~GfY}IbBl@VpUmF|EyA~OaLtLmBSl]vYaEn@mEzr@bB_@~DvAhl@fQ`CnNoDxWqNbq@o^nOiAnPxClHr@fMqE|f@tEjPpCbSyErSjAbMdEpZfFjMaMNs}@qe@oTpD{I~@mKtGsXxWfHx`A_{BpCxAaDnHoAtCfBnBep@fwAgB_I??fB~Hdp@gwAgBoBnAuC`DoHqCyAis@|aBwNn\\KjDeXwHuDhO_AlKqDzIvq@pYFlu@CjQqKr@sMyAqZgFcMeEsSkAcSxEkPqC}f@uEgMpEmHs@oPyCoOhAcq@n^yWpNoNnD}^_Hi@og@LyEaf@eAo@lEwY`ERm]uLlB_P`L}ExAqUlFm@W|IcB_HgYhEqAqC}LyIzBNT|CkAl^uKhIsC`KwCs@eD_ABdDuAcCoK",
+                    "shortName": "5",
+                    "longName": "Madero - Blanco Palmas - Albañiles",
+                    "slug": "ruta-5-madero-blanco-palmas-albaniles.4uM",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145051",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3129",
+                    "encodedLine": "_xfgC~hltQkF@b@tKlzA{B_@}EkVmFa@uNbV_@g@gSRcECoDh@}QzTb@zJSxCw\\{Mmh@hlAe_@zAxAneD}cAnDxAlD}CpTtGnQnIrSzM`Q}`@_HkDwAmAkBgCpWeWfBp@_b@j`A??~a@k`AgBq@qWdWjBfCvAlA~GjDaQ|`@sS{MoQoIqTuG_ABaAS{ErAoeD|cA{AyAilAd_@zMlh@yCv\\{JR{Tc@mKGg@l\\R~Tf@bSyIyBaVuDNdHn@dL_m@p@OuKlEB",
+                    "shortName": "6",
+                    "longName": "Madero - Revolución Verde - Las Torres",
+                    "slug": "ruta-6-madero-revolucion-verde-las-torres.4uN",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145052",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3130",
+                    "encodedLine": "ihrfCn}ftQjA_Dl[vNk@|D}\\iOan@oXeRaI}JqDyFT}JzFyEhBmLfCwDtBeCvLaGhG_L`DcFvDyF~@uIk@qKSmEiBsL|@cDaBcNkD}MsDarBuj@a@sA}Ar@gEcDuBqEc@_Q?aPOuQM}Q_GoXwLhE{ImUWcAgFkLxKmGyg@ur@wZyb@Oi@?{@m@a@o@NSp@Tp@n@L`J|KlCrDfWr^}RhHgKdDIdAgATo@Yf@dAoH~BSlCEjIc@f@gDNYcHy@y@A{AkCLYsAgE^??fE_@XrAjCM@zAx@x@XbHfDOb@g@DkIRmCnH_Cg@eAn@XfAUHeAfKeD|RiHgWs^mCsDaJ}Ko@MUq@Rq@n@Ol@`@?z@Nh@vZxb@xg@tr@yKlGfFjLVbAzIlUvLiE~FnXL|QNtQ?`Pb@~PtBpEfEbD|As@`@rA`rBtj@|MrDbNjDbD`BrL}@lEhBpKRtIj@xF_AbFwD~KaD`GiGdCwLvDuBlLgCxEiB|J{FxFU|JpDdR`I`n@nX|\\hOj@}Dm[wN",
+                    "shortName": "7",
+                    "longName": "Tampico - Playa por Boulevard",
+                    "slug": "ruta-7-tampico-playa-por-boulevard.4uP",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145053",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3131",
+                    "encodedLine": "acyfC~|gtQ|a@_CzF}MyGQyAQeBm@kAi@mH`@cDTeEoBoL{CtJ`h@tErThCjNlBrFdFzMpInT_JfEoLjDcMxCiGpAsG|@uHVkIq@}K{BoPiCwOmD_HaBiJCiH`A}H~BcJs@oFcBaBlJuBpKeAtBwDtDyE~HS|HKlGbAdDxF`L\\lEOhHvCrH??wCsHNiH]mEyFaLcAeDJmGR}HxE_IvDuDdAuBtBqK`BmJnFbBbJr@|H_ChHaAhJB~G`BvOlDnPhC|KzBjIp@tHWrG}@hGqAbMyCnLkD~IgEqIoTeF{MmBsFiCkNuEsTuJah@nLzCdEnBbDUlHa@jAh@dBl@xAPxGP_FlMwb@fD",
+                    "shortName": "8",
+                    "longName": "Seguro Social - Lomas de Infonavit",
+                    "slug": "ruta-8-seguro-social-lomas-de-infonavit.4uQ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145054",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3132",
+                    "encodedLine": "o`hgCdyetQbMuCjDbN~EbJtLb[j@V?l@xZwR`@YndAgV|Az@hB[rC}@uBgItHeCCi@|OOIkHHa@dYpA~@PFVFnBlGUXnIjPu@}@}W~GYdO{@bSjGuLji@`@jApm@qR~k@pPdKnCjLlD{AzIjGdGfI`DvEaSlm@dQE|FdIrDvAj@`Rh@bHx^{KOyAlMrFnCjFtBtCh@bCTpMxApHyA~Eg@hD?lCLx^eClZmGxT_E`KxBx@_DbDjAvNkd@`NbF~HmUnf@bTpHmToAdDuW}KwVdu@oACkJJyF~@wKgEeOsFw@tAeAtDw@I}@_@cUtE{@]{}AlAmIq@Mk@??Lj@lIp@z}AmA`CF|R_E|@^v@HdAuDv@uAdOrFvKfExF_AjJKnABvVeu@tW|KyW}KeVzt@eMDiGbAeZiK}CbEkVbDmbB|A_JeBcHy^aRi@wAk@eIsDD}Fmm@eQwE`SgIaDkGeGzA{IkLmDeKoC_l@qPqm@pRa@kAtLki@cSkGeOz@_HX|@|WkPt@YoImGTGoBGW_AQeYqAI`@HjH}ONBh@uHdCtBfIsC|@iBZ}A{@odAfVa@XyZvR?m@k@WuLc[_FcJkDcN",
+                    "shortName": "9",
+                    "longName": "Santa Elena - Colonias - Tampico",
+                    "slug": "ruta-9-santa-elena-colonias-tampico.4uR",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145055",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3133",
+                    "encodedLine": "i`egCromtQnKnAMm^hP]]cEoAel@r@e]xHJNe`@i@uBtV_I{GqWjSmGeEgO|]sK~DbOoMvD[lAtBbJ`_@mLmBiH`k@cQnS{GVl]lACdCg@pD_@rGb@v@{MdGpA`AwI|Af@~WbH~Dp@jNbF}BbLOf@xCZ{DpOkBjJDlEbBbFnBdB|Al@bGpArAjAdFaLz@aJpDuOr_@rIv@uEX}Dx@qEtJnCfAJrDHzHfDjTdB~a@mC`GqM|Jh@dFm@tHrNj@n@|@r@zTjDrAMlA{@hG}HjAGnAP~KhKzAlAfBl@hZiEtAe@z@cAb@yAvTlI|HoUrQ|HbTfJ??tAkDoQgHsOkHoNoGg@~CBpCk@nC_BlAkBXeEsBeBY{AXcAtA_@vBOtCcAzAw\\dF{A]cB_A_LiKkAYoANeHlHu@d@{@PwUiCu@s@_@s@yGaOs@QgDv@oLOaGpM_OdA_RfAkTeB{HgDsDIgAKuJoCy@pEY|Dw@tE}NcDuOoDqDtO{@`JeF`LsAkAcGqA}Am@oBeBcBcFEmEjBkJrAgFmC{@zAiGNg@uPwEtAqBtAyGcDuA_XcHaCxX{I_CsGc@qD^eCf@mABWm]oSzGak@bQlBhHa_@lLuBcJZmAnMwD_EcO}]rKdEfOkSlGzGpWuV~Hh@tBOd`@yUi@Sl]?tPv@vVb@fJwCFLl^",
+                    "shortName": "10",
+                    "longName": "Enrique Cárdenas - Central Camionera - Tampico",
+                    "slug": "ruta-10-enrique-cardenas-central-camionera-tampico.4uS",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145056",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3135",
+                    "encodedLine": "_u|gCbfruQeEwBgu@ej@cTsOiTwIzNeq@poAsnFmb@}Cc@vBwjEo\\ie@eEpWay@zWww@dJqI`lB_jAh`A_m@paBwfCdQkUhWoQ|F_AvMaEb_AoZhv@bDpCuApDuY`V_WlFac@r@uCdGeElHcH`CuHdgAqiAfb@kb@f~AuvA|S{[`JiR`ToSn|@qR~CBlW~B|zCfp@`IUrsAis@vQcAtStEdG}A|GmC`YhAz^|GrQ{DzPT`I|Czc@`IbL`BfTeBrd@}Lr^gOdbAe[nr@}RlGeAxJG|F{BhHaTxSfIwExNmJeDtJoYdDzAgAzC??oSaI_Mz_@yJFmGdAor@|RebAd[s^fOsd@|LgTdBcLaB{c@aIaI}C{PUsQzD{^}GaYiA}GlCeG|AuSuEwQbAssAhs@aIT}zCgp@mW_C_DCo|@pRaTnSaJhR}Sz[g~AtvAgb@jb@egApiAaCtHmHbHeGdEs@tCmF`c@aV~VqDtYqCtAiv@cDc_AnZwM`E}F~@iWnQeQjUqaBvfCi`A~l@alB~iAeJpI{Wvw@qW`y@he@dEvjEn\\b@wBlb@|CqoArnF{Ndq@hTvIbTrOfu@dj@",
+                    "shortName": "11",
+                    "longName": "Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-11-tampico-colonias-el-fuerte-penal-por-av-hidalgo-y-ayuntamiento.4uU",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145058",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3136",
+                    "encodedLine": "wbufClgotQ`E_@bE_AzPoCwAsHoCgFs@cCE_Df@oCXWdAEd@^\\nAe@zEBxBbAlHbA`G`@fDjAw@lAkAzCqBd@uA^mJn@cFfB_HrBiBqAVdD_MaAwFrb@q|ArBv@zDuNtAaBxBcIt@{Gr@iCyIcD|E}NHe@fCkA`CoCv@sAZsAbAoDn@R`CyIuAg@sHdT}HgDkHfTnQvG}@jD??|@kDoQwGjHgT|HfDrHeTtAf@aCxIo@ScAnD[rAw@rAaCnCgCjAId@}E|NxIbDs@hCu@zGyBbIuA`B{DtNsBw@sb@p|A`AvFeD~LpAWsBhBgB~Go@bF_@lJe@tA{CpBmAjAkAv@a@gDcAaGcAmHCyBd@{E]oAe@_@eADYVg@nCD~Cr@bCnCfFvArH{PnCcE|@",
+                    "shortName": "12",
+                    "longName": "Morelos - Moralillo",
+                    "slug": "ruta-12-morelos-moralillo.4uV",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145059",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3138",
+                    "encodedLine": "mhrfCjkgtQmTto@oB@{Mb@}YzIi^dKob@~Myj@|QuKfFaSpGiZlGeKf@_NuAqEyAu]iG{O{CsN\\qKjDkIuA{EcAaB~IhAFvFrFcCvKiF~GeI_E}I_BuFm@}GhB_D|Au@p@}@xBmAlBmBTcBGs@g@cKo@MlGl@bHrDJxBk@`BoB~CzBeHfDgEjA]Q}Er@yDDD|AyBd@aC`DbAjFJhAvCyClK_CoAvHmAxByE]{DpCi@hLtKwAh@eM??i@dMuKvAh@iLzDqCxE\\lAyBnAwHmK~BvNcEqAwH\\PfEkAdHgD_D{BaBnByBj@sDKm@cHLmGbKn@r@f@bBFlBUlAmB|@yBt@q@~C}A|GiBtFl@|I~AdI~DhF_HbCwKwFsFiAG`B_JzEbAjItApKkDrN]zOzCt]hGpExA~MtAdKg@hZmG`SqGtKgFxj@}Qnb@_Nh^eK|Y{IdK_@vP_h@jI|Dz@sDeDoB",
+                    "shortName": "14",
+                    "longName": "Tampico Cañada",
+                    "slug": "ruta-14-tampico-canada.4uX",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145061",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3139",
+                    "encodedLine": "uhxfCd{ctQ}K|VgLkG}Pr`@qDkB{FgHkDhDqBlAgRvc@wAnIuCy@mKre@w]wJiCxKg[}IkAkAbCwCiAa@oIhFkIzRwOnRgMnJ}JfJuItN_D`FgFvFyF~EeF|Ee}@df@@t`@qKhViRcBwTqCmU{CgKwA_KaDLwQmc@f@_BbYv]rKwBuf@??vBtf@w]sK~AcYr_@]JpRlBPpJjBfKvAlUzCvTpChRbBpKiVAu`@d}@ef@dF}ExF_FfFwF~CaFtIuN|JgJfMoJvOoRpEgEpF{GtBeCnB\\j[hIhCyKv]vJlKse@tCx@vAoIfRwc@pBmAjDiDzFfHpDjBhSoe@bHvDbI}Q",
+                    "shortName": "15",
+                    "longName": "Madero - UAT - Niños Héroes",
+                    "slug": "ruta-15-madero-uat-ninos-heroes.4uY",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145062",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3140",
+                    "encodedLine": "mehgCztetQrA[Tf@Pn@Gt@f@ZdM}CpDxN~N|[p_@eNaGuSvA}NvAiB`ImC~MuClPrUkAdAtCfEcPzM^r@{WnGwC|BgAf@yN`JjEhWn]mIbA`GnUwFOq@jKcCfSsGjEnOZKtGtWuVbIt@rBKnLGxJArFwHCq@n]pA~k@vK`ChENdH{@|a@mUjRuJzXsOzLsA~DJnInB`GtAnEYvG{CtJW`R`AdPnDxKvBbLgCvFiApJLni@`KpUjDvTyAnb@_Lbc@yQjbAsZvb@eMdKwCjJoAnHBjMe`@vM~FmAhDaIaDiHdTiFvB??hFwBhHeT`I`DlAiDwM_GkMd`@oHCkJnAeKvCwb@dMkbArZcc@xQob@~KwTxAqUkDoi@aKqJMwFhAcLfCyKwBePoDaRaAuJVwGzCoEXaGuAoIoB_EK{LrA{XrOkRtJ}a@lUeHz@iEOmXoHqAg^p@of@lUX@sFFyJJoLu@sBtVcIuGuW[JkEoOgSrGkKbCNp@oUvFcAaGo]lIkEiWxNaJfAg@vC}BzWoG_@s@bP{MuCgEjAeAmPsU_NtCaIlCwAhBwA|N`GtSq_@dN_O}[qDyNeM|Cg@[Fu@Qo@Wa@_@J",
+                    "shortName": "16",
+                    "longName": "Ejido Contadero - Germinal - Águila",
+                    "slug": "ruta-16-ejido-contadero-germinal-aguila.4uZ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145063",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3141",
+                    "encodedLine": "_mggCtcftQxEjJxHbRMm@~p@eVTb@`A}@tCdE^r@ll@gNbB~@zBc@hC{@jDeAyBmIhC}@Ai@zOKGkHJc@|O`@jIx@^RPtF~i@yBFvB~DUm@nE?\\hLdDjFkUhWfHjFkUfCiLpNdELrAFvG\\~CdA|BpF|EZn@vAWf\\zJr@HbG{HlMuL~]|JhFaOjEtB`p@co@d@q@dBg@vAlBcRvQkBgC??jBfCbRwQwAmBeBf@e@p@ap@bo@kEuBiF`O_^}JmMtLcGzHs@Ig\\{JwAV[o@qF}EeA}B]_DGwGMsAqNeEgChLkFjUiWgHkFjUiLeD?]l@oE_ETGwB_j@xBQuF_@SkIy@}Oa@Kb@FjH{OJ@h@iC|@xBlIkDdAiCz@{Bb@cB_Aml@fN_@s@uCeEaA|@Uc@_q@dVLl@yHcR",
+                    "shortName": "17",
+                    "longName": "Maun - Revolución Verde - Madero",
+                    "slug": "ruta-17-maun-revolucion-verde-madero.4ua",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145064",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3142",
+                    "encodedLine": "g~~fCfuntQjBXhFOtLYvGS[qCm@yC~BcC}AqCw@qBDeHMmCo@aDoBiFkAmBs@s@_@sAI_BRyCMyEXaCp@oBlCqDqF`VaGU}FwAcC]kErAsDu@eD{GqLeArH_g@JoDt@mEqBgBmCqBlUg^fGlF~EtEpClBzAiCWQxFyEcKeNwFuIfEyDhDoEpFmHfF{G`IqJdOxD`WhHpQdDpKrB~DlAtMhF|UpLrK`DbDFbPjItCfAfHpA~MpAbKmBdIU`KKdUgBjTaF~\\eFzMlDbWeH`Kc@VcBpMc`@fInDtJoYdF}N~HjDvHqTkIkDpCbBiHbTeF~NuMeG{JlYqMb`@_@tAyJp@sd@`MoCyHYEy@sGwPxCa]CqULuYXkQTuH{@cBs@uHLoAxGyFDcDGsKaD}UqLuMiF_EmAqKsBqQeDaWiH}McF`CcDs@aAmIlFoFdNwBbE{ErHiDnEgExDvFtIbKdNyFxEVP{AhCqCmB_FuEmCsBaU`^FApBfBu@lEKnDsH~f@pLdAdDzGrDt@jEsAbC\\|FvA`GTpFaVmCpDq@nBY`CLxESxCH~A^rAr@r@jAlBnBhFn@`DLlCEdHv@pB|ApC_CbCl@xCZpCwGRuLXiFN",
+                    "shortName": "18",
+                    "longName": "Tampico - Universidad - Echeverría",
+                    "slug": "ruta-18-tampico-universidad-echeverria.4ub",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145065",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3143",
+                    "encodedLine": "kzkgClkftQuBb@k@oF{^jEb@rE{Dj@rBrS|d@oFXrEzAOJR`BbR~BxW~@bJn@b@pQpC_@dDlDtMj~@iYhAhEpYuI~BvJmYzIzB~IeE|A`It\\zKmChAc@xDiArNeKrj@qIxe@~AmAre@tAha@p[hG|Ho@tz@cd@pWmNfNgAdShExIw@pHqCtg@tEfPtCbQwDpLQbRlEfa@fHbMxAhn@kLns@sXjkBoj@`Kg@~Poh@~CbBwOrd@gEVxUke@qOrd@gERaKj@kkBnj@os@rXin@jLcMyAga@gHcRmEqLPcQvDgPuCug@uEqHpCyIv@eSiEgNfAqWlNuz@bd@}Hn@gOeCkAqf@j@ic@kq@eCsj@pIsNdKyDhAiAb@{KlCaIu\\dE}A{B_JlY{I_CwJqYtIiAiEk~@hYmDuM^eDqQqCo@c@_AcJ_CyWaBcRKS{ANYsE}d@nFsBsSzDk@c@sEz^kEj@nF",
+                    "shortName": "19",
+                    "longName": "Nuevo Madero - Serapio Venegas",
+                    "slug": "ruta-19-nuevo-madero-serapio-venegas.4uc",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145066",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3144",
+                    "encodedLine": "ajjgCdujtQmGaVn}@{Xbz@gWvA}@l@XZz@x_@eJ|]_ISy@l_@kKnEbOpNkErYmJlb@gMpApAfa@sLtjAe_@n]jK|^u`@hDkDtGqEhIaBnn@um@rPfS~G{BnIeCGt@Hs@AAoIdC}Aj@e@q@iUwWap@ho@wHfI{FhEiDjD}^t`@o]kKujAd_@ga@rLqAqAmb@fMsYlJqNjEoEcOm_@jKRx@}]~Hy_@dJ[{@m@YwA|@cz@fWo}@zX",
+                    "shortName": "20",
+                    "longName": "Miramar - Borreguera - Madero",
+                    "slug": "ruta-20-miramar-borreguera-madero.4ud",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145067",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3145",
+                    "encodedLine": "gu}fCj`ctQh@fCfFvX|^oI|FjN{FtBbBbGz@tCpEeBfAo@kAcDdCeA?a@sCaIzAs@pF{EzAyAxH`MxDvFvAxBvFsFhB|B{@z@}IrCcCzAkCpCyCjCjBb@uKxe@rMlEqGp[pa@dLjE{QnJbCrGpBdCb@zHP~DrShOe@nQmAh@k@lMrDzLnBh[tFpLlBxHlAnR@hCh@lEb@d@MlDxAlEaOuBw@G]`Fk@dCgCByDdAqBlBw@|GzBjDs@`BcDTgI`YbMhAuD??cYgLgAxCUfIaBbDkDr@}G{BmBv@eApBCxDeCfCaFj@F\\{BHeItAOfDFmA[jDSbBiCi@oRAyHmAqLmBi[uF{LoBmMsDi@j@oQlAiOd@_EsS{HQeCc@sGqBoJcCaBlHob@gLdEaRsMmEtKye@kBc@xCkCjCqCbC{Av@yAwAyByDwFyHaM{AxAqFzE{Ar@rC`I?`@eCdAjAbDgAn@qEdB{@uCcBcGzFuB_GkNdDu@i@mC{c@bKcEgT",
+                    "shortName": "21",
+                    "longName": "FOVISSTE - Lucio Blanco",
+                    "slug": "ruta-21-fovisste-lucio-blanco.4ue",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145068",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3146",
+                    "encodedLine": "cnhgCxaitQft@wThAq@v@`@f@j@j~@mTSy@jKaCbSgGpEdObT}GdIoCvW{HpT}GnAlAzkAg^|`@mMlbA~XpmA~[dDdB`NgAtDnBjN\\pLCpJ{G~LwDpFaR~OeGlNuEjHkDrqBbz@`AmDw^sPwAdEpa@vJy^}Pe@nAk@fBkqAyh@kHjDmNtE_PdGqF`R_MvDqJzGqLBkN]uDoBaNfAeDeBqmA_\\mbA_Y}`@lM{kAf^oAmAqT|GwWzHeInCcT|GqEeOcSfGkK`CRx@k~@lTg@k@w@a@ov@jV",
+                    "shortName": "22",
+                    "longName": "Tampico - Borreguera por boulevard Zona Conurbada Tampico - Madero - Altamira",
+                    "slug": "ruta-22-tampico-borreguera-por-boulevard.4uf",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145069",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3147",
+                    "encodedLine": "{bggCnbhtQpIoCe@yAuA}FpDeAAyAfXwGn@xD|@GbDcA~AWnJ}BrU}FtRmGrFnTbU}GpDjOcSlGlM|g@oCr]_m@a@u@ve@jAx`@xZfG~FMhX_Mf[}PhXaOrEiChFq@rBwAjGwLrKaQvJqMjPwLbLqMhVwZvZxIjLfDzKtB`IvAjK|BvFpCfJhDpElChEvBfEbBlExA~E`AlB@pGpDnMrFhHlApJbA~ANjJkBdDYnINta@yCvUyFtSwD}SlD[eXxK`@tP`A~DaNzKuBnAuFb@cCzBsAxF~AtDBbBiB`@yGfBgHnXpLeFhOsUyJ??rUxJdFiOoXqLgBfHa@xGcBhBuDCyF_B{BrAc@bCoAtF{KtB_E`NgIsAmFPgDMKdDdAtFeDbA_BZYc@gi@f@wCIAxBcA|@v@xI}Rf@kNLoCAqM_B_D{OyKAy@jHgHKmBA_FaAmEyAgEcBiEwBqEmCgJiDwFqCkK}BaIwA{KuBkLgDwZyIiVvZcLpMkPvLwJpMsK`QkGvLsBvAiFp@sEhCiX`Og[|PiX~L_GLyZgGkAy`@t@we@~l@`@nCs]mM}g@bSmGqDkOcU|GsFoTuRlGsU|FoJ|B_BVcDbA}@Fo@yDgXvG@xAqDdAtA|Fd@xA",
+                    "shortName": "23",
+                    "longName": "E. Cárdenas González - Universidad",
+                    "slug": "ruta-23-e-cardenas-gonzalez-universidad.4ug",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145070",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3148",
+                    "encodedLine": "iwfgC`litQdAtVf[wEt@BBpGeA`AK|MuBpKA`V?xl@dIvAn^jGFjR`LtHrOfHjAVpCsExWdU`LeQ}CuAUKcAwC\\gCwGoD`BcEoAe@pEiLnGdCzEdKbC_An@xAvHuQhBe]tBaJfAiAdVyh@hHk@rDNzMfD~FHxKuDnVP~RlDjPjCjPgEjOTdNfEzd@zH`Ij@xWqCluAwd@`iAi]vWaI~Je@xRem@??{CcAcUbp@yCJwW`IaiAh]muAvd@yWpCaIk@{d@{HeNgEkOUkPfEkPkC_SmDoVQyKtD_GI{MgDyGkE{D`BsD~Ce^`StJlTQx@uB`JiBd]wHtQo@yAcC~@{EeKoGeCqEhLnAd@aBbEvGnD]fCbAvCTJ|CtAaLdQyWeUqCrEkAWsOgHaLuHGkRo^kGcFsBBmk@KyV\\iKJ}MdAaACqGu@Ck[vE_AsV",
+                    "shortName": "24",
+                    "longName": "Tampico - Tancol - Col del Bosque",
+                    "slug": "ruta-24-tampico-tancol-col-del-bosque.4uh",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145071",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3149",
+                    "encodedLine": "_zvfCxcctQ_BnBuDyCmB{AkBbB}GuIoFlFeK|UlLfGy`@~|@eL_GwIxS`FbV|KvCjD~AnNs@vD~A~IV_FxLmb@nCjHx^uKD_A`HyKQ{LgD_RuJeOiF_E}ByQuCgQmDe`@}Le@m@xBuCc@q@oIhEcAtA_HbQ{LvNeFhFaQzMcXn`@uAzEgAlCuAz@kAIAy@~@wA~AMbFrBnExBdIzAtF^lK}DzPBfJt@zLxCmEzUsGpImEzGM~OL`CbDzDzB|Gf@zKOzAyEjAdAzJeHr@?iMS_Q[CpD_M??qD~LZBR~P?hMdHs@eA{JxEkAN{Ag@{K{B}GcD{DMaCL_PlE{GrGqIlE{U{LyCgJu@{PCmK|DuF_@eI{AoEyB]_BGi@K_C^iBY`AGx@DbA@aCl@wANMb@i@bA_BfRyZ`Q{MdFiFzLwNdDyBpB}CbBwBnA{AjA}AdAqAd@l@d`@|LfQlDxQtC~D|BdOhF~QtJzLfD~a@|NcDiPkAiFkHy^lb@oC~EyL_JWwD_BoNr@kD_B}KwC}BeKbNqYrMpGr`@q}@iLgGfLuWpBiB|AbBjBcBj@a@hI~C",
+                    "shortName": "25",
+                    "longName": "Madero - Col Echeverría",
+                    "slug": "ruta-25-madero-col-echeverria.4ui",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145072",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3150",
+                    "encodedLine": "c~fgCtultQg@`JhUOxBC|FQIfGL\\hEVnBl@nH~BvEl@hIj@|Cd@jYlDp@bQfHr@fBfBkBlCpSbQnIuLr@yAkA{CBs@iHiEoAy@DWs@WzAwEvK|EXuB~D`BhD}AsAkCgCyFiPoIgFkC]QhAwFpH~DLU@sDfDKbAAzF~CN\\r@s@xH`MbCqBzCk@x@kQLaFt@yDv@sBViAjAsA~EmK~CqGn]zZSfAZ}ArKx@Nf@dDdGbD~@V\\zBoA@aFtKLjB?rFpAE{A\\kCnDqGzE{EhAaBrAgHtBmMzEbAlEx@fDNxIqCdGu@`LN~I|B|LnCvVfE`BsBlJqIpEiA`EC~GwAz@pEtWeHtLyF_LeYvMrApJmB`DU|DD~EBxE[jSaB`IyAfE_A_AiDSkAiA}@IwVCyFA[lHgIbB]fBVvDrDbC~BtBdBlCfAhCHtDk@zEiAnH{@nC{@hAaCB[nUvIpM_`@xHdD??xCsIeToJkFlPIxHgChDgBRmHwBiDvBQ~DfK|DcJ`ZkT}H}DM_D{@yKFbApLcGt@aCW{j@n@eAbEv@|Heb@t@mH_@wH}@dLb[aLtFcWlG_HvAaEBqEhAmJpIaBrBwVgE}LoC_J}BaLOeGt@yIpCgDOmEy@{EcAuBlMsAfHiA`B{EzEoDpG]jCDzAsFqAkB?uKMA`F{BnAW]cD_AeDeGOg@sKy@[|ARgAo]{Z_DpG_FlKkArAWhAw@rBu@xDM`Fy@jQ{Cj@cCpByHaMs@r@O]{F_DcA@gDJArDMTqH_EiAvF\\PfFjChPnIfCxFrAjCiD|A_EaBYtBwK}E{AvEr@VEVnAx@hHhECr@jAzCs@xAoItLqScQjBmCgBgBgHs@q@cQkYmD}Ce@iIk@wEm@oH_CoBm@mBcACmC?{GCqDeB@m_@f@",
+                    "shortName": "26",
+                    "longName": "Tampico - Puertas Coloradas - Divisoria",
+                    "slug": "ruta-26-tampico-puertas-coloradas-divisoria.4uj",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145073",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3151",
+                    "encodedLine": "mrqfCddhtQ_CjCh@t@}ApBeHhTgCvH{AlAuBvBkDfEcAfAeAr@{B|@qB`AiBbB}@r@qA`@mMnA}O`H`BfMdCxOjFd\\LdEQvEgB`IqB~G}IhUa@|D`@rFjEzXxCbQlCrOnAdIpBvSp@hNfQvmApFz^g@HuFc_@mNbDyDj@??uBoRsAkIXsAGqBeCwTcE{XwAqY^_@SuExE[zIqAoAeImCsOyCcQwFeXaCuEGcGnA_EzEiGvEyF`CsGfBaIPwEMeEkFe\\eCyOaBgME}BhBaCvBo@dDkDrLaBxB_ApDgFSgKeF{AiEyBSwErOa@rGsBvHoTrZvL|BkI{CwAaClC",
+                    "shortName": "27",
+                    "longName": "Tampico - Santa Elena",
+                    "slug": "ruta-27-tampico-santa-elena.4uk",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145074",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3152",
+                    "encodedLine": "gb_gCdvntQzBGGuEW?b@uHYC^}IsGO[dIaVlD`GwJBqC_@sEMaAW^q@lEa@nA_CnDwA}@BkBjAmBrA{HxBm@gAwFOkBgAcH_@eGFmBRgApCuRbCiO`@_FrEHhKgDlLWzYxCtTxDxMkDxSQdKhEjb@fHzNpAxJ_Av]{G~TgJf}Bot@fRoEhNq@pGiBjMs_@rRrIk@|AiBl@uAu@??{RgIwJbZqBvDiNp@gRnEg}Bnt@_UfJw]zGyJ~@{NqAkb@gHeKiEySPyMjDuTyD{YyCmLViKfDsEIa@~EcChOqCtRSfAGlB^dGfAbHNjBfAvFyBl@sAzHkAlBCjBvA|@~BoD`@oAp@mEV_@L`A^rECpCaGvJ`VmDZeIrGN_@|IXBc@tHV?@hEmBR",
+                    "shortName": "28",
+                    "longName": "Unidad Morelos",
+                    "slug": "ruta-28-unidad-morelos.4um",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145075",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3153",
+                    "encodedLine": "cabgC`kntQ|MdG`HoG`CsAbDq@xKsJrIcInU_F~@pFxEmA|@fF|OuG~ECRbQEdMfHi@gAgK~EmA\\`CxBxDzByCr@gDn@kFyIiBoA_GaBsEyCeEM{APaG?mFxEiJ|GyHzDkUdN|BrRwDnQBzObFp]vF~LfAvOq@rd@mL|XsMxm@uRxnAy^tIw@xI]hFeBzL{^rRlIrAsDwF_C??mCiAiFwBwAfD{Lz^iFdByI\\uIv@ynAx^ym@tR}XrMsd@lLwOp@_MgAq]wF{OcFoQCsRvDeN}B{DjU}GxHyEhJ?lFQ`GLzAxCdE`BrEnA~F]zI_FlAfAfKgHh@DeMScQ_FBuLdFeCiMyHlBoU~EsIbIyKrJcDp@aCrA_HnG{M{F",
+                    "shortName": "29",
+                    "longName": "Águila Echeverría - Panteón",
+                    "slug": "ruta-29-aguila-echeverria-panteon.4un",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145076",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3154",
+                    "encodedLine": "{bigC~rltQ|SrH~ESKaBxSMIoKrSa@_AuZ|a@~I~PjD~MrCpNjD`I~AbJrBlIJ`ScJr_@uSv_@}SnH_AlEc@|En@|PrDnLeEvUFrT~ClLxCnEShLkDpSPxHxCrb@rHjMbB~SqAtj@yPlo@iUjn@yRxm@gQvQkBzBPdFeCfHwSzH`DpCsI~CvAqChI~An@xHvC|BoIcDqAkG`FwAjE_GyBnAgDbRnC_CeA{A{@yCjB}@fDyAe@eDoA|C{IeNmFuJbZmArDiBOwQjBym@fQkn@xRmo@hUuj@xP_TpAkMcBsb@sHyHyCqSQiLjDoERmLyCsT_DwUGoLdE}PsD}Eo@mEb@oH~@w_@|Ss_@tSaSbJmIKcJsBaI_BqNkD_NsC_QkD}a@_J~@tZsS`@HnKySLJ`B_FR",
+                    "shortName": "30",
+                    "longName": "Ganadera por Divisoria",
+                    "slug": "ruta-30-ganadera-por-divisoria.4uo",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145077",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3155",
+                    "encodedLine": "siggCfnotQdByN`TjEbHzA|DtAhA??_A`FiB[wAhBgLvAeMoO{Bn@oE_]uKn@mInYFy@_P`{@sACqFxE|@dDv@~GhAfDFlD[~EiBrT_MhKuFbj@iZtMmAnJpAnInB|Gs@xIyChXd@b`@`I~PmE~PXrQrFl\\jF~Kv@`MT`e@qL|MmGrgAw_@~fAiZnJe@fU}r@dItDpOid@xSxI`AiDh@iESwCq@iAsCwA\\yAq@_Cs@}AmBjFtDjA??uDkAlBkFr@|Ap@~B]xAsDkAw@~BYp@YtAk@bA}E`OwH}CsHtSoCnI{Rfk@iDKoJd@_gAhZsgAv_@}MlGae@pLaMU_Lw@m\\kFsQsF_QY_QlEc`@aIiXe@yIxC}Gr@oIoBoJqAuMlAcj@hZiKtFsT~L_FhBmDZgDG_HiAeDw@[gNgKJb@|Swu@dAx@~OoYGo@lI~\\tKo@nEnOzBwAdMiBfLZvAaFhB?~@iA?}DuAcH{AaTkE",
+                    "shortName": "31",
+                    "longName": "Tierra Alta - Niños Héroes - Casa Blanca",
+                    "slug": "ruta-31-tierra-alta-ninos-heroes-casa-blanca.4up",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145078",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3156",
+                    "encodedLine": "g{agCn`dtQlGkAvDcAjJqB`FkA`Fm@`KQGsEUkAbiAiAD_Ex@BFdCdGuAjCi@ry@cx@jOtQdr@f|@d^_LzS`N|F}MjCvAiFxLgCyA??fCxAhFyLkCwA}F|M{SaNe^~Ker@g|@kOuQsy@bx@kCh@eGtAGeCy@CE~DciAhATjAFrEaKPaFl@aFjAkJpBwDbA",
+                    "shortName": "32",
+                    "longName": "Madero - Heriberto Kehoe - Las Flores",
+                    "slug": "ruta-32-madero-heriberto-kehoe-las-flores.4uq",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145079",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3157",
+                    "encodedLine": "yabgC|{otQiOkMw[yXjBkCyB_CfEaGhAcC|A_AbHv@eBbEt@j@rJpGlCeP?gC|@wC}UkLa@k@fAcFrHrDJmEfFKtG~Dr@m@nsGkyJpBwBeBaC{BxBpUbZzB}BrBgC~B{Bj@o@lA_@zAhBjPzSpExFKTjBxBqEvEfElF_LfWnPhJoq@p}AnAv@nBd@rLaAxCdBbLXuFpMab@~BcGu[k_AgWiKve@{GsBaH}G_ZiJwDlLcJpFeFnDsF|N_KdO{QvPwFvEaE`EiVj\\uDlDgCdCiCrCy^|RfJhS?|A{BrH_@`LgAbQuH~QiE_JzFiFuH{Ls@l@uG_EgFJKlEsHsDgAbF`@j@|UjL}@vC?fCmCdPsJqGu@k@dBcEcHw@}A~@iAbCgE`GxB~BkBjCv[xX",
+                    "shortName": "33",
+                    "longName": "Madero - La Paz",
+                    "slug": "ruta-33-madero-la-paz.4ur",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145080",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3158",
+                    "encodedLine": "wkbgCb|dtQ`]w@{FqZ`PsDpGwAjGu@dKWQmEhAoA`fAcAXbZ~bBw_@TNjJcJnBdC|QyQj^nc@sCz@Tz@dB`CnC|BlC~Atf@dXtAeDhTdLtAkDpCpAdNrDrg@bN~cAvX|CoJdX|KaRji@wCyAdMq^oSmH??nSlHeMp^vCxA`Rki@eX}K}CnJ_dAwXsg@cNeNsDqCqAuAjDiTeLmUuLdBkDeUwLkBuBQ[{@`@iBp@k^oc@}QxQoBeCkJbJuB~BaDiE}mA`XmHnBVpC_Ch@c@_ZafAbAiAnAPlEeKVkGt@qGvAaPrDzFpZ",
+                    "shortName": "34",
+                    "longName": "Las flores - Madero -",
+                    "slug": "ruta-34-las-flores-madero-.4us",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145081",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3160",
+                    "encodedLine": "arqfCv}gtQjFeOrBiPu@]zHeTgX}KqAdDu]eO_k@{U{AbEqRcIwPaHXkAiBy@mCsA_JaCmBmAwAkBmF}CwJeF{DnJjBvMcBxDqa@qThAgCuLuGmDb@aVgYcx@|w@kQuXoI`IyF`CxFvNqGnCtAdFiAr@g@[_CgL{S|GpCfLekAh^l@h_@tEi@lDk@lGh@fL~CpQiMvBd@vCkCfDNuA`HaD~DoNvIyGjQgQ`TaV`ReUr^sPzMe]hSms@x_@eIr@sScD}hC}j@i[kDqs@rOsLnFkOfQuGzK_EpKqpBbkBwNvFuKbK}F`O_PtRqu@lv@{VfPuJ{BgKvBuh@x\\aUtPwzAxpAma@h]{NfUuJ~M{Yld@{c@`s@f@Jja@qo@}GdkAzpApNj@aH{pA{N??zpAzNk@`H{pAqN|GekAka@po@g@Kzc@as@zYmd@tJ_NzNgUd`@kZhs@yRv^qN`w@rDdDgBlDqVvBmEbP}OlFm_@dB{G|JmIdGmIdAgFpu@mv@~OuR|FaOtKcKvNwFppBckB~DqKtG{KjOgQrLoFps@sOh[jD|hC|j@rSbDdIs@ls@y_@d]iSrP{MdUs^`VaRfQaTxGkQnNwI`D_EtAaHgDOgCbCwCc@sBkAqBqAiCgB]xE}AQwGo@{Cw@kAdNkGy@mDj@uEh@m@i_@jy@eWgBmFk@sEzPiEzS}G~BfLf@ZhAs@uAeFpGoCyFwNxFaCnIaIjQtXbx@}w@`VfYlDc@tLtGiAfCpa@pTbByDkBwMzDoJvJdFlF|CvAjBlBlA~I`ClCrAhBx@YjAvP`HpRbIzAcE~j@zUt]dOvKlLsCfIaEuA_CqAeKlYrXrLdDiMr@oH^iC",
+                    "shortName": "36",
+                    "longName": "Santa Amalia - Polvorín - Madero -",
+                    "slug": "ruta-36-santa-amalia-polvorin-madero-.4uu",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145083",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3161",
+                    "encodedLine": "}s{fCp_zsQ|EYxFzv@uCPbAtPpK`Zjp@x`BM`EsK`KnYx]lBxC|]fc@cKpUbm@n[d@HtAn@jGyN~ExCvOpEvBj@p@}Cb@iAx@qDbQ`GPTlM~EHeC`Ac@jGaA|s@nZW|Afl@fSp@p@wJ`Yj@l@iBhPeDnIuWiL|J{X|HvCrCuI{~Bm`A??z~Bl`AsCtI}HwC}JzXtWhLdDoIhBiPk@m@vJaYq@q@gl@gSV}A}s@oZkG`AaAb@IdCmM_FQUcQaGy@pDc@hAqBxImJiC{HoCiAvCkBrD{EkCuAo@e@Icm@o[bKqU}]gc@mByCoYy]rKaKLaEkp@y`BqKaZgD{Fc@_Aew@b`@gEyLeEaf@v^qVp`@uS",
+                    "shortName": "37",
+                    "longName": "Escolleras - Madero",
+                    "slug": "ruta-37-escolleras-madero.4uv",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145084",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3162",
+                    "encodedLine": "eu~fCrnltQ{@kDcIgCg@Kq@y@y@|@s@nB`CbFh@n@GbC{PbJaFjAyB}QTsDs]sZoKdU_AQ_J{Scu@b`@{KGaYcHse@wKGqUb@mIK{ObBcBGyGfPd@IwVz`@uDfBKz@PhJo@vEcBaD}LxIiC{DmOe@XkEkOni@sPzDfO~z@wWnIeBvFoWhWlH`O_p@`OzDQaj@z@H?zC{@eD?aCz@A?lChKyBbz@qx@xEjGnUuU`SlVzRuQhB|BuBzBoBaC??nB`CtB{BiB}B{RtQaSmVoUtUyEkGcz@px@iKxB?mC{@@?`Cz@dD?{C{@IP`j@aO{DaO~o@iWmHwFnWoIdB_{@vW{DgOoi@rPjEjOd@YzDlOyIhC`D|LwEbBiJn@{@QgBJ{`@tDHvVgPe@FxGcBbBJzOyAvDg@zEFpGuKXVpEnt@dP`YbHzKFbu@c`@~IzS~@PnKeUr]rZUrDxB|Q`FkAzPcJFcCi@o@aCcFr@oBx@}@p@x@f@JbIfC",
+                    "shortName": "38",
+                    "longName": "Circuito Norte",
+                    "slug": "ruta-38-circuito-norte.4uw",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145085",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3163",
+                    "encodedLine": "ag~fC|z{sQtQiMh@Vn@fBjCl]fAdIfS|e@vSrg@|b@zi@yf@ve@_i@vg@_KvBQiCmAT`@xp@h@bKzA|DbFfEXt@vBm@f^~Kjc@bLhh@bO~a@zKfDhBfNm@tE|AtVz@jFgBjJmElF_AfC}AvBsDpAyHfAeDnA}@tSeFlOsIxC?nDn@tW`MxX~Lj`@|PvR`IyCmAnCrAd@{Do[wN}AvDyQsIsWaMs\\uNkDw@}CFgP|HcSjF{AfA{@fBqBdKgBdCiC`B{D~@aEfBaEfCkFfBuV{@aEsBsN~@oDeB{OaEcQyEwSiGiSgF_e@uL{\\_LwBl@Yu@cFgE{A}D]mDC}Ei@qp@lAUPhC~JwBnh@_h@hg@oe@}b@{i@wSsg@gS}e@gAeIkCm]YoBSe@Ke@c@FWn@mQbN",
+                    "shortName": "39",
+                    "longName": "Playa Sur - Refinería",
+                    "slug": "ruta-39-playa-sur-refineria.4ux",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145086",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3164",
+                    "encodedLine": "chqfCfbgtQb@qEw@QdFuN}MyFnAkDcIgDoAhDmv@}[q\\gN}HwCOa@nS|IoIjXcOsD{KiDmXaH{EwBkMmHiUcLyUoM{EwC{AwAo^|Ky]_c@aDsEuMkQkOaQkYfX_McPe@OsDeE}]x]uB{IwMxE}BX}HuR_HyNvPsJw\\{d@y_@pMO~@iANYr@}GbCK|Mk@ZgDHSwGu@_AAyAmCDOUSBGRyBTf@tIg@uIxBUFSRCNTlCE@xAt@~@RvGfDIj@[J}M|GcCXs@hAON_Ax_@qMmf@cr@??lf@br@y_@pMO~@iANYr@}GbCK|Mk@ZgDHSwGu@_AAyAmCDOUSBGRyBTf@tIg@uIxBUFSRCNTlCE@xAt@~@RvGfDIj@[J}M|GcCXs@hAON_Ax_@qMv\\zd@wPrJ~GxN|HtR|BYvMyEtBzI|]y]rDdEd@N~LbPjYgXjO`QtMjQ`DrEx]~b@n^}KzAvAzEvCxUnMhUbLjMlHzEvBlOlEfGyWtoBnx@lN|F}ClIuHyCiK~XdXvLdGq[",
+                    "shortName": "40",
+                    "longName": "Playa Norte - Refinería",
+                    "slug": "ruta-40-playa-norte-refineria.4uy",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145087",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3165",
+                    "encodedLine": "}a`gCvqntQhBoG`VcDvGf@r@_PMcBuHzCy@iF_FlAoAcG{EfAqDwZ|Imq@sNaCeA_CSiFpJ{OdHeLne@ic@lHmJvLqNtJeMhCcQf~@eaAnK_DhDqDlStWnBdCbVgVhV|N|Xwo@lObIuFlMfJ{QgJzQxLjGqAxCtPdJrDsIdA^}@vDoSyKOT??NUnSxK|@wDeA_@sDrIuPeJpAyCyLkG??tFmMqKqF{@xCgLsFoV|i@oM{HcVfVoBeCyVa[mM|Ly^h^m^za@iCbQ}FjDaJzFuGvOeFdJoe@hc@eHdLgKbNuBtGaAlBoAl@k@GQeArAsA|AO~IlEvKtA}Ilq@pDvZzEgAnAbG|HgBdA|EjEuBLbBs@~OwGg@aVbD",
+                    "shortName": "41",
+                    "longName": "Unidad Morelos UAT - Madero - Col Árbol Grande",
+                    "slug": "ruta-41-unidad-morelos-uat-madero-col-arbol-grande.4uz",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145088",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3166",
+                    "encodedLine": "udegCz_ntQnBb@~Gr@g@go@vUMe@aHk@yX]wOn@c]vHHP{_@o@}BtVcIyGoWfS}GyDsNx]qKzD`O_OhEhCbLd_@sLyBiHvJsCx^nEbHn@`LC|Em@xLLfL|CmAa@`CoYdX|HpDHlOzEcDnN~t@nR`HpAz@oE^}Ez@wDnGpBpCh@fEFvHdDnA`ApRXdb@iClFwM|Jd@lGoAnIlRrVrDpIkHhEkBfP|N|Ef@`Y_FbAaEpUnJ|HiUdf@zS|AmDyq@yYSrAI|FmApCiBr@iH}BqBb@{BrAKrD??JsDzBsApBc@hH|BhBs@lAqCH}FRsAxq@xY}AlDef@{S}HhUqUoJcA`EaY~E}Eg@gP}NiEjBqIjHsVsDoImRmGnA}Je@mFvMeb@hCqRYoAaAwHeDgEGqCi@oGqB{@vD_@|E{@nEaHqA_u@oRbDoNmO{EqDIeX}HaCnYlA`@gL}CyLM}El@aLBcHo@y^oEwJrCxBhHe_@rLiCcL~NiE{DaOy]pKxDrNgS|GxGnWuVbIn@|BQz_@uUa@K|\\GdMR`Mf@nMRvIuHOf@fo@_Hs@",
+                    "shortName": "42",
+                    "longName": "Pedro José Méndez - Carnitas Orta",
+                    "slug": "ruta-42-pedro-jose-mendez-carnitas-orta.4v1",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145089",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3167",
+                    "encodedLine": "ef_gC~ultQgDe@oDmHcLs@e@Gw\\}YzI{R|BYlCcDtBqFfUk_@tUsQbXu[`NsPrGsItC{QlRsSvbB~d@tMpDtCvAtN{@rDtBrWr@xD_AdHmEjJsCzEmD|CiPn`@yLvFgDlFHjtAnm@??rU|J_AbDcB]??lAkD^aEuB_AcWkLeBbEmByA{fAcf@mFIwFfDo`@xL}ChP{ElDkJrCeHlEyD~@sWs@sDuBuNz@uCwAuMqDwbB_e@mRrSuCzQsGrIaNrPcXt[uUrQgUj_@uBpFj@TbAr@hBfAlMxCwIjj@EfCF|ArBhPlGgAbLeG",
+                    "shortName": "43",
+                    "longName": "Aviación por Boulevard",
+                    "slug": "ruta-43-aviacion-por-boulevard.4v2",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145090",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3168",
+                    "encodedLine": "um{fCdfbtQbFzG|KyKpBlCrFmFxf@zm@tFoFjIzJwFpFcDoEqQrFuWjWbPhSj@^jN~Hxi@zYMd@rBbCjKvFbAmCtHtC`E|A~CxB|IeB~DeI`BaInBmCpVcHrNqG`LxCr|Ahq@hDtAKEn@cEq[wM_AjDodAid@aLyCsNpGqVbHoBlCaB`I_EdI}IdB_DyBaE}AuHuCcAlCkKwFsBcCLe@yi@{YkN_Ik@_@cPiStWkWpQsFxBs@`EwAkFqGuFnFyf@{m@sFlFcCeCiKlKmFwG",
+                    "shortName": "44",
+                    "longName": "Obrera por Republica de Cuba",
+                    "slug": "ruta-44-obrera-por-republica-de-cuba.4v3",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145091",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3169",
+                    "encodedLine": "}y`gCl}ctQoGzApBhK}L|CUEsA^pBxKcA?VjHnPs@xBjn@qP~EpCrKua@pMuCcL`RsF_E{Ngs@pThEdOf@EfGhWmV~Hl@zBU~_@yT[y@bf@nAx_@lRjEhJv@`G_@~q@w^~^cSpIw@rH?lN|DhHg@jJkDja@|BtVrFvUqEbMXtMtEf^fFzMvBfSgAzb@qLxXyLd|@_Zru@aSxK}DnL]rCG`FgB~Oyd@??aDiAyOvd@eArDsCFoL\\yK|Dsu@`Se|@~YyXxL{b@pLgSfA{MwBg^gFuMuEcMYwUpEuVsFka@}BkJjDiHf@mN}DsH?qIv@__@bS_r@v^aG^iJw@aFmA_Aid@b@}d@rHFT_`@m@{BlV_IgGiWg@DiEeOfs@qT~DzNaRrFtCbLta@qMqCsKrIuBdAdAf_@cLa@eA}HdBwOrEqBkn@oPr@WkHbA?qByKrA_@TDfUqFoBqKkGzA",
+                    "shortName": "45",
+                    "longName": "E. C. González por Av. Hidalgo",
+                    "slug": "ruta-45-e-c-gonzalez-por-av-hidalgo.4v4",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145092",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3170",
+                    "encodedLine": "e{agCr`dtQd^aIhG_AfKQOmEvAqArH?SaGtCyBmCyFxa@eOrQsFzDvPfAnVXnt@zAnFxF`G~AJpnC`u@zFhCjMuAtEzB`Yh@hGeDnS}H`G_SvU}GjPwIlENrlBjy@SF_B~IeCi@hDeJT{D_[_N_BjDykAsh@mEOkPvIwU|GaG~RoS|HiGdDaYi@uE{BkMtA{FiCqnCau@_BKyFaG{AoFYot@gAoV{DwPsQrFya@dOlCxFuCxBR`GsH?wApANlEgKPqGz@_^fI",
+                    "shortName": "46",
+                    "longName": "El Blanco - Kínder - Las Flores",
+                    "slug": "ruta-46-el-blanco-kinder-las-flores.4v5",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145093",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3171",
+                    "encodedLine": "crhgC|lltQf^a@f@l[bPnFvAkYsAqf@xkBda@`Ho@rrAwr@`IYvIcQbQ}YjUwQ~]sa@zNwQ~DuLl@qHzQoS`z@jVfs@fRrFvBzNi@|DrBhXd@bFeBdToIxGyRfCaCtX{HlJcFpGh@rsAdm@nUfJgC|I@AkG_CjAkDjD`B|@sDf@iEe[_NkAzD}iA}g@qGi@mJbFuXzHgC`CyGxReTnIcFdBiXe@}DsB{Nh@sFwBgs@gRaz@kV{QnSm@pH_EtL{NvQ_^ra@kUvQcQ|YwIbQaIXsrAvr@aHn@ykBea@rApf@wAjYcPoFg@u[w^n@",
+                    "shortName": "47",
+                    "longName": "Cetir 78 Bosques por Boulevard",
+                    "slug": "ruta-47-cetir-78-bosques-por-boulevard.4v6",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145094",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3172",
+                    "encodedLine": "gchgCnhftQ`@\\bCSbPaD|EdJ`HhQbq@qVzDvFvb@}JlR~r@jR{F|S_Hxd@mN`VuHxImB`kAa^jAc@\\x@xcAtYhq@jRlUbG|CdA|A|@|Mw@~DnBxYh@rCgAvHoEnIqBxBcBtBqDjC_MnLoElH{AbP_IlDQnmB`z@}BzI@?sGeCjFkNmW{L}AlD_mA}h@mDPcP~HmHzAoLnEkC~LuBpDyBbBoIpBwHnEsCfAyYi@_EoB}Mv@}A}@}CeAmUcGiq@kRycAuY]y@kAb@akA`^yIlBaVtHyd@lN}S~GkRzFmR_s@wb@|J{DwFcq@pVaHiQ}EeJcP`DcCR",
+                    "shortName": "48",
+                    "longName": "Germinal por Boulevard",
+                    "slug": "ruta-48-germinal-por-boulevard.4v7",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145095",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3173",
+                    "encodedLine": "{ebgC|_ptQwBaC_C`CtBdCbGiGeO{L}BaClIeMpIwOvLwXjAaIv@uU|BqIhEgHrQq`@tLgAdSxErPyEpXh@f`@nHfPwDzTr@bN~Ed^`F~IhAtLUlg@kL~QwIdk@iR~S}H~u@aTvRoFvIYtRum@}HiDjD~A}Tlp@??|Tmp@kD_B|HhDuRtm@wIXwRnF_v@`T_T|Hek@hR_RvImg@jLuLT_JiAe^aFcN_F{Ts@gPvDg`@oHqXi@sPxEeSyEiHsDuGjFsSbLoJdGrJhTaCfJw@tUkA`IwLvXqIvOmIdM|B`CbO~LeGfGqBeC~BgCrBhC",
+                    "shortName": "49",
+                    "longName": "Tancol",
+                    "slug": "ruta-49-tancol.4v8",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145096",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3174",
+                    "encodedLine": "krggCptetQjDpN~E|IdHfQfq@uVnDxF`c@aKx[jkAsVbIl@zBSx_@wTY_Aze@nA``@x[rG|Fa@|GaCrdAak@pE}BdHm@dGQvJbBtH`BpKqChIiAb[nBtWdGhOeE`RClK|Dxl@dKnLMdm@gNtKoFtQcHjv@sVfw@qThKeDhJYbS{m@yHwCzCnAsTnp@??rTop@{CoAxHvCcSzm@iJXiKdDgw@pTkv@rVuQbHuKnFem@fNoLLyl@eKmK}DaRBiOdEuWeGc[oBiIhAqKpCuHaBwJcBeGPeHl@qE|BsdA`k@}G`C}F`@oOcDgAkd@j@id@xH@Ry_@m@{BrVcIy[kkAac@`KoDyFgq@tVeHgQ_F}I",
+                    "shortName": "50",
+                    "longName": "Colonia Del Valle",
+                    "slug": "ruta-50-colonia-del-valle.4v9",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145097",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3175",
+                    "encodedLine": "}higCdwgtQdMxg@_y@~VhA`Eb~@kYfGfVmEvAfI`\\~LgCzDoAjKcH`D}BbLeBl[}El|@xBPc`@o@yBxEaB|O{E}GuWxo@aS~[cKbi@kOddAi[nAhA`wB~l@`UrFbEbCjO{@`ErBhV`@jEq@dH{EnK}CrC{B|DmPpLmEbNeE`JcF`HXrjBxx@_CxIfBj@??gBk@v@eDqAk@lAsDTwD}ZqNuApDijAug@aHYaIzE}DtAeIvBqLlE}DlPsCzBoK|CeHzEkEp@iVa@aEsBkOz@cEcCaUsFawB_m@e@IoeAhYag@lRwAmAi[nJyo@`S|GtW}OzEyE`Bn@xBQb`@m|@yBm[|EcLdBaD|BkKbH{DnA_MfCgIa\\lEwAgGgVc~@jYiAaEtx@yVoMsg@",
+                    "shortName": "51",
+                    "longName": "Serapio Venegas por Boulevard",
+                    "slug": "ruta-51-serapio-venegas-por-boulevard.4vA",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145098",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3176",
+                    "encodedLine": "mtfgCfuftQyAwEeK|DnEtKdq@kVlDvFho@cOrB`A`Cm@tBs@pDgA}BoIfC{@?g@`PMQmHNe@tRt@pGr@J`Cna@kBe@aMdOw@nSjG|AeHjl@xPp@uChDt@tBpBzAbAzAk@~@lApj@rOvp@nRb[nItNlDlEpA`DbBlNw@|DvA`Qr@bFL~DmAbHmEhJ{BdCeBzAsDvBcLdBeAvJyCxE{@~K_FrBkBlDa@xDh@lgBpw@f@eEm[mNgAfD??fAgDl[lNg@dEmgBqw@yDi@mD`@sBjB_L~EyEz@wJxCeBdAwBbL{ArDeCdBiJzBcHlE_ElAcFMaQs@}DwAmNv@aDcBmEqAuNmDc[oIwp@oRqj@sO_AmA{Aj@{@Vq@RgD{@wCeAkl@yP}AdHoSkGeOv@d@`Moa@jBKaCqGs@uRu@Od@PlHaPL?f@gCz@|BnIqDfAuBr@aCl@sBaAio@bOmDwFeq@jVoEuK|JuDzArE",
+                    "shortName": "52",
+                    "longName": "Santa Elena - Ampliación. - U. Nacional por Boulevard",
+                    "slug": "ruta-52-santa-elena-ampliacion-u-nacional-por-boulevard.4vB",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145099",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3177",
+                    "encodedLine": "a_ygC`dxtQr{@iX`t@`D|Ca@fAwBxBeV`KwKfJgKpFua@BiA|@_DtAeAbCiAdBw@hGwI`B{F|w@ux@pZsZv]e_@`aAi{@|U}ShM{PxDoHtHqPbQyQ~HgEpl@oKnKmCzSjBzoBtb@n`@pIvOhCdG]p{@}b@xVyN~KiA`HFlMfDpGGlHkDtVXhVlE~MvBvNmErQJ`KfDno@zKzUoB~b@_LdUsK`^qK|SkIjd@qM~g@sNrQs@lFqBdMe_@vMbGiAjDcSuI}L|_@??|L}_@bStIhAkDwMcGeMd_@mFpBsQr@_h@rNkd@pM}SjIa^pKeUrK_c@~K{UnBoo@{KaKgDsQKwNlE_NwBiVmEuVYmHjDqGFmMgDaHG_LhAyVxNq{@|b@eG\\wOiCo`@qI{oBub@{SkBoKlCql@nK_IfEcQxQuHpPyDnHiMzP}U|SaaAh{@w]d_@qZrZ}w@tx@aBzFiGvIeBv@cChAuAdA}@~CChAqFta@gJfKaKvKyBdVgAvB}C`@at@cD",
+                    "shortName": "53",
+                    "longName": "Altamira",
+                    "slug": "ruta-53-altamira.4vC",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145100",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3178",
+                    "encodedLine": "k_ygCxcxtQvn@eSrJsClu@zCrBc@fBaB|BoUtAqCxRgStAyDrBuU~@yEZwBrAeD`C}AzBy@jDaDpCmE|AeF|aA{cA`X}WpVaYnw@kq@|k@wj@jMkZxXqYrp@wMjL_C|zCvl@CtIxKGc@sFsA{j@z@y]cq@gB}i@hIuInFaEpD{SzEiHwYpE{AiJm^ps@{T~@~DjEuAvAa@d@ZXt@ns@wPrCpO_IvCcF`BwAdAe@rAsAz]b@lBvArA??wAsAc@mBrA{]d@sAvAeAbFaB~HwCsCqOos@vPYu@e@[wA`@kEtA_A_Eqs@zThJl^qEzAhHvYzS{E`EqDtIoF|i@iIxd@nBy@hf@LhBAdCx@nUb@hA}zCwl@kL~Bsp@vMyXpYkMjZ}k@vj@ow@jq@qV`YaX|W}aAzcA}AdFqClEkD`D{Bx@aC|AsAdD[vB_AxEsBtUuAxDyRfSuApC}BnUgB`BsBb@mu@{CsJrC",
+                    "shortName": "54",
+                    "longName": "Col Nuevo Tampico - Altamira por Carnitas Ortas",
+                    "slug": "ruta-54-col-nuevo-tampico-altamira-por-carnitas-ortas.4vD",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145101",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3179",
+                    "encodedLine": "enigC`nltQne@k@SiRbAeVxaA~Tva@fJhf@jJxGn@pG_A`pAcr@nRw@bPdE`Go@jJcEbU~@z`@jHpHYvK}CnONdJjDbq@~KxYeDd[iIbu@eYdrAs`@`PaFpLy@bZg}@vRtI??nRoi@jBv@jApAb@hDYhDqAhEkE|Ok@Ed@eEbAsDkVgKaI|SeDwAkZ`}@_Lt@aP`FerAr`@cu@dYe[hIyYdDcq@_LeJkDoOOwK|CqHX{`@kHcU_AkJbEaGn@cPeEoRv@apAbr@qG~@yGo@if@kJwa@gJyaA_UcAdVJ`Rod@jA",
+                    "shortName": "55",
+                    "longName": "Bosque",
+                    "slug": "ruta-55-bosque.4vE",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145102",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3180",
+                    "encodedLine": "emvfCb~jtQnBcAjM{@fCcBvB_AzBW~CVxApArB]pAmAz@{BvBcDzMuD|AkInXkIw@uBbBcH]kEfOq@zACrEaBdM}^xMzFoA~C_SmIcMp_@??bMq_@~RlInA_DyM{FeM|^sE`B{ABgOp@\\jEcBbHv@tBoXjI}AjI{MtDwBbD{@zBqAlAsB\\yAqA_DW{BVwB~@gCbBkMz@",
+                    "shortName": "56",
+                    "longName": "Bellavista",
+                    "slug": "ruta-56-bellavista.4vF",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145103",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3181",
+                    "encodedLine": "o}egCntltQBxR|B?jOzEdTdBLhSzKbHxOpHfAXvCoEtWdUdLaQyCsASCcAwCS_AiJmFF[w@_@bBkE}Gs@n@aA|FkNpPdIvEhK`CaAp@xAfDgIlDmJdAoZbCcJOaCaJcR`Z_PxDeBtGs@zCSvIvAvIjB|HQvF_DzMOnNbA~]lGrScEjNJhNrFrk@rIhNUxj@uN~[mN`q@cUrv@mTzQcFzJm@pRgm@}CoA??_DdJwOne@wCN{QbFsv@lTaq@bU_\\lNyj@tNiNTsk@sIiNsFkNKsSbE_^mGoNcA{MNwF~C}HPwIkBwIwA{CRuGr@yDdBaZ~O`JbRN`CcCbJeAnZmDlJgDfIq@yAaC`AwEiKqPeI}FjNo@`A|Gr@cBjEv@^GZhJlFR~@bAvCRBxCrAeL`QuWeUwCnEgAYyOqH{KcHMiSeTeBkO{Ea@}DEwAsAE",
+                    "shortName": "57",
+                    "longName": "Tancol",
+                    "slug": "ruta-57-tancol.4vG",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145104",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3182",
+                    "encodedLine": "k`cgCtpitQhAoM]U_Mmg@zlA}^|@pAlgAq\\heB_i@jZrIpEjBxo@{n@hB~BfCfCjAsCgBiB??}QxQeAyAQSGOq`@t_@qEkBkZsIk}Apc@yjAf\\oEdB{lA|^tMnh@cAfM",
+                    "shortName": "58",
+                    "longName": "Madero - Rev. Verde",
+                    "slug": "ruta-58-madero-rev-verde.4vH",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145105",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3183",
+                    "encodedLine": "sfxfCjwjtQ}AiDpCoAwKoYiBwFiC_NiQo}@kByJvx@yeByGsD??gCnF}n@ryArEbUhQn}@hC~MpQvf@cCfA",
+                    "shortName": "59",
+                    "longName": "Águila - Madero",
+                    "slug": "ruta-59-aguila-madero.4vJ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145106",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3184",
+                    "encodedLine": "kkzfCbgktQoDfDyFqA~@iGhGx@nBlB`GoFtEmA~DDA}v@yK{CsQgJaKmDkFmC`@iAzA{Cr@yB`AsECsDvAcFvAgHnXtHCcDfOk]pBdItV}f@z`@y}@}GkD??kFxLqYno@aH|OeHtQwGhOaDdHsWgH}DxQwAbFBrDaArEs@xB{AzCa@hAjFlC`KlDrQfJxKzC@|v@_EEuElAuG|F{A{BiGy@_AhGvFvAjDkD",
+                    "shortName": "60",
+                    "longName": "Madero - Blanco Palmas",
+                    "slug": "ruta-60-madero-blanco-palmas.4vK",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145107",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3185",
+                    "encodedLine": "atxfClzctQsApCn`A~h@kBtCgAhDbHbDbRfElBwIvF`B`DcPtc@lLtaAdXxI|CqApDnRfIABqAbDuCgAvCwIeX_LuaAeXuc@mLaDbPwFaBmBvIcRgEcHcDfAiDjBuC{TkLeAzBy]gRjDoHsLoGoAzC",
+                    "shortName": "61",
+                    "longName": "Obrera - Penal",
+                    "slug": "ruta-61-obrera-penal.4vL",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145108",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3186",
+                    "encodedLine": "stxfChrctQcRzQbDzDdLbGoDpHfg@rW{BpFxAmDvOhIjOlGdJtDxAqFvKaE~HgBxG_D~DoCvFe@rfApd@`FhCAAx\\~Nf@wDiC{A{VmK{A`DsmAyh@wFd@_EnCyG~C_IfBwK`EyApFeJuDkOmGwOiIyAlDzBqFg^aR|CkHmGwDeLcGeDkD`RuQ",
+                    "shortName": "62",
+                    "longName": "Obrera - Madero",
+                    "slug": "ruta-62-obrera-madero.4vM",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145109",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3187",
+                    "encodedLine": "q`~fCz}mtQLaJyDgMiC_EU_BP}GGqEfBuExJuLxEmWvNjCzJiBhHkA|NLnIrClc@~H|LxAfLe@|JcBr_@_KlH{DuIoTaFcN_CcH}BwMiHw_@na@oBb@e@xEkL??cLg@qC{A{M|@}FoCwIgBxFh[hIl_@|BvM~BbH`FbNtInTmHzDs_@~J}JbBgLd@}LyAmc@_IoIsC}NMiHjA{JhBwNkCyElWyJtLgBtEFpEQ|GT~AhC~D`D|IHpM",
+                    "shortName": "63",
+                    "longName": "Seguro Social - Lomas de Infonavit",
+                    "slug": "ruta-63-seguro-social-lomas-de-infonavit.4vN",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145110",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3188",
+                    "encodedLine": "gm{fC|~ysQfGjv@sC^v@hRx[dx@~_@p`ATdB_A`CmJdJr{@~fAwEnKlLfGiAzCcHkD??lAoCtHyNgB{BiEiFqp@my@jBeLd@kCUeB_`@q`Ay[ex@w@iRpCSqGqv@",
+                    "shortName": "64",
+                    "longName": "Madero - Barra",
+                    "slug": "ruta-64-madero-barra.4vP",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145111",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3189",
+                    "encodedLine": "wpqfCd{gtQnB{FwWeL{V~t@mALqNXwRhGepBhm@mM~F{M`G{b@vIG{P}DA??oEpACtOxKi@zb@wIzMaGlM_GdpBim@vRiGpNYnHeBnMw_@zR~IdFiO",
+                    "shortName": "65",
+                    "longName": "Águila",
+                    "slug": "ruta-65-aguila.4vQ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145112",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3190",
+                    "encodedLine": "_y}fCp}ctQrr@}Opb@gJjGjIfN_NvWj\\d^cLrDiAlA]nHqBfJ`FiF|LoTeMe^bLwWk\\gN~M{DsE_xAx[",
+                    "shortName": "66",
+                    "longName": "Madero - El Blanco",
+                    "slug": "ruta-66-madero-el-blanco.4vR",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145113",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3191",
+                    "encodedLine": "ixxfCv{gtQpWgBlFoM}ISyEgBiLr@jBeE??lIk@vHwQgCsAxSue@eHgDgLoGoCsAjDoHyCwA??lDkHlPbJyH~QbCrAdHfDySte@fCrAwHvQmIj@??kBdEhLs@xEfBvI\\mFbMgWtB",
+                    "shortName": "67",
+                    "longName": "Central Camionera - Madero",
+                    "slug": "ruta-67-central-camionera-madero.4vS",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145114",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3192",
+                    "encodedLine": "caqfC`kftQoFfOj@d@uArJc@bEoCjI{WiLdKeYtH`DtCsI}g@{S}R_Ioy@k]cCu@iCoA]tAeFzTcR{EqCuAaK_Gek@eZjFgM??jC|AaFvLnf@vW`K~FpCtAjNvDlDiPtBj@vAoFhCnAbCt@~[hNpAaEr\\bNlRbI`YxLhAqDrHfDy@dD~M|FeFpNj@n@",
+                    "shortName": "68",
+                    "longName": "Madero",
+                    "slug": "ruta-68-madero.4vT",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145115",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3193",
+                    "encodedLine": "onxfClhctQoG_IgRlRcFzEUNsZs_@gG}HsBeDmBsBcW{Zci@tg@{AiByAgBqM{OqNfNwB}I_MlEqTbH??pTcH~LmEvB|IpNgNpMzOxAfBzAhBbi@ug@bWzZlBrBrBdDfG|HrZr_@TObF{EbNcNpGlHj@MHYjAsA",
+                    "shortName": "69",
+                    "longName": "Madero - Candelario Garza",
+                    "slug": "ruta-69-madero-candelario-garza.4vU",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145116",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3194",
+                    "encodedLine": "smcgC`ygtQj}@uX`OgEjA`B`mBom@zOrFxZ|Hv}@pVxVbHxLfD`DtApNk@`E`BjWl@nE}@jIiFzG}A`EyC|DgPhEaChSyFhPkGrTlHbrAhl@pDrAZwD??_A]gJ_E}MiGsAhDwy@g_@sTmHiPjGiSxFiE`C}DfPaExC{G|AkIhFoE|@kWm@aEaBqNj@aDuAyLgDyVcHw}@qVyZ}HwPgHkjB|i@eCbAwmAd_@",
+                    "shortName": "70",
+                    "longName": "Germinal por Boulevard",
+                    "slug": "ruta-70-germinal-por-boulevard.4vV",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145117",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3195",
+                    "encodedLine": "_zvfCzcctQ}AhBrBjB~BlBN^ITxMnHrBdCfEfBhCn@|Bt@hF|BWvAvd@`Rxy@d]j^vN}CxIuHcDaKdYvWhL??rCkI~ByP_AYpFgO_NsFnAgDeIgDoAjDgjA{e@kArDkd@}QVwAiF}B}Bu@iCo@gEgBsBeCyMoHHUO_@_CmBmBiBnAoB",
+                    "shortName": "71",
+                    "longName": "Galeana por Sección 21",
+                    "slug": "ruta-71-galeana-por-seccion-21.4vW",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145118",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3196",
+                    "encodedLine": "u_yfCphhtQbQs@fIf@jDXFfPlmAqAMsHzKZfFOpGfAtA@|@wD~NtFhHoTdNdF~HkUnf@fT??|EyNwWeLeWdu@oTz@eF_CqDeAiGmBkF}BiChGsCa@}R|DmJMsRPap@r@iRBqGa@wEiU",
+                    "shortName": "72",
+                    "longName": "Colonias",
+                    "slug": "ruta-72-colonias.4vX",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145119",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3197",
+                    "encodedLine": "wqxfCh{gtQ|PsAhFgMrOBnBUpJpQxUhD|Aa@pHsIbCCtAXpIpIrCrB`C`@vZ{EfBiDtUtIxHuUpf@hTlAmD}As@??oCgAyKqEe]wOm@dKcCpCyDDoDcBqBGgBtCK`DgBhDwZzEaCa@sCsBqIqIuAYcCBqHrI}A`@yUiDqJqQoBTsOCiFfM",
+                    "shortName": "73",
+                    "longName": "Central Camionera por Perimetral",
+                    "slug": "ruta-73-central-camionera-por-perimetral.4vY",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145120",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3198",
+                    "encodedLine": "avpfC`ietQaCvA]}AkCaEiFqJIJnJtP`@vAcGzDmCbIsQ`i@nMpFgAnD|At@lAwDtDyNdC_JlAuD\\{DQmDuByBmA[Z}BaBeE`@qAbG{DVQjBqA",
+                    "shortName": "74",
+                    "longName": "Isleta Pérez",
+                    "slug": "ruta-74-isleta-perez.4vZ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145121",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3199",
+                    "encodedLine": "gbtfCxdotQpHiGn@aKd@mGtHmWeAkHzb@s{ApBt@bE_OjAqAxBgIr@sGz@uC~Nmi@gB{@??{@hDk@QmBlGgDrE`@n@yAvBsErNlFzBw@lCs@rGyBfIkApAcE~NqBu@{b@r{AdAjHuHlWe@lGo@`K",
+                    "shortName": "75",
+                    "longName": "Morelos - Moralillo",
+                    "slug": "ruta-75-morelos-moralillo.4va",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145122",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3200",
+                    "encodedLine": "wdtfC`pjtQFo@\\UbBsBh]aIxCq@`Bo@GU|Zo}@|HfD~CuIl@aA^LGt@??Fu@i@hCq@vC_CnEmBbBoBl@uHxUcGiCuL|]FTaBn@yCp@gSrEb@rBuJnE}BSJw@",
+                    "shortName": "76",
+                    "longName": "Cascajal",
+                    "slug": "ruta-76-cascajal.4vb",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145123",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3201",
+                    "encodedLine": "ml~fCzlhtQxVg[lb@bMrCiLlY|HjH_\\fCx@fEqRI[fRmc@vBkAjDoD`F~GjAt@zBfAtKcWjDqHv@}BZi@jC`BjCxAvFgMiCyAuCeC`CsBxAlBnClAxC|A??kDpHmBpEgCzFyC}AmGsDkDpHuKbW{BgAkAu@aF_HkDnDwBjAgRlc@HZiB`ImCw@cKle@g^mJeCbLy]aKjDyF[q@yKnHuFtNiGrI",
+                    "shortName": "77",
+                    "longName": "Madero - Universidad",
+                    "slug": "ruta-77-madero-universidad.4vc",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145124",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3202",
+                    "encodedLine": "ylcgCbygtQtGrWsVbIl@rBU~_@wTa@y@lf@pAv_@p]tGbJoBdnA}o@jLuAjTlCxF`@zLsDfV\\za@|HtP}DzQ?hYjI`^xExHCrN_Anc@yLz[eN~w@uW|l@gPnQqFxIu@lHQtFoBhHmTxH`DrAqDG@aNsFuCpJyEtNsAvDmHPyIt@oQpF}l@fP_x@tW{[dNoc@xLsN~@yHBa^yEiYkI{Q?uP|D{a@}HgV]{LrDyFa@kTmCkLtAenA|o@cJnBgQkCyAql@t@c]xHFT_`@m@sBlVcImGkW",
+                    "shortName": "78",
+                    "longName": "Germinal por Águilas",
+                    "slug": "ruta-78-germinal-por-aguilas.4vd",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145125",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3203",
+                    "encodedLine": "qqggCnwetQjCbKhFxJ`HvPfRyGxNyFzM}ExDxFdo@aOdB`AhBq@tAOjFgByBoIhCy@Di@xOOKkHFg@lQj@|H|@R`G~i@yBn@lRxBK\\sAnIxBvGwYnWdHlJ{b@~NlELzLb@fBjC|D`DdCVp@fZsI|QdFrMtDnI|BvI`CdIkTjAmDlEvBr`@c`@hBfC~QwQ??}AeBuAf@k@n@wJhJqBrBs`@b`@mEwBkAlDeIjTwIaCoI}BsMuD}QeFgZrIWq@aDeCkC}Dc@gBM{L_OmEmJzb@oWeHwGvYoIyB]rAyBJo@mR_j@xBSaG}H}@mQk@Gf@JjHyONEh@iCx@xBnIkFfBuANiBp@eBaAeo@`OyDyF{M|EyNxFgRxGaHwPiFyJ",
+                    "shortName": "79",
+                    "longName": "MAUN",
+                    "slug": "ruta-79-maun.4ve",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145126",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3204",
+                    "encodedLine": "uh~fC|ritQwPaWfMiNhVuYfd@lMvObDvTdEjLnFbNjHlHdC`LrDlDNpFbDpKjFtI|A~MtAnOmCjITz]mCjMcChKeCrIgAlHoBnQfDrVaHhKq@bSqm@yCmAoAhD??mAvD_BxE{Lt^yD^sV`HoL|CsCyHWB{@wGwPtC{@Yg[\\yPHAxBs@Rb@jKeHNoIDkNRsEMkKyAoD_PiKLs@tGiGFmDOaLsDmHeCcNkHkLoFwTeEwOcD_d@mMxF{IkNrH_O|ZkMpNxRxY",
+                    "shortName": "80",
+                    "longName": "Universidad",
+                    "slug": "ruta-80-universidad.4vf",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145127",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3205",
+                    "encodedLine": "{atfChgdtQqAtErCc@rLlFhAoDzCtAhAmD`p@tX~AzFh@b@wCfIbX`LwHjTt@`@uAfJc@~DuCxI??aNuFhFgOpCiI`CeHnD_K}McGvCgIi@c@_B{Fap@uXiAlD{CuAiAnDsLmFgC\\fAuE",
+                    "shortName": "81",
+                    "longName": "Golfo",
+                    "slug": "ruta-81-golfo.4vg",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145128",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3206",
+                    "encodedLine": "amvfCd~jtQpAy@|MeA~EqCdBm@xE\\xAbAx@FdBu@l@y@hDqGpDiAjHqBfA_GRgArXsInEeBgCwBu@}ARyAWcEfPw@gPv@fPw@bEcAlAg@dMe_@??vM`GsAfDwRiIuJxYg@zAm@`BCB_KDcDgAWnBVbEUrB}@hDl@vBsXrISfAgA~FkHpBqDhAiDpGm@x@eBt@y@GyAcAyE]eBl@_FpC}MdA",
+                    "shortName": "82",
+                    "longName": "Bellavista",
+                    "slug": "ruta-82-bellavista.4vh",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145129",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3207",
+                    "encodedLine": "wr}fCfm{sQxAtHvBdYn@`GxXjq@jO~]~}A`oBfPzR|z@|d@dJfF~n@tPnt@vRx[`JlI~CeFvNtWhL??rBsPcTmJmI_Dy[aJot@wR_o@uPeJgF}z@}d@gP{R_~AaoBkO_^yXkq@o@aGyBoXuAuI",
+                    "shortName": "83",
+                    "longName": "Tampico - Playa",
+                    "slug": "ruta-83-tampico-playa.4vi",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145130",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3208",
+                    "encodedLine": "sdsfCvpstQoDyUgFw]{Bu`@aMis@vAu@fF_Ef@kBR{IrDkPz@QnB{Ly@cGd`@qvAzB~@~F{TnAyA`CiIt@iHnPim@_EcC~A~@a@vAm@Q??c@SOEg@fAk@jBwC|HwAl@z@d@t@|@uA`BeF`OpFtBy@tCk@vGaChIoAxA_GzT{B_Ae`@pvAx@bGoBzL{@PsDjPSzIg@jBgF~DwAt@`Mhs@zBt`@dKjt@",
+                    "shortName": "84",
+                    "longName": "Moralillo Veracruz.",
+                    "slug": "ruta-84-moralillo-veracruz.4vj",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145131",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3209",
+                    "encodedLine": "cp|fCh_etQkKxCyCeLrNgEsCyKz@]gCeJhKyBxDlJrEwBlBmAbGcGzHfMxA|BxC{CEg@dAaA`IbKtp@ap@xQlUxFpErCrArCxAbAwC??iCoAkCyAgDqBgDr@eUuYyp@jp@wFrFiAaB_AqAi@_AyA}B{HgMcGbGmBlAsEvByDmJiKxBfCdJ{@\\rCxKsNfExCdL",
+                    "shortName": "85",
+                    "longName": "Madero Polvorín",
+                    "slug": "ruta-85-madero-polvorin.4vk",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145132",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3210",
+                    "encodedLine": "ya~fCnlmtQaDcI_CaDDkOnBcHfHaHnB{EtDeT~OjDbS{EjOb@pJrDfp@|J`Ma@ld@oK`NsFd|@q[~eA}ZdKuCvPe@xF{BzLy^vYbMbA{D}JsDuCrIhAgDiAjDgDoAsC_BcI}CkApDgHfTiA|DwPd@eKtC_fA|Ze|@p[aNrFmd@nKaM`@gp@}JqJsDkOc@cSzE_PkDuDdToBzEgH`HoBbHEjOiAhGbC\\lBk@eD}F",
+                    "shortName": "86",
+                    "longName": "Águila Echeverría",
+                    "slug": "ruta-86-aguila-echeverria.4vm",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145133",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3211",
+                    "encodedLine": "c{agCt`dtQ~]cIrG_A`KKI}EnAiAreA}@C}DT@v@EDfC`GqAhCm@zy@gx@jOvQzJ`MzFlIt]|b@b@O~TiUjKnLfPvJnDqH??`CvAuCjHcUiMkKoLaIyJ}BcCeVtUsO{R{FmI{JaMkOwQ{y@fx@iCl@aGpAEgCw@DUAB|DseA|@oAhAH|EaKJsG~@",
+                    "shortName": "87",
+                    "longName": "Madero - Heriberto Kehoe - Las Flores",
+                    "slug": "ruta-87-madero-heriberto-kehoe-las-flores.4vn",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145134",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3212",
+                    "encodedLine": "uqzgCh}stQ_AnOsDYaAjQyBlZWjHmGpNhq@nFpAm@rBFXsFbUpBHy@tD\\lFoMpUxi@fQcFbt@lDx@gFmDc@??Y`CQzBco@_DgQbFqUyi@mFnMuD]Ix@cUqBYrFsBGqAl@iq@oFlGqNVkHxBmZ`AkQrDX",
+                    "shortName": "88",
+                    "longName": "Altamira - Batería 7 Ampliación. Adolfo López Mateos",
+                    "slug": "ruta-88-altamira-bateria-7-ampliacion-adolfo-lopez-mateos.4vo",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145135",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3214",
+                    "encodedLine": "ewugCv`wtQbF^g@tDmEi@RyFdCkBlCyBs@rIv@uIzDKzCj@z@aEvE_GkPuMyB}FoBnA{GjHa_@qD_A|@eBsF~@B\\cHeGWP}CgDq@FuDZkEPwDX}DvSrADuD_@[t@uGaNyAkDLfAm[d@?A{C}O_FdA}O|@}QyDUqC[]]iBARmGcQoAi@fGoESS|GsG`N??rGaNR}GnERh@gGbQnASlGhB@\\\\pCZxDT}@|QeA|O|O~E@zCe@?gAl[Ad@@`@?jAE~ASdCKdBY|DQvD[jEGtDfDp@Q|CdGV]bH_ACdBrF~@}@`_@pDzGkHnBoAxB|FjPtMwE~F{@`E{Ck@wDJ}AfOmEa@lE`@a@zDcE_@XyEFyE`HoF",
+                    "shortName": "89",
+                    "longName": "Altamira. Gpe. Victoria - Los Presidentes",
+                    "slug": "ruta-89-altamira-gpe-victoria-los-presidentes.4vq",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145137",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3213",
+                    "encodedLine": "a_ygCt|qtQiHjOdFpCH~@U~FSpCmCnDjH~@`Ef@LcDdDZu@xQfFX`ApBNpAg@pG}SwAk@fHmKk@i@|JyBlk@zAvAxA`@t_@Gj@RpHtPlOmLmOlL|KdVfPuElt@|Cv@gFaDe@EAc@xDM|@ko@eCgPtE}KeVlOmLmOlLqHuPk@Su_@FyAa@{AwAxBmk@h@}JlKj@j@gH|SvAf@qGOqAaAqBgFYt@yQeD[MbDaEg@kH_AlCoDRqCT_GI_AeFqC",
+                    "shortName": "88A",
+                    "longName": "Altamira - Batería 7 - Los Presidentes",
+                    "slug": "ruta-88a-altamira-bateria-7-los-presidentes.4vp",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145136",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3215",
+                    "encodedLine": "yjxgC~fttQWfE~PnAVaEzv@pFfDr@pKrc@`ArBpN|L\\zBaDrDw@bD_@|EuIiAa@hDvDh@i@xD??\\wDn@sG~@cHlDj@v@kAn@_An@a@NG]{BqN}LeAwFa@qD~@_M}@yFuCsFcEmEq@j@[hAl@nD{C{@{v@qFW`E_QoA",
+                    "shortName": "89A",
+                    "longName": "Altamira - Tampiquito por Soriana",
+                    "slug": "ruta-89a-altamira-tampiquito-por-soriana.4vr",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145138",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3216",
+                    "encodedLine": "{smhCz~ptQhH{@nKmA~kGWx`Feu@t{A}x@rNwEdK`@rgAjZrO|WdF~eBhUndAjOfo@`S|SmEdIgAdIyIaAc@lDxIhA??TeAH{@Bs@fAeIlEeIoLkJqEqHVaMJwGgAmGgN_PyV{dAuDseBn@a\\dDJvAfDJhBoArBq_Byb@eKa@sNvEu{A|x@y`Fdu@_lGVuTzC",
+                    "shortName": "90",
+                    "longName": "Altamira - Ej. Lomas del Real - Barranco",
+                    "slug": "ruta-90-altamira-ej-lomas-del-real-barranco.4vs",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145139",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3230",
+                    "encodedLine": "krtgCx|ytQn@sOsJi@eCvC{@tD~BnElLf@t@BzH|F~QyGlBmS{BKl@mNaEQj@oHk@sAJ_CgOs@gg@eDsDJsDc@jAoPxJd@`Cm@tAsCjByRbAkCtPuP`BwBpFc`@^qCp@yClBaBnCcA~BgBzDqFjAeG~g@gi@p[c[jXcXhV_WvcA_~@`R_QrPcUhIcSxI{KfKmI|FiCfr@gN`Fk@px@dN`lBpa@zK`CtKg@vrAor@zPgApQ|EjP}EfTXdVvDzOpCrOqEjRRdH~Cbd@xHvL`B~TgBr]}I|MaGj`@uN`i@_Qft@}S`PcEvN]pFcBhHuT~H~C|I|DyErNgJcDpJqYrDlA{AlD??_HeDaJkDsJxYkAxDwN\\aPbEiHhCcNsDs^pGwW~EyWdB_LKmLpBoR_B{QkIyGuCmEY}VmKqVeKskAkZdHuJg@Q_LtHyCvD_FhNoQfU}UlQ}Ux]kOhOwrAnr@uKf@{KaCalBqa@qx@eNaFj@gr@fN}FhCgKlIyIzKiIbSsPbUaR~PwcA~}@iV~VkXbXq[b[_h@fi@kAdG{DpF_CfBoCbAmB`Bq@xC_@pCqFb`@aBvBuPtPcAjCkBxRuArCaCl@yJe@kAnPrDb@rDKfg@dDfOr@K~Bj@rAk@nH`EPm@lNzBJmBlS_RxG{H}Fu@CmLg@_CoEz@uDdCwCrJh@",
+                    "shortName": "100",
+                    "longName": "Infonavit - Altamira - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-100-infonavit-altamira-tampico-por-av-hidalgo-y-ayuntamiento.4w7",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145153",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3231",
+                    "encodedLine": "krtgC||ytQt@yOiK[wBzCw@xCbCzEtMl@lDdC|@aBzDhD|Q}G`BgLPeDoBEn@uJyBSDoBcFc@|@gEKgDGeCoVyAgWiBsMU}CW|@mP`J`@`Dk@~AyEpBkSxU{V|Fkc@zAgFpHoD|GoJvHiNx\\e]|d@od@pViWnNgNlwA}pAxRgXdIiRpRsStHwDhVsEzb@eIhYhC|iBra@hWrFdWnFlGKztAct@xFUhC_EhFkKtOeVnJeKzPkMz_@oe@nf@hPtVlEx]pLtRxJ`KjClD^dF|C`NvFhHxA~MlA~MmCzc@yAbu@wMzNjDjWoHfQk@lF{B|GySjTrIwEtNoJsDfJiYfDhA_A|C??kSoHaHlTiDfJoPf@kWnHsLxCsq@xSov@fWeInFqLjDmd@jHks@eIeNgFqQb@}L~BiIa@qd@kHeMc@cMhGu[wJaDMaFbF{tAbt@mGJeWoFiWsF}iBsa@iYiC{b@dIiVrEuHvDqRrSeIhRyRfXmwA|pAoNfNqVhW}d@nd@y\\d]wHhN}GnJqHnD{AfF}Fjc@yUzVqBjS_BxEaDj@aJa@}@lP|CVrMTfWhBnVxAFdCJfD}@fEbFb@EnBxBRo@tJnBDQdDaBfL}Q|G{DiD}@`BmDeCuMm@cC{Ev@yCvB{CjK`@S`Gk@hG",
+                    "shortName": "100A",
+                    "longName": "Infonavit - Altamira - Tampico por Av. Ayuntamiento y Av. Hidalgo",
+                    "slug": "ruta-100a-infonavit-altamira-tampico-por-av-ayuntamiento-y-av-hidalgo.4w8",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145154",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3233",
+                    "encodedLine": "omkgCf`ftQxJaA\\|DmYrCX`BsBXm@sF__@lE^xEsDd@pBpSjg@aGp@hFrE~f@xAnN|RtDa@vCpF~SpK`b@id@fKoL`K^TpKyJti@oKbFaAzEkBjGy@dWvBv`Chh@lWjFpITpy@mb@t[qPbLo@xJr@rMlCpLoDrIk@pZzCtUtEnR{E~Qv@tGzCro@|JpM]xh@uL|WqLpm@cSlrAy`@nQm@dEw@fAw@|GeTbTpIwElN_JeD~IuYfD`BcA|C??cSeIqAxDuJdZ_Rd@oc@bMsCuH}A_HkPfDuIYmJ`@uXGGvB{@`@r@`KoMb@uX?}L_BmEiTqIJiHwAiZwMeFdBmCtHmNeEcKkD}KeB{t@kSpGsIoMlGeIpRsMpQqYtTiZdc@_LjKu[pPqy@lb@qIUmWkFw`Cih@eWwBkGx@cFn@aFlAgDXqKab@qF_T`@wC}RuDyAoNsE_g@q@iFkg@`GqBqSrDe@_@yE~^mEl@rFrBYYaBlYsCk@}DmJfA",
+                    "shortName": "101",
+                    "longName": "Nuevo Madero - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-101-nuevo-madero-tampico-por-av-hidalgo-y-ayuntamiento.4wA",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145156",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3232",
+                    "encodedLine": "omkgCb`ftQrJ}@b@`E{MnAoJ`AN|AsBZg@qF{^lE^tEsDj@rBjSbg@wFl@pEnHpv@j@`@pQtC]`DnD~MdAtDnKvb@c[rGuFrAiB~@{CbCyErEVLdFwEvCeCjAk@~EiAb\\oG|LiCjLcCtWfCt{Bdf@z`@hIlGKftA{s@dGo@`DuGpEoHvRm[jQaNlFuEn^mc@pj@jP|LrBnNpCtChAvPtGbRpJ`KlClDNpFrDpLbFlHtAjNpAfOeClIPna@cDzPmE|YuEfOxCnVyGvQw@tFcBlHqTzSpIwEzNkJuDnJoYbDdBcAtC??kS}H_Mn_@wQv@oVxG_LjDwCyH}AyGgPjDw@k@yZXoQFCrB{@\\j@`Ka]n@iHBwMaBiE_UmI`@iKqCiCuAeK{DoIaCwDdCqBzGmOaGuCiAoNqC}LsBaj@gP~DkIqMtHmGzQ_NbQmFtEkQ`NwRl[qEnHaDtGeGn@gtAzs@mGJ{`@iIu{Bef@uWgCkLbCyJjAoARoKwb@eAuDoD_N\\aDqQuCk@a@oHqv@m@qEcg@vFsBkSrDk@_@uEz^mEf@pFrB[O}AnJaAzMoAc@aEuJ~@",
+                    "shortName": "101A",
+                    "longName": "Nuevo Madero - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico - Madero - Altamira",
+                    "slug": "ruta-101a-nuevo-madero-tampico-por-ayuntamiento-y-av-hidalgo.4w9",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145155",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3234",
+                    "encodedLine": "????",
+                    "shortName": "102",
+                    "longName": "",
+                    "slug": "ruta-102.4wB",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145157",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3236",
+                    "encodedLine": "myrgCh|ktQ{Km@_Dza@}SdFuG{@iDyAaV}A`AfZJj^mA`GeFha@pAxElx@fdA|ErFtJfD|EbEzjAsjAhcAm`Azd@ma@bOwRlEyJhFgLvLwMxHwGbp@_NrNwBtXbCtt@hPvb@jKpf@rJdKvBrNxBxEIhVeK~`@wTx\\kQvQgApQxEnOaF~P\\dYnDjOnCvQ_ErP\\|G~BlZfFdW|D`LQhl@}Nn`@ePj`@qLhZwJfc@aNzUaGdGSpH]hFoBhHeTvStIwElNoJeDnJ_ZnD|AgAbD??cSsHgMr_@aHReGRkUzGy[~IqYlIwYtJoCcLsAeJaYb@qLBoMyAmDqPmKNw@zGoLGuKoDw_@aP}E_CgQgDuYkHi\\mIrC_FSa@c@AyGlDyAnBcFdMyRvXsUtPqSn\\sQpPy~@bg@iVdKyEHsNyBeKwBqg@uKue@yJwp@yOuXcCsNvBcp@~MyHvGwLvMiFfLmExJcOvR{d@la@{x@rt@aKvDcLhHkL`Xwn@hn@}EcEuJgD}EsFuZw_@w\\oc@qAyEdFia@lAaGKk^aAgZ`V|AhDxAtGz@|SeFxF_AlEFnBc^",
+                    "shortName": "103",
+                    "longName": "Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-103-pedrera-arboledas-tampico-por-av-hidalgo-y-ayuntamiento.4wD",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145159",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3237",
+                    "encodedLine": "myrgCh|ktQ{Km@_Dza@}SdFuG{@iDyAaV}A`AfZJj^mA`GeFha@pAxElx@fdA|ErFtJfD|EbEzjAsjAhcAm`Azd@ma@bOwRlEyJhFgLvLwMxHwGbp@_NrNwBtXbC~_Chh@dKvBrNxBxEIhVeKx~@cg@vQgApQxEnOaF~P\\dYnDjOnCvQ_ErP\\|G~Brr@dL`LQhl@}Nn`@ePxvBmo@dGSpH]zLs_@~R|H??bAqCoD}AkJlYjJzDzEcO_TqIeH`TeFnBqH\\eGRsWdIyHgCeDs@mD\\_i@dKej@pCwPlCwMqA}G}AoPkHcVkHmd@cScVoFaY{GaYmIw[~_@i]fYqWp`@kMnLy~@bg@iVdKyEHsNyBeKwB_`Cih@uXcCsNvBcp@~MyHvGwLvMiFfLmExJcOvR{d@la@icAl`A{jArjA}EcEuJgD}EsFmx@gdAqAyEdFia@lAaGKk^aAgZ`V|AhDxAtGz@|SeF~C{a@",
+                    "shortName": "103A",
+                    "longName": "Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-103a-pedrera-arboledas-tampico-por-av-hidalgo-y-ayuntamiento.4wE",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145160",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3239",
+                    "encodedLine": "sgngC~~qtQnGjBuDjRkMzGfGjLwCjBmNgVwBkDgDnCmJ}OiExEgDsEgAkAoIaKeCbCeLwRpa@ub@voAiiAzMiNvL{O|KcWxRwRb}@cShY`CbeC`i@|WxF`FGxGgBtmAsp@vPcA|RpEfQyElXl@p_@|HbNkDhTUzOpFzh@zHjJC|LuA|d@wMrE_CfsAid@zz@eVfP]tFsBtHmTvSpI_FzNkJoDnJmYrDxAkAtC??gS}HgM~_@gP\\ce@nMkDyHq@mGsPxCcAa@iXLubAfAsJa@wA_FuIP}FaBuF}BkUaIiDtAuCnIqNiEyXuH{m@cPwD}AvEuH}KnF}FvMeL`RoYxUi[he@cOtLumArp@yGfBaFF}WyFceCai@iYaCc}@bSyRvR}KbWwLzO{MhNwoAhiAqa@tb@dLvRdCcCnI`KfAjAfDrEhEyElJ|OfDoCvBjDlNfVvCkBgGkLjM{GtDkR",
+                    "shortName": "104",
+                    "longName": "Lomas de Altamira - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-104-lomas-de-altamira-tampico-por-av-hidalgo-y-ayuntamiento.4wG",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145162",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3238",
+                    "encodedLine": "a`ygCptvtQ_@|FgQqAqAn@kq@}F`H{OCmEzB}[zu@~Fj@_LrBcU|SxA[tEzPfAVgExHp@h@aNrDTAgBlAeXdDJI~@EhBzQbBnCFqDeRmFuRbRuChGk@BrBByAtH|@JxAnM|@hDj@lCSjBa@vAaA`D`EaDzQ|Eh@bFTdFc@zAo@pJkI`ChCxKfFtDdB~@bCtt@}u@~g@qh@rtAwmAbOgS|B}CdIqQtIcLfLmKbs@cOrLeBpVbCp}Cnp@pGQdFwBhlAyo@rPcAnPvDhHBrJiEjOTlMv@v[~GfOeE~RXdKhEnm@bJpJ]nRmCzd@sOtZmLrb@gNnqAi_@lNc@xF}ApHuTvSxI{EzNoJyDvJkYfDxAoAdD??iFmB}FmC{CiAyEjO_ClGa@tASdAs@rAmNb@oqAh_@wVlIeAmEsCoMKwBwa@v@sC?_NsB}C{OuKPw@xGoLGuK}C_RuJ{LmEkMwEgUwDmTsFcUcH~D}HuK`G}HdPcP~TqVvQcO`V}HbLoNtLilAxo@eFvBqGPq}Cop@qVcCsLdBcs@bOgLlKuIbLeIpQ}B|CcOfSstAvmA_h@ph@ut@|u@_AcCuDeByKgFaCiCqJjI{An@eFb@cFU}Ei@`D{QaDaEwA`AkB`@mCRiDk@oM}@KyAuH}@CxACsBiGj@cRtClFtRpDdRoCG{QcBDiBH_AeDKmAdX@fBsDUi@`NyHq@WfE{PgAZuE}SyAsBbUk@~K{u@_G{B|[BlEaHzOjq@|FpAo@nQtAVwF",
+                    "shortName": "103B",
+                    "longName": "Electricistas - Arboledas - Tampico por H. Ayuntamiento y Av. Hidalgo",
+                    "slug": "ruta-103b-electricistas-arboledas-tampico-por-h-ayuntamiento-y-av-hidalgo.4wF",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145161",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3241",
+                    "encodedLine": "cfogChsjtQaAJ_Aj@sLzJsEqH}E~DpE`HsB`BLd@gOxLDX{HnIlJrKhJeIp@x@bM}LvDrGEhAOz@eSbMpFtKoFwBgEzDmAdBv@b@rRfAdB`Bp@bBxa@~CpCsd@pL`AMdAv\\~\\lEeGtJwMvBgFdE_JrDgGfRsQpSwEzUiDhIqBrGyB`\\dCd|Cfp@pGUvsAus@dIs@xGKtQlEfO{Eh`@bB~YxGhOeExRH|I`Dvp@fKnSmA~d@}LtGkDfvBuq@zTqGlIaAhI]`FmBtHaTnT~IgFpNgJkDnJcZnDfBcAlC_@VwRmI_Mz_@eINmI`Awa@nLkDaIaAmGwOlCoUQaYn@GnBs@\\ZjJoa@~@kRmBaDsO}KBs@~GoLUuKuCud@uScV}Eks@{R|EwIsKnFwBzC{H|P}NhRaTlPiWf`@kPbOwsAts@qGTe|Cgp@a\\eCsGxBiIpB{UhDqSvEgRrQsDfGeE~IwBfFuJvMmEdGw\\_]LeAqLaAqCrd@ya@_Dq@cBeBaBsRgAw@c@lAeBfE{DnFvBqFuKdScMN{@DiAwDsGcM|Lq@y@iJdImJsKzHoIEYfOyLMe@rBaBqEaH|E_ErEpHrL{J~@k@",
+                    "shortName": "105",
+                    "longName": "Zapata - Haciendas - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-105-zapata-haciendas-tampico-por-av-hidalgo-y-ayuntamiento.4wJ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145164",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3243",
+                    "encodedLine": "k__hClbmtQbNnhAlc@oI|_Bi{@hH{@lIFloE`jApS~PlJ~E~WbEvM`IfAfDwG|OaBjCcLbMa@ZyBvBRTxCyClCaClJiKfPuPhQaRdq@an@`m@si@dRaVpGiPhL}NrJmJbn@aMlKcDtES`XjCvb@jKhw@tN~`@|JvZlGlJBxu@o`@`^aRnL{@dFT~PrDtKuC|H_ApSl@~^`I|LkDlU]xIfD|j@hKzQGpZcHxYyJjsAod@ry@cVbRe@dFaBhH_UnTpI_FtNgJaDjJmYfDhAsAzD??oRqIgMt_@cRd@kc@dNcDwIqAqGoPxCoD]yv@bAgc@LuGw@o@w@}KTg@hGoLCgr@{XqZqFeo@gRvFuHmMzGmI`SiR`VsShN_QxYeUzTa^`Ryu@n`@mJCwZmG_a@}Jiw@uNwb@kKaXkCuERmKbDcn@`MsJlJiL|NqGhPeR`Vam@ri@ip@nk@cIpCoHhEiGzGgAgDwMaI_XcEmJ_FqS_QmoEajAmIGiHz@}_Bh{@mc@dIkNkgA",
+                    "shortName": "106",
+                    "longName": "Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-106-puerto-industrial-tampico-por-av-hidalgo-y-ayuntamiento.4wL",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145166",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3241",
+                    "encodedLine": "cfogChsjtQaAJ_Aj@sLzJsEqH}E~DpE`HsB`BLd@gOxLDX{HnIlJrKhJeIp@x@bM}LvDrGEhAOz@eSbMpFtKoFwBgEzDmAdBv@b@rRfAdB`Bp@bBxa@~CpCsd@pL`AMdAv\\~\\lEeGtJwMvBgFdE_JrDgGfRsQpSwEzUiDhIqBrGyB`\\dCd|Cfp@pGUvsAus@dIs@xGKtQlEfO{Eh`@bB~YxGhOeExRH|I`Dvp@fKnSmA~d@}LtGkDfvBuq@zTqGlIaAhI]`FmBtHaTnT~IgFpNgJkDnJcZnDfBcAlC_@VwRmI_Mz_@eINmI`Awa@nLkDaIaAmGwOlCoUQaYn@GnBs@\\ZjJoa@~@kRmBaDsO}KBs@~GoLUuKuCud@uScV}Eks@{R|EwIsKnFwBzC{H|P}NhRaTlPiWf`@kPbOwsAts@qGTe|Cgp@a\\eCsGxBiIpB{UhDqSvEgRrQsDfGeE~IwBfFuJvMmEdGw\\_]LeAqLaAqCrd@ya@_Dq@cBeBaBsRgAw@c@lAeBfE{DnFvBqFuKdScMN{@DiAwDsGcM|Lq@y@iJdImJsKzHoIEYfOyLMe@rBaBqEaH|E_ErEpHrL{J~@k@",
+                    "shortName": "105",
+                    "longName": "Zapata - Haciendas - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-105-zapata-haciendas-tampico-por-av-hidalgo-y-ayuntamiento.4wJ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145164",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3241",
+                    "encodedLine": "cfogChsjtQaAJ_Aj@sLzJsEqH}E~DpE`HsB`BLd@gOxLDX{HnIlJrKhJeIp@x@bM}LvDrGEhAOz@eSbMpFtKoFwBgEzDmAdBv@b@rRfAdB`Bp@bBxa@~CpCsd@pL`AMdAv\\~\\lEeGtJwMvBgFdE_JrDgGfRsQpSwEzUiDhIqBrGyB`\\dCd|Cfp@pGUvsAus@dIs@xGKtQlEfO{Eh`@bB~YxGhOeExRH|I`Dvp@fKnSmA~d@}LtGkDfvBuq@zTqGlIaAhI]`FmBtHaTnT~IgFpNgJkDnJcZnDfBcAlC_@VwRmI_Mz_@eINmI`Awa@nLkDaIaAmGwOlCoUQaYn@GnBs@\\ZjJoa@~@kRmBaDsO}KBs@~GoLUuKuCud@uScV}Eks@{R|EwIsKnFwBzC{H|P}NhRaTlPiWf`@kPbOwsAts@qGTe|Cgp@a\\eCsGxBiIpB{UhDqSvEgRrQsDfGeE~IwBfFuJvMmEdGw\\_]LeAqLaAqCrd@ya@_Dq@cBeBaBsRgAw@c@lAeBfE{DnFvBqFuKdScMN{@DiAwDsGcM|Lq@y@iJdImJsKzHoIEYfOyLMe@rBaBqEaH|E_ErEpHrL{J~@k@",
+                    "shortName": "105",
+                    "longName": "Zapata - Haciendas - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-105-zapata-haciendas-tampico-por-av-hidalgo-y-ayuntamiento.4wJ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145164",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3241",
+                    "encodedLine": "cfogChsjtQaAJ_Aj@sLzJsEqH}E~DpE`HsB`BLd@gOxLDX{HnIlJrKhJeIp@x@bM}LvDrGEhAOz@eSbMpFtKoFwBgEzDmAdBv@b@rRfAdB`Bp@bBxa@~CpCsd@pL`AMdAv\\~\\lEeGtJwMvBgFdE_JrDgGfRsQpSwEzUiDhIqBrGyB`\\dCd|Cfp@pGUvsAus@dIs@xGKtQlEfO{Eh`@bB~YxGhOeExRH|I`Dvp@fKnSmA~d@}LtGkDfvBuq@zTqGlIaAhI]`FmBtHaTnT~IgFpNgJkDnJcZnDfBcAlC_@VwRmI_Mz_@eINmI`Awa@nLkDaIaAmGwOlCoUQaYn@GnBs@\\ZjJoa@~@kRmBaDsO}KBs@~GoLUuKuCud@uScV}Eks@{R|EwIsKnFwBzC{H|P}NhRaTlPiWf`@kPbOwsAts@qGTe|Cgp@a\\eCsGxBiIpB{UhDqSvEgRrQsDfGeE~IwBfFuJvMmEdGw\\_]LeAqLaAqCrd@ya@_Dq@cBeBaBsRgAw@c@lAeBfE{DnFvBqFuKdScMN{@DiAwDsGcM|Lq@y@iJdImJsKzHoIEYfOyLMe@rBaBqEaH|E_ErEpHrL{J~@k@",
+                    "shortName": "105",
+                    "longName": "Zapata - Haciendas - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-105-zapata-haciendas-tampico-por-av-hidalgo-y-ayuntamiento.4wJ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145164",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3242",
+                    "encodedLine": "cfogChsjtQaAJ_Aj@sLzJsEqH}E~DpE`HsB`BLd@gOxLDX{HnIlJrKhJeIp@x@bM}LvDrGEhAOz@eSbMpFtKoFwBgEzDmAdBv@b@rRfAdB`Bp@bBxa@~CpCsd@pL`AMdAv\\~\\lEeGtJwMvBgFdE_JrDgGfRsQpSwEzUiDhIqBrGyB`\\dCd|Cfp@pGUvsAus@lH{@~Ymj@pZqUn`@yd@|p@zRrJp@|IhCbQpGrSzKjMzC|J~BbLvFtKzCbM~@rMkBh^cApUkDbSmErRqCfMjDzTqGlIaAhI]`FmBtHaTnT~IgFpNgJkDnJcZnDfBcAlC??gScHkMz^iI\\mI`A{TpG{KtCkSpGgTxFmXxJef@lPeGhDsRdGm\\`Gef@kDgf@kLaX|Eq[eE_`@yCcPfF{QkDwJoFiG`GwsAts@qGTe|Cgp@a\\eCsGxBiIpB{UhDqSvEgRrQsDfGeE~IwBfFuJvMmEdGw\\_]LeAqLaAqCrd@ya@_Dq@cBeBaBsRgAw@c@lAeBfE{DnFvBqFuKdScMN{@DiAwDsGcM|Lq@y@iJdImJsKzHoIEYfOyLMe@rBaBqEaH|E_ErEpHrL{J~@k@",
+                    "shortName": "105A",
+                    "longName": "Zapata - Haciendas - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico Madero - Altamira",
+                    "slug": "ruta-105a-zapata-haciendas-tampico-por-ayuntamiento-y-av-hidalgo.4wK",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145165",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3244",
+                    "encodedLine": "k__hClbmtQbNnhAlc@oI|_Bi{@hH{@lIFloE`jApS~PlJ~E~WbEvM`IfCtArGaGfHsDfHqCbo@mj@`m@si@dRaVpGiPhL}NrJmJbn@aMlKcDtES`XjCvb@jKhw@tN~`@|JvZlGlJBxu@o`@`^aR`VgWrPmWjRwMzJ}LzRc^tKwFwDtIzs@rRrQxCfMfFdZfNpK~CbLNfA}GlKElD`PjMpA|LFhXk@_@sJv@o@CaB`aAoDl@`GvDpIfc@oMbRe@dFaBhH_UvAgDnMdGBYjA}CcDcAsJbYjJ`DrEqN_TiIiHrTeF`BcRd@cVtHmH{BmH{@k_@hIqK~BaTbBeGd@iGUyHPyJfCwMyAaKcCyJeEeE}CaE]qK_DeZgNgMgFsQyC{s@sRuE|DcSfU{J|LkRvMsPlWaVfWa^`Ryu@n`@mJCwZmG_a@}Jiw@uNwb@kKaXkCuERmKbDcn@`MsJlJiL|NqGhPeR`Vam@ri@co@lj@eExFiHnH_NhN_MfNwLjK~PwR`I{QaAcDaEkEyFsC_XcEmJ_FqS_QmoEajAmIGiHz@}_Bh{@mc@jH{MoeA",
+                    "shortName": "106A",
+                    "longName": "Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-106a-puerto-industrial-tampico-por-av-hidalgo-y-ayuntamiento.4wM",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145167",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3245",
+                    "encodedLine": "chzgCpj~tQidA}LwKg@dGibAht@wjAj_@i[dC{@fLgDtbAq[hJcArn@fDdDqAnBiRlB_JpSaRhFg`@b@aDjBmElEsBtH_HxAkH`k@gk@hT{Tr[k\\dm@il@tb@a_@d[_YxPwT`HyPxLaPrKyJty@gQrKHzQrB|xCto@lIQhEiAhnAip@bQuAnOdD`ITvI_EjQFxWhEzOfCtO_ExPGnPnFtj@tIhNSdh@cMzMqGhbAe]rfA{ZnRcAxFkBpHmTzSxIcFpNcJoDzJkYfD|AoAtCGP_SaIkMd_@oRbAsfAzZ}VlJsCyLiEtAsAcFKmCsa@~@cRiBaEsTmITyEw@u[oMqF\\kDzIyW{Io_@kHgd@oMnE_JuKzGmEbHuFfN{QlScQdMcSx\\iTpRinAhp@iEhAmIP}xCuo@{QsBsKIuy@fQsKxJyL`PaHxPyPvTe[~Xub@`_@em@hl@s[j\\iTzTak@fk@yAjHuH~GmErBkBlEc@`DiFf`@qS`RmB~IoBhReDpAsn@gDiJbAubAp[gLfDeCz@k_@h[it@vjAuH|jAtpA|N",
+                    "shortName": "107",
+                    "longName": "Santa Amalia - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-107-santa-amalia-tampico-por-av-hidalgo-y-ayuntamiento.4wN",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145168",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3246",
+                    "encodedLine": "chzgCpj~tQidA}LwKg@dGibAht@wjAj_@i[dC{@fLgDtbAq[hJcArn@fDdDqAnBiRlB_JpSaRhFg`@b@aDjBmElEsBtH_HxAkH`k@gk@hT{Tr[k\\dm@il@tb@a_@d[_YxPwT`HyPxLaPrKyJty@gQrKHzQrB|xCto@lIQhEiAhnAip@bQuAnOdD`ITvI_EjQFxWhEzOfCtO_ExPGnPnFtj@tIhNSdh@cMzMqGhbAe]rfA{ZrRmAbMi_@jS|H??nAuCgD}A{JjYbJnDbFqN{SyIqHlTyFjBoRbAsU~GcPgD{\\hGqLpCgM`Bkc@dAaJzB_OaB}Gi[sMGcXeLmEoBmEb@mEhKyZiKq]mHgb@mMyV|YeXxWgOtPyIfMyHrOyCtCiGv@inAhp@iEhAmIP}xCuo@{QsBsKIuy@fQsKxJyL`PaHxPyPvTe[~Xub@`_@em@hl@s[j\\iTzTak@fk@yAjHuH~GmErBkBlEc@`DiFf`@qS`RmB~IoBhReDpAsn@gDiJbAubAp[gLfDeCz@k_@h[it@vjAeGhbAvKf@",
+                    "shortName": "107A",
+                    "longName": "Santa Amalia - Tampico por  Ayuntamiento y Av. Hidalgo",
+                    "slug": "ruta-107a-santa-amalia-tampico-por-ayuntamiento-y-av-hidalgo.4wP",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145169",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3247",
+                    "encodedLine": "{`rhCphbvQdFgk@mCyA{@X?_BsWiBSs@wYgB~Y{Zje@e[~cC{cB``BchAfYiShEwKrEeMlDgOFoHyEis@sCy[cMaj@aCo`@O}Hft@mgD`UyeAfqB}fGdaBwdA~vAm|@nzAu}BhR}Xf^aVjkAs^jM_Chr@xClGe[dEqGjN_NfEi]|AuHvByCnI{ExF_Nbb@ic@|e@uf@du@eu@xy@ws@rOaOdQuUlL{VtTmT`z@yQxRb@neDnr@bMYlpAas@rR{@fNjDxH?fKiE`Xz@n_@`IvPmEfQBpIrDnq@rK`YyCfb@iLvFaDtoAyb@dz@kUdHeA|IOtFsBlHaTbTlIaFxNkJiDtJmYjDvAqA`D??uRgIsMr_@}INeHdAez@jUmb@|NiDuLeEpAgAyEKeCse@r@oN}AiDiPiKT{@tGsLCqKoDo[yN}JkDcSuE}VcF}[kJnEqJ}LnHiG`P_NfQkS`R{NbP{LtSsPfNmpA`s@cMXoeDor@yRc@az@xQuTlTmLzVeQtUsO`Oyy@vs@eu@du@}e@tf@cb@hc@yF~MoJjByIaBoJw@iYrQma@dVg]t[ecAzz@w`@j[iR|XozAt}B_wAl|@eaBvdAgqB|fGaUxeAgt@lgDN|H`Cn`@bM`j@rCx[xEhs@GnHmDfOsEdMiEvKgYhSa`BbhA_dCzcBke@d[_ZzZvYfBRr@rWhB?~Az@YlCxA",
+                    "shortName": "108",
+                    "longName": "Cuauhtémoc - Tampico - Universidad Politécnica de Altamira por Av. Hidalgo y Ayuntamiento Zona Conurbada Tampico - Madero - Altamira",
+                    "slug": "ruta-108-cuauhtemoc-tampico-por-av-hidalgo-y-ayuntamiento.4wQ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145170",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3248",
+                    "encodedLine": "{`rhCthbvQhFil@mCaAo@f@WoBkWaBKo@cZaB~XqYrgCqfBxeCwdBvIeGpIuFhFoHpGyRlE_SqIsqAcNgm@mDck@vhAugFdGsV|x@wcCbp@gqBjH{GfoDwxBb|Ak_CxPiVbPcObP{HfL_Dls@iVbPqEtu@|ChCw@fAiB`CkV|FcHnM{MhGgd@~@_DbCwBxEuClEmExDoKb_Aa_AhUqUlh@oi@lhAoaArOyS~KyUpIqKbMsKv|@aRxYzChyC~n@`JNtFsBdmA}o@tGa@dCoDzEuJdTu]nNaKdLwKj[{_@to@fQdVjFjC\\vLfFhWxL|KfDxCNlFnD|OlG|Eb@zM|AnNmCdKXn`@wD~U{EtT{DzC`@bKdCrTkGtI_AdHOtF_BhHyTfTxI}EpNiJiDtJoYdDvAkAdD??{ReIyAtDmJdZqHBuI~@sTjGc`A~Xak@tRsS~IeZlIoMlCqMf@_d@eGmc@sIyZ~Ew`@eIkVa@kP~F}P{FuId@uG`@emA|o@uFrBaJOiyC_o@yY{Cw|@`RcMrKqIpK_LxUsOxSmhAnaAmh@ni@iUpUc_A`_AyDnKmElEyEtCcCvB_A~CiGfd@oMzM}FbHaCjVgAhBiCv@uu@}CcPpEms@hVgL~CcPzHcPbOyPhVc|Aj_CgoDvxBkHzGcp@fqB}x@vcCeGrVwhAtgFlDbk@bNfm@pIrqAmE~RqGxRiFnHqItFwIdGyeCvdBsgCpfB_YpYbZ`BJn@jW`BVnBn@g@lC`A",
+                    "shortName": "108A",
+                    "longName": "Cuauhtémoc - Tampico - Univ. Politécnica de Altamira por Ayuntamiento y Av. Hidalgo",
+                    "slug": "ruta-108a-cuauhtemoc-tampico-univ-politecnica-de-altamira-por-ayuntamiento-y-av-hidalgo.4wR",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145171",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3249",
+                    "encodedLine": "u||gChxntQxeAsk@vKgFxK{@ld@vKdpD|~@fXnTz\\pG`N`I`GhCfIoBb`@q`@|UkSpTkS|]sZlP_UzAqEpH}NlRkTxHaDdz@{O|VnCjo@dNna@fJ|k@fMzLvBfO|CxFUtDw@poA}q@pH]dHYvNrDtFGrKkDnQLlWzD~P|CdMcEpSMhIjDnp@hKlM]lf@gLna@ePb|@qY~a@yL`[uInPa@pFkBlHiTbTpIcFtNiJgDtJsYjDtAuAnD??yReIgMh_@oP`@oRzFe[vIkNzDia@pNaDgLeEbAsA}EK}BgNLoR\\_RuA_DgP{KFy@|GmLC{OoFqMiGqRcJa]mGaVsGgUuG~BwDOg@c@OaIhEiG|PqSlW{ShO}Tr]sQxPm^~R_^hRcQrJuDv@yFTgMeCmJwB}i@sLef@cKcq@uN}VoCkCJyu@nOyH`DmRjTqH|N{ApEmP~Tk`@b^ai@fd@c`@p`@gInBaGiCaNaI{\\qGgXoTepD}~@md@wKyKz@wKfF",
+                    "shortName": "109",
+                    "longName": "Aldama - Lomas del Real - Tampico por Ayuntamiento y Av. Hidalgo",
+                    "slug": "ruta-109-aldama-lomas-del-real-tampico-por-ayuntamiento-y-av-hidalgo.4wS",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145172",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3250",
+                    "encodedLine": "u||gChxntQxeAsk@vKgFxK{@ld@vKdpD|~@fXnTz\\pG`N`I`GhCfIoBb`@q`@ljAkcAlP_UzAqEpH}NlRkTxHaDdz@{O|VnC||Cjp@xFUtDw@poA}q@pH]dHYvNrDtFGrKkDnQLlWzD~P|CdMcEpSMhIjDnp@hKlM]lf@gLna@ePb|@qY`~@oWnPa@~Ls_@`SnI??tAoDkDuAuJrYhJfDbFuNcTqImHhTqFjBoP`@kXtIkMmEa\\xFgP~Dsa@bDmIQeGr@iGlAcNyAyI}AgSaKaDIcMeEuc@qSmVwE{r@yQcLtLyVxY{S~PaU~\\mGxMqHfAqoA|q@uDv@yFT}|Ckp@}VoCez@zOyH`DmRjTqH|N{ApEmP~TmjAjcAc`@p`@gInBaGiCaNaI{\\qGgXoTepD}~@md@wKyKz@wKfF",
+                    "shortName": "109A",
+                    "longName": "Aldama - Lomas del Real - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-109a-aldama-lomas-del-real-tampico-por-av-hidalgo-y-ayuntamiento.4wT",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145173",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3251",
+                    "encodedLine": "uf_hCvb}tQrP~@dU`BdFB|Bi@`hA_fBhRgXzZ_WlKyA~m@eTv\\sJxu@tCdD{C`CuVvPwP`EsFpEg`@n@kD~AiChEaBxFgFdEkLhiAcjA`VwVlSyRnsAemAtQ}UlKoVzOyP|FkDpu@yNdGmAxVxCbaCtg@NtI`LO{Beq@v@o^xHL@iOHmHDoFq@qBtV_IsGoW_@EqE}NaEcO{EoRkIrB{m@nNmBxAyRtL_DzBIk@g@]sHxEq@gAcEsMg@oH[oE_Cb@_BmKmGlAkCwJ??jCvJlGmA~AlK~Bc@ZnEf@nHbErMp@fArHyEf@\\Hj@~C{BxRuLlByAzm@oNjIsBzEnR`EbOpE|N^DrGnWuV~Hp@pBEnFIlHAhOkUc@q@~a@t@bUR~IJ`CcaCug@yVyCeGlAqu@xN}FjD{OxPmKnVuQ|UosAdmAmSxRaVvViiAbjAeEjLyFfFiE`B_BhCo@jDqEf`@aErFwPvPaCtVeDzCyu@uCw\\rJif@vOcAyAOaBoPbL{Z~ViRfXahA~eB}Bh@eFCeUaB",
+                    "shortName": "110",
+                    "longName": "Universidad Politécnica de Altamira - Santa Amalia - Germinal Zona Conurbada Tampico - Madero - Altamira",
+                    "slug": "ruta-110-universidad-politecnica-de-altamira-santa-amalia-germinal.4wU",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145174",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3252",
+                    "encodedLine": "_u|gCbfruQeEwBgu@ej@cTsOiTwIzNeq@poAsnFmb@}Cc@vBwjEo\\ie@eEpWay@zWww@dJqI`lB_jAh`A_m@paBwfCdQkUhWoQ|F_AvMaEb_AoZhv@bDpCuApDuY`V_WlFac@r@uCdGeElHcH`CuHdgAqiAfb@kb@f~AuvA|S{[`JiR`ToSn|@qR~CBlW~B|zCfp@`IUrsAis@xGs@xDwH|KkQvN}SpSyN~`@uf@zs@bSjUbE|CnBv_@tPtKpCpDb@lGxCxItE`KfBvMdBtG}AdGk@fSSvRqApWeGxLyAnLwBbMjDfUeGlGeAxJG|F{BhHaTxSfIwExNmJeDtJoYdDzAgAzC??gSiIgMb`@yJFmGdAgUdGmc@|Lcc@jO_DyLcEnAkA{EIeCsRj@mQH_OeB}C{OwKJcAtGuGHqDc@uKqCw_@uP}CoBkUcE{s@cS_a@tf@qSxNwN|S}KjQyDvHyGr@ssAhs@aIT}zCgp@mW_C_DCo|@pRaTnSaJhR}Sz[g~AtvAgb@jb@egApiAaCtHmHbHeGdEs@tCmF`c@aV~VqDtYqCtAiv@cDc_AnZwM`E}F~@iWnQeQjUqaBvfCi`A~l@alB~iAeJpI{Wvw@qW`y@he@dEvjEn\\b@wBlb@|CqoArnF{Ndq@hTvIbTrOfu@dj@",
+                    "shortName": "111A",
+                    "longName": "Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-111a-tampico-colonias-el-fuerte-penal-por-av-hidalgo-y-ayuntamiento.4wV",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145175",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3253",
+                    "encodedLine": "m{zgC`qztQ`EjAxDwMk[cCgp@feAcg@xv@ecAzl@eF}BwOyIgGF_]a]??~\\`]fGGvOxIdF|BdcA{l@bg@yv@fp@geAj[bCyDvM",
+                    "shortName": "112",
+                    "longName": "Cuauhtémoc - Mariano - Matamoros",
+                    "slug": "ruta-112-cuauhtemoc-mariano-matamoros.4wW",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145176",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3254",
+                    "encodedLine": "mf_hCdb}tQ|g@xE|BGjDo@rhA{fBbO_UtToRrLeFfKgD|eA{]zNf@xe@vB|Ck@fAkDtCaVdUgUrEy_@`AsEnAuC`FkCdGqF`DiKlgBuhBvaBwzAxQcW~@gCrLwTrOkOtf@wKzBRlCvA`BvD`@|@}@kFo@qDoDIqBb@}Mih@r^aLdT}G`~@gYcAiDzIoCi@{AyAeGv@kEsCyGvAs@gFuL{A_EsEuIoCmKyLzC??xL{CnClKrEtIzA~DfFtLwAr@rCxGw@jExAdGh@zA{InCbAhDa~@fYeT|Gs^`LvMrh@mf@nLsOjOsLvT_AfCyQbWwaBvzAmgBthBaDhKeGpFaFjCoAtCaArEsEx_@eUfUuC`VgAjD}Cj@ye@wB{Ng@}eAz]gKfDsLdFuTnRcO~TshAzfBkDn@ol@_E",
+                    "shortName": "113",
+                    "longName": "Univ. Politécnica de Altamira - Santa Amalia - Santa Elena",
+                    "slug": "ruta-113-univ-politecnica-de-altamira-santa-amalia-santa-elena.4wX",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145177",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3255",
+                    "encodedLine": "_~qhCh}puQt_Gve@OcLtjAwnFp~@{qChq@orBtFqEroDczBnC{BhiBwrCpGoGxUeOtHgBdRqGxy@qWtt@bDpC_A|DuYlEaGdNoMvFc`@v@yEbAiCtFuC|FkFtD{KthAmiAv_CmyB`RiVhIsT|SiTxHqCpy@_PhX|Ch~Cdp@`G{@rqAor@nKq@xH?rPlErOgFzNXxI\\f^`HxMyCpSUxJpCnp@`LdMY|GeAzc@yLtGoDbnC}z@|Fa@`I?pF{B`HeTnTzI{EfNwJaDzJmYbDlAoA|CCTwRoIkMz_@yH?}F`@wfA`[}X~IoC{KiEjAkAaFKsBgf@`@sMuAeDaPuKCgAlHsKQuKeCwKgFiX{M{U}Est@aRg`@lf@aVrOw^bo@yHz@sqAnr@aGz@i~Cep@iX}Cqy@~OyHpC}ShTiIrTaRhVw_ClyBuhAliAuDzK}FjFuFtCcAhCw@xEwFb`@eNnMmE`G}DtYqC~@ut@cDyy@pWeRpGuHfByUdOqGnGiiBvrCoCzBsoDbzBuFpEiq@nrBq~@zqCujAvnFN~K}xAyLcl@iE{xBeQ",
+                    "shortName": "114",
+                    "longName": "López Mateos - Margaritas - Tampico por Av. Hidalgo y Ayuntamiento",
+                    "slug": "ruta-114-lopez-mateos-margaritas-tampico-por-av-hidalgo-y-ayuntamiento.4wY",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145178",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3256",
+                    "encodedLine": "_~qhCh}puQt_Gve@OcLtjAwnFp~@{qChq@orBtFqEroDczBnC{BhiBwrCpGoGxUeOtHgBdRqGxy@qWtt@bDpC_A|DuYlEaGdNoMvFc`@v@yEbAiCtFuC|FkFtD{KthAmiAv_CmyB`RiVhIsT|SiTxHqCpy@_PhX|Ch~Cdp@`G{@rqAor@nKq@xH?rPlErOgFzNXxI\\f^`HxMyCpSUxJpCnp@`LdMY|GeAzc@yLtGoDbnC}z@|Fa@`I?~L_`@~R|H??bA}CcDiAkJhY~I`DjDmNgWyKwJdZaI?}F`@gWxH_NwDe]~FyTzEa\\rBuIUgOlC{MeAeJqBsSgKqGi@mHeCuc@{SsUcFmSeEm`@gLga@dg@iWzRiUb^uEjLiIv@sqAnr@aGz@i~Cep@iX}Cqy@~OyHpC}ShTiIrTaRhVw_ClyBuhAliAuDzK}FjFuFtCcAhCw@xEwFb`@eNnMmE`G}DtYqC~@ut@cDyy@pWeRpGuHfByUdOqGnGiiBvrCoCzBsoDbzBuFpEiq@nrBq~@zqC}jA|oFNdLk_CqSm_CcR",
+                    "shortName": "114A",
+                    "longName": "López Mateos - Margaritas - Tampico por Ayuntamiento Av. Hidalgo",
+                    "slug": "ruta-114a-lopez-mateos-margaritas-tampico-por-ayuntamiento-av-hidalgo.4wZ",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145179",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3257",
+                    "encodedLine": "evtgC|tvtQcJcAhGmHvKeLvAcGhDwXb@cDlB}DlE{BnEwDvCmF~@wDxTiUU_@]?i@eBsDyA}J_EqCeD{JpIyD~@}BBwL_AhCuOiSaBg@rFsRwAr@{IzRdBdFb@dDk@~EgDxI~KxF{FYyB{OaSuSyWyDwEsAcCk@uDPaGpGc`@U}`@w@_YtVfBdE|AlFd@`RsDvTnBtAmCzl@rDvAkA`IyhAhHfBhD~@|ClEiC`EuGlEo@dKcF`GnLzMtBnBfEnFiF|Ee@jAz@j@~Qv@~AtAdArBxa@zCvBm^{Km@iHzCU_@kBbAqDmHmFhDsIgPgA{B|GmGyIgNv@q@qEgHhFeEnKzPtNwKvCpEgUvT??fUwTwCqEuNvKoK{PiFdEpEfHw@p@xIfN}GlGfAzBrIfPlFiDpDlHjBcAT^hH{CzKl@wBl^ya@{CeAsB_BuA_Rw@{@k@d@kAhF}EgEoFuBoBoL{MbFaGn@eKtGmEhCaE}CmEiD_AiHgBaIxhAwAjA{l@sDuAlCwToBaRrDmFe@eE}AuVgBv@~XT|`@qGb`@Q`Gj@tDrAbCxDvEtSxWzO`SXxByFzFyI_L_FfDeDj@eFc@{ReBs@zIrRvAf@sFhS`BiCtOvL~@|BCxD_AzJqIpCdD|J~DrDxAh@dB\\?T^yThU_AvDwClFoEvDmEzBmB|Dc@bDiDvXwAbGwKdLiGxG_A`E`KfA^oD",
+                    "shortName": "115",
+                    "longName": "Altamira - Zapata por Arboledas",
+                    "slug": "ruta-115-altamira-zapata-por-arboledas.4wa",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145180",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3258",
+                    "encodedLine": "{mtgC`oytQV}I~G\\b@sN_ASUyCl@aIsXeBiGc@sHg@{CR_NoAoFe@jOrA~@uPsi@cBibAb\\Ss@dq@wTgKuVeI_QmFxLuDQSf@qEQ[jFoQaBaB~@wp@}FtG{ObCub@zu@lGb@eLvBeUxS~A]hE`QrAViEjp@vEnEXdDh@jLnd@fSbQhLgL`AtA{JzbAlQnAm@`ITxC~@Rc@rN}As^xANiIs@jBaZ~@aTeCaBpAqPaAuAiLfLgScQkLod@eDi@oEYkp@wEWhEaQsA\\iEyS_BwBdUc@dL{u@mGcCtb@uGzOvp@|F`B_AnQ`BZkFpEPRg@tDPlFyLdI~PfKtVeq@vTRr@hbAc\\ri@bB_AtPkOsAnFd@~MnAzCSrHf@hGb@xK~@xKd@vBX|D`@jMr@eBr]gBxRwNdGkKuH",
+                    "shortName": "116",
+                    "longName": "Altamira - Intramunicipal",
+                    "slug": "ruta-116-altamira-intramunicipal.4wb",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145181",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3259",
+                    "encodedLine": "cpugCzawtQ|IbAx@mK`AmDtSqTz@{AxDk\\n@uDn@{CrByBpEgBhEyEfEaKfTqTYc@i@u@yLyFwH{GjIkIbB_C{PgTcHbAeFV?h@{Ch@i^oc@yA{D_@qDXoEvGe`@Yc`@{@uYpV`BxCxAlGn@jPgDhFgAxBia@mAFoCza@??nC{a@lAGyBha@iFfAkPfDmGo@yCyAqVaBz@tYXb`@wGd`@YnE^pDxAzDh^nc@~BbDd@f@j@r@jAxAzBfD|BdClGdIbIpGxLxFh@t@Xb@gTpTgE`KiExEqEfBsBxBo@zCo@tDyDj\\{@zAuSpTaAlDQpEcJq@[bD",
+                    "shortName": "117",
+                    "longName": "Altamira - San Jacinto - Paseo del Real",
+                    "slug": "ruta-117-altamira-san-jacinto-paseo-del-real.4wc",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145182",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3260",
+                    "encodedLine": "c~ogCdwjtQcFfEtQdY}AvAxQ~]lHsCxKr@XgElLz@MdAr\\|\\xPkUlH}O|GsKtJaKnMsFb[uG`XcFlMl@jMxA`XdGpUfF|d@pJrStEhU~EtLnCjI~A~DXtDI`TaKlJaFbTiLh_@{RrGy@hCoDxCaH~CuEI_@_DrE_CrByD~EsFxEq`@jT{RxJ_LbGoR~IyDX{Di@yQ}DkUkFuY{Fad@iJ_b@kJsKiCy[gCet@xNoMrFsStWmH|OyPjUs\\}\\LeAmL{@YfEyKs@mHrCyQ_^|AwApR{QyC{E_MnJsK}PyE~D",
+                    "shortName": "118",
+                    "longName": "Frac. Haciendas - Soriana - Aeropuerto",
+                    "slug": "ruta-118-frac-haciendas-soriana-aeropuerto.4wd",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145183",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3261",
+                    "encodedLine": "gyrgCr|ktQcLy@wCfb@cTrEiCKmHeCeVqApAtz@d{@rThWnUfXdExFfAxF|BtJfHhD?rCk@pUkUlb@q`@`XwUn[wXzPgUlIuS|VcWxx@cQrMCb^`Gv`@|H|e@`KjT|ExSlExM~CzNvBfQeEzIkFp^iRv]{R|HgAnIgObCaD[JgBzCkJnHaHxG_^bS{VfMiQdKuH|CqGf@{NwBqLeCsNkDyZiGyRcEcRmEo]mHka@qGsMBk^pHmYpG}VbWmItS{PfUiu@lq@gx@~t@}Hj@uJgHsNeEgXeEiWoUe{@sTqAuz@dVpAlHdChCJbTsExL|@~Bcb@",
+                    "shortName": "119",
+                    "longName": "Pedrera - Soriana - Aeropuerto",
+                    "slug": "ruta-119-pedrera-soriana-aeropuerto.4we",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145184",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3262",
+                    "encodedLine": "qtvgCvartQ|TgD~BK?bCvHr@pMdAtCb@`COrBWlBmA`DfEcDvQpCRjCb@dEFbE_@dB{@pI{H|DnDrKfEzClBlAx@rYoZpU}U`j@}i@tf@{c@tTaR|ZcY`O{RdHkQnDoF|DiEpF_G|F_Fbb@{Ib\\cHlXlCro@lNde@xJ|WvFvRhErQzDdD|@bDJtCQbCe@lRaKd]_Qr`@qTdFe@rAqA|@}AxIoO??aKpJoDlD}D~Di^bTq_@hRmQjJyGv@iIiAwTqEqTgFyS{Do`@mIos@aPmXmCg^tH_`@hIoN~MmJxLeHjQaOzRoVhTaWpUwh@de@aj@|i@aVxWcYrXmAy@{CmBsKgE}DoDqIzHeBz@cE^eEGkCc@qCSbDwQaDgEmBlAsBVaCNuCc@qMeAwHs@?cCyVvD",
+                    "shortName": "120",
+                    "longName": "Fracc. Arboledas - Soriana - Aeropuerto",
+                    "slug": "ruta-120-fracc-arboledas-soriana-aeropuerto.4wf",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145185",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        },
+        {
+            "data": {
+                "route": {
+                    "id": "3123",
+                    "encodedLine": "iijgC~xmtQVaA`ASt@z@dBm@t@kBzAqBCwBgA]aAz@_@?}@pAsAAo@r@uAnF}@T}@Me@z@_CjE?l@~AsAdBsClBf@Rm@t@ErInC~@g@z@RpKgCdAuBfCeBh@y@dDmKmCeCuBaDy@{Bf@g@cIuQ}EsV?mDp@eEjCcCnFoAlN|@rNdChiCfj@fNhClGe@rtAis@pEGdEuFhEwH~Rm[nU}QtXc\\tT_Y|DaTsInXmMzGeGfPg@fB??f@gBdGgPlM{GrIoX}D`TuT~XuXb\\oU|Q_Sl[iEvHeEtFqEFstAhs@mGd@gNiCiiCgj@sNeCmN}@oFnAkCbCq@dE?lD|ErVbItQg@f@x@zBtB`DlCdCeDlKi@x@gCdBeAtBqKfC{@S_Af@sIoCu@DSl@mBg@eBrC_BrA?m@~BkEd@{@|@L|@UtAoFn@s@rA@|@qA^?`A{@fA\\BvB{ApBu@jBeBl@u@{@aAR",
+                    "shortName": "Fracc.",
+                    "longName": "Sotavento - Soriana Aeropuerto - AUT",
+                    "slug": "ruta-fracc-sotavento-soriana-aeropuerto-aut.4uG",
+                    "type": "Bus",
+                    "color": null,
+                    "entity": {
+                        "id": "145046",
+                        "__typename": "Entity"
+                    },
+                    "trips": [],
+                    "__typename": "Route"
+                }
+            }
+        }
+    ]
+}

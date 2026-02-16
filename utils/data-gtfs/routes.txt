@@ -1,0 +1,122 @@
+route_short_name,route_long_name,route_type,route_id
+74,Isleta Pérez,2,r74
+76,Cascajal,2,r76
+81,Golfo,2,r81
+89A,Altamira - Tampiquito por Soriana,2,r89A
+67,Central Camionera - Madero,2,r67
+82,Bellavista,2,r82
+66,Madero - El Blanco,2,r66
+75,Morelos - Moralillo,2,r75
+59,Águila - Madero,2,r59
+56,Bellavista,2,r56
+73,Central Camionera por Perimetral,2,r73
+85,Madero Polvorín,2,r85
+71,Galeana por Sección 21,2,r71
+69,Madero - Candelario Garza,2,r69
+72,Colonias,2,r72
+88,Altamira - Batería 7 Ampliación. Adolfo López Mateos,2,r88
+61,Obrera - Penal,2,r61
+77,Madero - Universidad,2,r77
+65,Águila,2,r65
+64,Madero - Barra,2,r64
+62,Obrera - Madero,2,r62
+112,Cuauhtémoc - Mariano - Matamoros,2,r112
+68,Madero,2,r68
+60,Madero - Blanco Palmas,2,r60
+84,Moralillo Veracruz.,2,r84
+88A,Altamira - Batería 7 - Los Presidentes,2,r88A
+87,Madero - Heriberto Kehoe - Las Flores,2,r87
+89,Altamira. Gpe. Victoria - Los Presidentes,2,r89
+32,Madero - Heriberto Kehoe - Las Flores,2,r32
+58,Madero - Rev. Verde,2,r58
+63,Seguro Social - Lomas de Infonavit,2,r63
+12,Morelos - Moralillo,2,r12
+27,Tampico - Santa Elena,2,r27
+80,Universidad,2,r80
+8,Seguro Social - Lomas de Infonavit,2,r8
+117,Altamira - San Jacinto - Paseo del Real,2,r117
+86,Águila Echeverría,2,r86
+44,Obrera por Republica de Cuba,2,r44
+83,Tampico - Playa,2,r83
+70,Germinal por Boulevard,2,r70
+79,MAUN,2,r79
+118,Frac. Haciendas - Soriana - Aeropuerto,2,r118
+21,FOVISSTE - Lucio Blanco,2,r21
+17,Maun - Revolución Verde - Madero,2,r17
+20,Miramar - Borreguera - Madero,2,r20
+28,Unidad Morelos,2,r28
+14,Tampico Cañada,2,r14
+43,Aviación por Boulevard,2,r43
+46,El Blanco - Kínder - Las Flores,2,r46
+29,Águila Echeverría - Panteón,2,r29
+Fracc.,Sotavento - Soriana Aeropuerto - AUT,2,rFracc.
+41,Unidad Morelos UAT - Madero - Col Árbol Grande,2,r41
+34,Las flores - Madero -,2,r34
+49,Tancol,2,r49
+15,Madero - UAT - Niños Héroes,2,r15
+78,Germinal por Águilas,2,r78
+6,Madero - Revolución Verde - Las Torres,2,r6
+3,Madero - Revolución Verde - Central de Abastos,2,r3
+39,Playa Sur - Refinería,2,r39
+48,Germinal por Boulevard,2,r48
+22,Tampico - Borreguera por boulevard Zona Conurbada Tampico - Madero - Altamira,2,r22
+33,Madero - La Paz,2,r33
+52,Santa Elena - Ampliación. - U. Nacional por Boulevard,2,r52
+120,Fracc. Arboledas - Soriana - Aeropuerto,2,r120
+30,Ganadera por Divisoria,2,r30
+57,Tancol,2,r57
+18,Tampico - Universidad - Echeverría,2,r18
+25,Madero - Col Echeverría,2,r25
+7,Tampico - Playa por Boulevard,2,r7
+55,Bosque,2,r55
+119,Pedrera - Soriana - Aeropuerto,2,r119
+116,Altamira - Intramunicipal,2,r116
+37,Escolleras - Madero,2,r37
+47,Cetir 78 Bosques por Boulevard,2,r47
+24,Tampico - Tancol - Col del Bosque,2,r24
+40,Playa Norte - Refinería,2,r40
+31,Tierra Alta - Niños Héroes - Casa Blanca,2,r31
+1,Mirador - Aviación por Boulevard,2,r1
+2,Tampico - Bosque Central de Abastos - Casa Blanca,2,r2
+50,Colonia Del Valle,2,r50
+90,Altamira - Ej. Lomas del Real - Barranco,2,r90
+38,Circuito Norte,2,r38
+10,Enrique Cárdenas - Central Camionera - Tampico,2,r10
+26,Tampico - Puertas Coloradas - Divisoria,2,r26
+51,Serapio Venegas por Boulevard,2,r51
+42,Pedro José Méndez - Carnitas Orta,2,r42
+115,Altamira - Zapata por Arboledas,2,r115
+45,E. C. González por Av. Hidalgo,2,r45
+23,E. Cárdenas González - Universidad,2,r23
+5,Madero - Blanco Palmas - Albañiles,2,r5
+113,Univ. Politécnica de Altamira - Santa Amalia - Santa Elena,2,r113
+4,Colosio - Águila Madero - Golfo,2,r4
+19,Nuevo Madero - Serapio Venegas,2,r19
+16,Ejido Contadero - Germinal - Águila,2,r16
+101,Nuevo Madero - Tampico por Av. Hidalgo y Ayuntamiento,2,r101
+54,Col Nuevo Tampico - Altamira por Carnitas Ortas,2,r54
+101A,Nuevo Madero - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico - Madero - Altamira,2,r101A
+9,Santa Elena - Colonias - Tampico,2,r9
+104,Lomas de Altamira - Tampico por Av. Hidalgo y Ayuntamiento,2,r104
+105A,Zapata - Haciendas - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico Madero - Altamira,2,r105A
+105,Zapata - Haciendas - Tampico por Av. Hidalgo y Ayuntamiento,2,r105
+110,Universidad Politécnica de Altamira - Santa Amalia - Germinal Zona Conurbada Tampico - Madero - Altamira,2,r110
+53,Altamira,2,r53
+109A,Aldama - Lomas del Real - Tampico por Av. Hidalgo y Ayuntamiento,2,r109A
+103A,Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento,2,r103A
+109,Aldama - Lomas del Real - Tampico por Ayuntamiento y Av. Hidalgo,2,r109
+103,Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento,2,r103
+100,Infonavit - Altamira - Tampico por Av. Hidalgo y Ayuntamiento,2,r100
+100A,Infonavit - Altamira - Tampico por Av. Ayuntamiento y Av. Hidalgo,2,r100A
+106,Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento,2,r106
+106A,Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento,2,r106A
+107A,Santa Amalia - Tampico por  Ayuntamiento y Av. Hidalgo,2,r107A
+103B,Electricistas - Arboledas - Tampico por H. Ayuntamiento y Av. Hidalgo,2,r103B
+107,Santa Amalia - Tampico por Av. Hidalgo y Ayuntamiento,2,r107
+36,Santa Amalia - Polvorín - Madero -,2,r36
+114A,López Mateos - Margaritas - Tampico por Ayuntamiento Av. Hidalgo,2,r114A
+11,Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento,2,r11
+114,López Mateos - Margaritas - Tampico por Av. Hidalgo y Ayuntamiento,2,r114
+111A,Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento,2,r111A
+108A,Cuauhtémoc - Tampico - Univ. Politécnica de Altamira por Ayuntamiento y Av. Hidalgo,2,r108A
+108,Cuauhtémoc - Tampico - Universidad Politécnica de Altamira por Av. Hidalgo y Ayuntamiento Zona Conurbada Tampico - Madero - Altamira,2,r108

@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.DS_store
+*.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -179,3 +181,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+1-scraping_ruta_directa/.DS_Store
+utils/.DS_Store

@@ -1,0 +1,259 @@
+route_short_name,route_long_name,route_type,shape_id,service_window_id,frequency,direction
+Puerto Vallarta_2_Puerto Vallarta,2_Puerto Vallarta_Puerto Vallarta_2_Puerto Vallarta,2,shape_573,weekday,5,1
+Puerto Vallarta_11_Puerto Vallarta,11_Puerto Vallarta_Puerto Vallarta_11_Puerto Vallarta,2,shape_624,weekday,5,1
+Ruta Modelo_13_Ruta Modelo,13_Ruta Modelo_Ruta Modelo_13_Ruta Modelo,2,shape_512,weekday,5,1
+Puerto Vallarta_13_Puerto Vallarta,13_Puerto Vallarta_Puerto Vallarta_13_Puerto Vallarta,2,shape_626,weekday,5,1
+_15_,15___15_,2,shape_508,weekday,5,1
+_19_,19___19_,2,shape_407,weekday,5,1
+A_19_A,19_A_A_19_A,2,shape_409,weekday,5,1
+Puerto Vallarta_21_Puerto Vallarta,21_Puerto Vallarta_Puerto Vallarta_21_Puerto Vallarta,2,shape_627,weekday,5,1
+A Vía 2_24_A Vía 2,24_A Vía 2_A Vía 2_24_A Vía 2,2,shape_561,weekday,5,1
+A Vía Magdalena_24_A Vía Magdalena,24_A Vía Magdalena_A Vía Magdalena_24_A Vía Magdalena,2,shape_562,weekday,5,1
+_24_,24___24_,2,shape_494,weekday,5,1
+_25_,25___25_,2,shape_408,weekday,5,1
+_27_,27___27_,2,shape_566,weekday,5,1
+A_27_A,27_A_A_27_A,2,shape_567,weekday,5,1
+A_30_A,30_A_A_30_A,2,shape_571,weekday,5,1
+Directo_30_Directo,30_Directo_Directo_30_Directo,2,shape_572,weekday,5,1
+Versalles - Puerto Vallarta_31_Versalles - Puerto Vallarta,31_Versalles - Puerto Vallarta_Versalles - Puerto Vallarta_31_Versalles - Puerto Vallarta,2,shape_663,weekday,5,1
+_33_,33___33_,2,shape_575,weekday,5,1
+A_33_A,33_A_A_33_A,2,shape_576,weekday,5,1
+_37_,37___37_,2,shape_586,weekday,5,1
+A_37_A,37_A_A_37_A,2,shape_587,weekday,5,1
+Vía Fraccionamiento La Cruz_37_Vía Fraccionamiento La Cruz,37_Vía Fraccionamiento La Cruz_Vía Fraccionamiento La Cruz_37_Vía Fraccionamiento La Cruz,2,shape_594,weekday,5,1
+_39_,39___39_,2,shape_599,weekday,5,1
+A Vía Base Aérea_39_A Vía Base Aérea,39_A Vía Base Aérea_A Vía Base Aérea_39_A Vía Base Aérea,2,shape_600,weekday,5,1
+A Vía Periférico_39_A Vía Periférico,39_A Vía Periférico_A Vía Periférico_39_A Vía Periférico,2,shape_601,weekday,5,1
+A Vía Directa Antonio Caso_45_A Vía Directa Antonio Caso,45_A Vía Directa Antonio Caso_A Vía Directa Antonio Caso_45_A Vía Directa Antonio Caso,2,shape_602,weekday,5,1
+A Vía Tetlán_45_A Vía Tetlán,45_A Vía Tetlán_A Vía Tetlán_45_A Vía Tetlán,2,shape_603,weekday,5,1
+Vía Centro_45_Vía Centro,45_Vía Centro_Vía Centro_45_Vía Centro,2,shape_604,weekday,5,1
+Vía Nuevo Zalatitán_45_Vía Nuevo Zalatitán,45_Vía Nuevo Zalatitán_Vía Nuevo Zalatitán_45_Vía Nuevo Zalatitán,2,shape_605,weekday,5,1
+Vía Vallarta_45_Vía Vallarta,45_Vía Vallarta_Vía Vallarta_45_Vía Vallarta,2,shape_606,weekday,5,1
+_50_,50___50_,2,shape_607,weekday,5,1
+A_50_A,50_A_A_50_A,2,shape_608,weekday,5,1
+B_50_B,50_B_B_50_B,2,shape_609,weekday,5,1
+C_51_C,51_C_C_51_C,2,shape_410,weekday,5,1
+B Felipe Ruvalcaba – Tepeyac_51_B Felipe Ruvalcaba – Tepeyac,51_B Felipe Ruvalcaba – Tepeyac_B Felipe Ruvalcaba – Tepeyac_51_B Felipe Ruvalcaba – Tepeyac,2,shape_411,weekday,5,1
+_51_,51___51_,2,shape_412,weekday,5,1
+B Moctezuma – Tepeyac_51_B Moctezuma – Tepeyac,51_B Moctezuma – Tepeyac_B Moctezuma – Tepeyac_51_B Moctezuma – Tepeyac,2,shape_413,weekday,5,1
+D Fortin – Tepeyac_51_D Fortin – Tepeyac,51_D Fortin – Tepeyac_D Fortin – Tepeyac_51_D Fortin – Tepeyac,2,shape_504,weekday,5,1
+D Tizate – Tepeyac_51_D Tizate – Tepeyac,51_D Tizate – Tepeyac_D Tizate – Tepeyac_51_D Tizate – Tepeyac,2,shape_505,weekday,5,1
+A Floresta – Guadalupe_51_A Floresta – Guadalupe,51_A Floresta – Guadalupe_A Floresta – Guadalupe_51_A Floresta – Guadalupe,2,shape_506,weekday,5,1
+A Miramar – Guadalupe_51_A Miramar – Guadalupe,51_A Miramar – Guadalupe_A Miramar – Guadalupe_51_A Miramar – Guadalupe,2,shape_507,weekday,5,1
+_52_,52___52_,2,shape_610,weekday,5,1
+A Vía Santa Rita_52_A Vía Santa Rita,52_A Vía Santa Rita_A Vía Santa Rita_52_A Vía Santa Rita,2,shape_611,weekday,5,1
+B_52_B,52_B_B_52_B,2,shape_612,weekday,5,1
+C Vía Guayabitos_52_C Vía Guayabitos,52_C Vía Guayabitos_C Vía Guayabitos_52_C Vía Guayabitos,2,shape_613,weekday,5,1
+D_52_D,52_D_D_52_D,2,shape_614,weekday,5,1
+_54_,54___54_,2,shape_615,weekday,5,1
+A_54_A,54_A_A_54_A,2,shape_616,weekday,5,1
+_55_,55___55_,2,shape_488,weekday,5,1
+_59_,59___59_,2,shape_617,weekday,5,1
+A_59_A,59_A_A_59_A,2,shape_618,weekday,5,1
+_61_,61___61_,2,shape_619,weekday,5,1
+_63_,63___63_,2,shape_638,weekday,5,1
+_66_,66___66_,2,shape_639,weekday,5,1
+C_78_C,78_C_C_78_C,2,shape_643,weekday,5,1
+_78_,78___78_,2,shape_501,weekday,5,1
+B_80_B,80_B_B_80_B,2,shape_640,weekday,5,1
+A_80_A,80_A_A_80_A,2,shape_641,weekday,5,1
+_80_,80___80_,2,shape_642,weekday,5,1
+Vía 1_101_Vía 1,101_Vía 1_Vía 1_101_Vía 1,2,shape_415,weekday,5,1
+Vía 2_101_Vía 2,101_Vía 2_Vía 2_101_Vía 2,2,shape_502,weekday,5,1
+_110_,110___110_,2,shape_500,weekday,5,1
+A_110_A,110_A_A_110_A,2,shape_510,weekday,5,1
+A_128_A,128_A_A_128_A,2,shape_511,weekday,5,1
+_136_,136___136_,2,shape_513,weekday,5,1
+A_136_A,136_A_A_136_A,2,shape_514,weekday,5,1
+A_142_A,142_A_A_142_A,2,shape_515,weekday,5,1
+_142_,142___142_,2,shape_414,weekday,5,1
+A_153_A,153_A_A_153_A,2,shape_516,weekday,5,1
+CTM_153_CTM,153_CTM_CTM_153_CTM,2,shape_517,weekday,5,1
+_156_,156___156_,2,shape_518,weekday,5,1
+_160_,160___160_,2,shape_519,weekday,5,1
+_161_,161___161_,2,shape_520,weekday,5,1
+_162_,162___162_,2,shape_521,weekday,5,1
+_163_,163___163_,2,shape_522,weekday,5,1
+_165_,165___165_,2,shape_491,weekday,5,1
+_166_,166___166_,2,shape_490,weekday,5,1
+_167_,167___167_,2,shape_489,weekday,5,1
+_169_,169___169_,2,shape_523,weekday,5,1
+B_170_B,170_B_B_170_B,2,shape_524,weekday,5,1
+Vía Santa Fe_171_Vía Santa Fe,171_Vía Santa Fe_Vía Santa Fe_171_Vía Santa Fe,2,shape_417,weekday,5,1
+Vía Valle Dorado_171_Vía Valle Dorado,171_Vía Valle Dorado_Vía Valle Dorado_171_Vía Valle Dorado,2,shape_418,weekday,5,1
+_172_,172___172_,2,shape_525,weekday,5,1
+_174_,174___174_,2,shape_416,weekday,5,1
+A_175_A,175_A_A_175_A,2,shape_526,weekday,5,1
+A Gavilanes_175_A Gavilanes,175_A Gavilanes_A Gavilanes_175_A Gavilanes,2,shape_527,weekday,5,1
+Vía Santa Anita_175_Vía Santa Anita,175_Vía Santa Anita_Vía Santa Anita_175_Vía Santa Anita,2,shape_528,weekday,5,1
+VSS_175_VSS,175_VSS_VSS_175_VSS,2,shape_529,weekday,5,1
+_176_,176___176_,2,shape_530,weekday,5,1
+A Vía Chula Vista_176_A Vía Chula Vista,176_A Vía Chula Vista_A Vía Chula Vista_176_A Vía Chula Vista,2,shape_531,weekday,5,1
+A Vía Robles_176_A Vía Robles,176_A Vía Robles_A Vía Robles_176_A Vía Robles,2,shape_532,weekday,5,1
+B_176_B,176_B_B_176_B,2,shape_533,weekday,5,1
+C_176_C,176_C_C_176_C,2,shape_534,weekday,5,1
+A_177_A,177_A_A_177_A,2,shape_535,weekday,5,1
+Vía 1_177_Vía 1,177_Vía 1_Vía 1_177_Vía 1,2,shape_536,weekday,5,1
+Vía 2_177_Vía 2,177_Vía 2_Vía 2_177_Vía 2,2,shape_537,weekday,5,1
+A Vía 1_178_A Vía 1,178_A Vía 1_A Vía 1_178_A Vía 1,2,shape_538,weekday,5,1
+A Vía 2_178_A Vía 2,178_A Vía 2_A Vía 2_178_A Vía 2,2,shape_539,weekday,5,1
+Vía 1_178_Vía 1,178_Vía 1_Vía 1_178_Vía 1,2,shape_540,weekday,5,1
+Vía 2_178_Vía 2,178_Vía 2_Vía 2_178_Vía 2,2,shape_541,weekday,5,1
+_179_,179___179_,2,shape_542,weekday,5,1
+A Vía 1_182_A Vía 1,182_A Vía 1_A Vía 1_182_A Vía 1,2,shape_543,weekday,5,1
+A Vía 2_182_A Vía 2,182_A Vía 2_A Vía 2_182_A Vía 2,2,shape_544,weekday,5,1
+A_183_A,183_A_A_183_A,2,shape_545,weekday,5,1
+LM_185_LM,185_LM_LM_185_LM,2,shape_546,weekday,5,1
+Roca_185_Roca,185_Roca_Roca_185_Roca,2,shape_547,weekday,5,1
+GF_186_GF,186_GF_GF_186_GF,2,shape_548,weekday,5,1
+A CAL_186_A CAL,186_A CAL_A CAL_186_A CAL,2,shape_549,weekday,5,1
+A Vía López Mateos_186_A Vía López Mateos,186_A Vía López Mateos_A Vía López Mateos_186_A Vía López Mateos,2,shape_550,weekday,5,1
+B_186_B,186_B_B_186_B,2,shape_551,weekday,5,1
+_186_,186___186_,2,shape_552,weekday,5,1
+_187_,187___187_,2,shape_553,weekday,5,1
+B_187_B,187_B_B_187_B,2,shape_554,weekday,5,1
+_188_,188___188_,2,shape_555,weekday,5,1
+_200_,200___200_,2,shape_421,weekday,5,1
+_207_,207___207_,2,shape_556,weekday,5,1
+_214_,214___214_,2,shape_557,weekday,5,1
+_231_,231___231_,2,shape_558,weekday,5,1
+A_231_A,231_A_A_231_A,2,shape_559,weekday,5,1
+C_231_C,231_C_C_231_C,2,shape_560,weekday,5,1
+_249_,249___249_,2,shape_563,weekday,5,1
+_258_,258___258_,2,shape_564,weekday,5,1
+A_258_A,258_A_A_258_A,2,shape_565,weekday,5,1
+D_258_D,258_D_D_258_D,2,shape_498,weekday,5,1
+B_258_B,258_B_B_258_B,2,shape_499,weekday,5,1
+B_275_B,275_B_B_275_B,2,shape_568,weekday,5,1
+F Nextipac_275_F Nextipac,275_F Nextipac_F Nextipac_275_F Nextipac,2,shape_569,weekday,5,1
+Vía Tonaltecas_275_Vía Tonaltecas,275_Vía Tonaltecas_Vía Tonaltecas_275_Vía Tonaltecas,2,shape_570,weekday,5,1
+F_275_F,275_F_F_275_F,2,shape_497,weekday,5,1
+A_275_A,275_A_A_275_A,2,shape_503,weekday,5,1
+_300_,300___300_,2,shape_420,weekday,5,1
+A_320_A,320_A_A_320_A,2,shape_574,weekday,5,1
+Vía Hacienda de Tala_320_Vía Hacienda de Tala,320_Vía Hacienda de Tala_Vía Hacienda de Tala_320_Vía Hacienda de Tala,2,shape_419,weekday,5,1
+Vía 3_320_Vía 3,320_Vía 3_Vía 3_320_Vía 3,2,shape_425,weekday,5,1
+_330_,330___330_,2,shape_577,weekday,5,1
+A_330_A,330_A_A_330_A,2,shape_578,weekday,5,1
+_333_,333___333_,2,shape_579,weekday,5,1
+A_333_A,333_A_A_333_A,2,shape_496,weekday,5,1
+Vía 2_358_Vía 2,358_Vía 2_Vía 2_358_Vía 2,2,shape_426,weekday,5,1
+Vía 1_358_Vía 1,358_Vía 1_Vía 1_358_Vía 1,2,shape_509,weekday,5,1
+A Vía 2_360_A Vía 2,360_A Vía 2_A Vía 2_360_A Vía 2,2,shape_580,weekday,5,1
+A Vía Pensador Mexicano_360_A Vía Pensador Mexicano,360_A Vía Pensador Mexicano_A Vía Pensador Mexicano_360_A Vía Pensador Mexicano,2,shape_581,weekday,5,1
+Vía Colonia Morelos_360_Vía Colonia Morelos,360_Vía Colonia Morelos_Vía Colonia Morelos_360_Vía Colonia Morelos,2,shape_582,weekday,5,1
+Vía Esteban Alatorre_360_Vía Esteban Alatorre,360_Vía Esteban Alatorre_Vía Esteban Alatorre_360_Vía Esteban Alatorre,2,shape_583,weekday,5,1
+_368_,368___368_,2,shape_584,weekday,5,1
+CUT_368_CUT,368_CUT_CUT_368_CUT,2,shape_585,weekday,5,1
+_371_,371___371_,2,shape_595,weekday,5,1
+_380_,380___380_,2,shape_596,weekday,5,1
+A_380_A,380_A_A_380_A,2,shape_597,weekday,5,1
+Vía 2_383_Vía 2,383_Vía 2_Vía 2_383_Vía 2,2,shape_598,weekday,5,1
+_500_,500___500_,2,shape_424,weekday,5,1
+_602_,602___602_,2,shape_422,weekday,5,1
+A Vía Villas de la Barranca_603_A Vía Villas de la Barranca,603_A Vía Villas de la Barranca_A Vía Villas de la Barranca_603_A Vía Villas de la Barranca,2,shape_423,weekday,5,1
+A Vía Huentitán el Alto_603_A Vía Huentitán el Alto,603_A Vía Huentitán el Alto_A Vía Huentitán el Alto_603_A Vía Huentitán el Alto,2,shape_429,weekday,5,1
+B_603_B,603_B_B_603_B,2,shape_430,weekday,5,1
+_604_,604___604_,2,shape_431,weekday,5,1
+A_604_A,604_A_A_604_A,2,shape_432,weekday,5,1
+_605_,605___605_,2,shape_427,weekday,5,1
+_608_,608___608_,2,shape_428,weekday,5,1
+Vía 1_610_Vía 1,610_Vía 1_Vía 1_610_Vía 1,2,shape_620,weekday,5,1
+Vía 2_610_Vía 2,610_Vía 2_Vía 2_610_Vía 2,2,shape_621,weekday,5,1
+_611_,611___611_,2,shape_622,weekday,5,1
+A_611_A,611_A_A_611_A,2,shape_623,weekday,5,1
+Vía Jardines de la Reina_612_Vía Jardines de la Reina,612_Vía Jardines de la Reina_Vía Jardines de la Reina_612_Vía Jardines de la Reina,2,shape_437,weekday,5,1
+Vía Las Palmas_612_Vía Las Palmas,612_Vía Las Palmas_Vía Las Palmas_612_Vía Las Palmas,2,shape_438,weekday,5,1
+Vía Juan de Dios Robledo_614_Vía Juan de Dios Robledo,614_Vía Juan de Dios Robledo_Vía Juan de Dios Robledo_614_Vía Juan de Dios Robledo,2,shape_433,weekday,5,1
+Vía Bosques de Tonalá_614_Vía Bosques de Tonalá,614_Vía Bosques de Tonalá_Vía Bosques de Tonalá_614_Vía Bosques de Tonalá,2,shape_434,weekday,5,1
+A_615_A,615_A_A_615_A,2,shape_435,weekday,5,1
+_615_,615___615_,2,shape_436,weekday,5,1
+_616_,616___616_,2,shape_439,weekday,5,1
+_619_,619___619_,2,shape_625,weekday,5,1
+Rojo_619_Rojo,619_Rojo_Rojo_619_Rojo,2,shape_628,weekday,5,1
+Verde Vía 1_619_Verde Vía 1,619_Verde Vía 1_Verde Vía 1_619_Verde Vía 1,2,shape_629,weekday,5,1
+Verde Vía 2_619_Verde Vía 2,619_Verde Vía 2_Verde Vía 2_619_Verde Vía 2,2,shape_630,weekday,5,1
+A Vía Guadalupe Gallo_619_A Vía Guadalupe Gallo,619_A Vía Guadalupe Gallo_A Vía Guadalupe Gallo_619_A Vía Guadalupe Gallo,2,shape_631,weekday,5,1
+Azul Lomas San Agustín - Guadalupe_619_Azul Lomas San Agustín - Guadalupe,619_Azul Lomas San Agustín - Guadalupe_Azul Lomas San Agustín - Guadalupe_619_Azul Lomas San Agustín - Guadalupe,2,shape_632,weekday,5,1
+Amarillo Nueva Central Camionera_619_Amarillo Nueva Central Camionera,619_Amarillo Nueva Central Camionera_Amarillo Nueva Central Camionera_619_Amarillo Nueva Central Camionera,2,shape_634,weekday,5,1
+Santa Fe_619_Santa Fe,619_Santa Fe_Santa Fe_619_Santa Fe,2,shape_635,weekday,5,1
+Terranova_622_Terranova,622_Terranova_Terranova_622_Terranova,2,shape_441,weekday,5,1
+_622_,622___622_,2,shape_443,weekday,5,1
+A Vía Los Olivos_623_A Vía Los Olivos,623_A Vía Los Olivos_A Vía Los Olivos_623_A Vía Los Olivos,2,shape_440,weekday,5,1
+Vía Directa_623_Vía Directa,623_Vía Directa_Vía Directa_623_Vía Directa,2,shape_442,weekday,5,1
+A Palmiras_623_A Palmiras,623_A Palmiras_A Palmiras_623_A Palmiras,2,shape_448,weekday,5,1
+_624_,624___624_,2,shape_449,weekday,5,1
+_625_,625___625_,2,shape_446,weekday,5,1
+A_625_A,625_A_A_625_A,2,shape_447,weekday,5,1
+Vía 3_626_Vía 3,626_Vía 3_Vía 3_626_Vía 3,2,shape_636,weekday,5,1
+Vía 4_626_Vía 4,626_Vía 4_Vía 4_626_Vía 4,2,shape_637,weekday,5,1
+Vía 1_626_Vía 1,626_Vía 1_Vía 1_626_Vía 1,2,shape_444,weekday,5,1
+Vía 2_626_Vía 2,626_Vía 2_Vía 2_626_Vía 2,2,shape_445,weekday,5,1
+B Vía 2_629_B Vía 2,629_B Vía 2_B Vía 2_629_B Vía 2,2,shape_452,weekday,5,1
+B Vía 1_629_B Vía 1,629_B Vía 1_B Vía 1_629_B Vía 1,2,shape_453,weekday,5,1
+Vía La Venta_629_Vía La Venta,629_Vía La Venta_Vía La Venta_629_Vía La Venta,2,shape_454,weekday,5,1
+A_629_A,629_A_A_629_A,2,shape_455,weekday,5,1
+Vía 2_629_Vía 2,629_Vía 2_Vía 2_629_Vía 2,2,shape_456,weekday,5,1
+Vía 1_629_Vía 1,629_Vía 1_Vía 1_629_Vía 1,2,shape_457,weekday,5,1
+A_631_A,631_A_A_631_A,2,shape_450,weekday,5,1
+_631_,631___631_,2,shape_451,weekday,5,1
+_632_,632___632_,2,shape_656,weekday,5,1
+A_632_A,632_A_A_632_A,2,shape_461,weekday,5,1
+Parques de Tesistán_633_Parques de Tesistán,633_Parques de Tesistán_Parques de Tesistán_633_Parques de Tesistán,2,shape_462,weekday,5,1
+Vía 3_633_Vía 3,633_Vía 3_Vía 3_633_Vía 3,2,shape_463,weekday,5,1
+Vía Villas de la Loma_633_Vía Villas de la Loma,633_Vía Villas de la Loma_Vía Villas de la Loma_633_Vía Villas de la Loma,2,shape_464,weekday,5,1
+Vía Praderas_633_Vía Praderas,633_Vía Praderas_Vía Praderas_633_Vía Praderas,2,shape_465,weekday,5,1
+_634_,634___634_,2,shape_460,weekday,5,1
+B_635_B,635_B_B_635_B,2,shape_655,weekday,5,1
+A_635_A,635_A_A_635_A,2,shape_459,weekday,5,1
+Vía Hacienda del Valle_636_Vía Hacienda del Valle,636_Vía Hacienda del Valle_Vía Hacienda del Valle_636_Vía Hacienda del Valle,2,shape_458,weekday,5,1
+Vía 3_636_Vía 3,636_Vía 3_Vía 3_636_Vía 3,2,shape_469,weekday,5,1
+Vía 2_636_Vía 2,636_Vía 2_Vía 2_636_Vía 2,2,shape_470,weekday,5,1
+A Vía 2_636_A Vía 2,636_A Vía 2_A Vía 2_636_A Vía 2,2,shape_471,weekday,5,1
+A Vía Mesas_636_A Vía Mesas,636_A Vía Mesas_A Vía Mesas_636_A Vía Mesas,2,shape_472,weekday,5,1
+A Vía Coronilla Sor Juana Inés_636_A Vía Coronilla Sor Juana Inés,636_A Vía Coronilla Sor Juana Inés_A Vía Coronilla Sor Juana Inés_636_A Vía Coronilla Sor Juana Inés,2,shape_474,weekday,5,1
+_637_,637___637_,2,shape_473,weekday,5,1
+Vía Villa del Centinela_637_Vía Villa del Centinela,637_Vía Villa del Centinela_Vía Villa del Centinela_637_Vía Villa del Centinela,2,shape_476,weekday,5,1
+A_639_A,639_A_A_639_A,2,shape_467,weekday,5,1
+_639_,639___639_,2,shape_475,weekday,5,1
+_640_,640___640_,2,shape_466,weekday,5,1
+Vía Tutelar_640_Vía Tutelar,640_Vía Tutelar_Vía Tutelar_640_Vía Tutelar,2,shape_468,weekday,5,1
+Vía Cucea_641_Vía Cucea,641_Vía Cucea_Vía Cucea_641_Vía Cucea,2,shape_657,weekday,5,1
+Vía Circuito Atemajac_641_Vía Circuito Atemajac,641_Vía Circuito Atemajac_Vía Circuito Atemajac_641_Vía Circuito Atemajac,2,shape_658,weekday,5,1
+Circuito Belenes_641_Circuito Belenes,641_Circuito Belenes_Circuito Belenes_641_Circuito Belenes,2,shape_659,weekday,5,1
+A Circunvalación Atemajac_641_A Circunvalación Atemajac,641_A Circunvalación Atemajac_A Circunvalación Atemajac_641_A Circunvalación Atemajac,2,shape_660,weekday,5,1
+A Vía Belenes_641_A Vía Belenes,641_A Vía Belenes_A Vía Belenes_641_A Vía Belenes,2,shape_661,weekday,5,1
+Vía Urbiquintas_643_Vía Urbiquintas,643_Vía Urbiquintas_Vía Urbiquintas_643_Vía Urbiquintas,2,shape_481,weekday,5,1
+B Vía Jauja_644_B Vía Jauja,644_B Vía Jauja_B Vía Jauja_644_B Vía Jauja,2,shape_477,weekday,5,1
+B Vía Santibañez_644_B Vía Santibañez,644_B Vía Santibañez_B Vía Santibañez_644_B Vía Santibañez,2,shape_478,weekday,5,1
+B Vía Capacha_644_B Vía Capacha,644_B Vía Capacha_B Vía Capacha_644_B Vía Capacha,2,shape_479,weekday,5,1
+A Km 13_644_A Km 13,644_A Km 13_A Km 13_644_A Km 13,2,shape_480,weekday,5,1
+A Vía El Tapatío_644_A Vía El Tapatío,644_A Vía El Tapatío_A Vía El Tapatío_644_A Vía El Tapatío,2,shape_482,weekday,5,1
+A Vía Alamo_644_A Vía Alamo,644_A Vía Alamo_A Vía Alamo_644_A Vía Alamo,2,shape_483,weekday,5,1
+A Vía Las Liebres_644_A Vía Las Liebres,644_A Vía Las Liebres_A Vía Las Liebres_644_A Vía Las Liebres,2,shape_484,weekday,5,1
+B Vía Carril_644_B Vía Carril,644_B Vía Carril_B Vía Carril_644_B Vía Carril,2,shape_485,weekday,5,1
+A Vía Curva_644_A Vía Curva,644_A Vía Curva_A Vía Curva_644_A Vía Curva,2,shape_486,weekday,5,1
+B Vía San Martín_644_B Vía San Martín,644_B Vía San Martín_B Vía San Martín_644_B Vía San Martín,2,shape_487,weekday,5,1
+Vía Arboledas_645_Vía Arboledas,645_Vía Arboledas_Vía Arboledas_645_Vía Arboledas,2,shape_652,weekday,5,1
+Vía Prepa 13_645_Vía Prepa 13,645_Vía Prepa 13_Vía Prepa 13_645_Vía Prepa 13,2,shape_653,weekday,5,1
+Topacio_645_Topacio,645_Topacio_Topacio_645_Topacio,2,shape_654,weekday,5,1
+_646_,646___646_,2,shape_493,weekday,5,1
+_647_,647___647_,2,shape_492,weekday,5,1
+Vía 2_647_Vía 2,647_Vía 2_Vía 2_647_Vía 2,2,shape_495,weekday,5,1
+_701_,701___701_,2,shape_651,weekday,5,1
+Turquesa A_703_Turquesa A,703_Turquesa A_Turquesa A_703_Turquesa A,2,shape_649,weekday,5,1
+Turquesa B_703_Turquesa B,703_Turquesa B_Turquesa B_703_Turquesa B,2,shape_650,weekday,5,1
+Premier UT VIP Class A_706_Premier UT VIP Class A,706_Premier UT VIP Class A_Premier UT VIP Class A_706_Premier UT VIP Class A,2,shape_645,weekday,5,1
+TUR RIO_706_TUR RIO,706_TUR RIO_TUR RIO_706_TUR RIO,2,shape_646,weekday,5,1
+TUR CENT_706_TUR CENT,706_TUR CENT_TUR CENT_706_TUR CENT,2,shape_647,weekday,5,1
+Premier UT VIP Class Base Aérea_706_Premier UT VIP Class Base Aérea,706_Premier UT VIP Class Base Aérea_Premier UT VIP Class Base Aérea_706_Premier UT VIP Class Base Aérea,2,shape_648,weekday,5,1
+TUR MIR_707_TUR MIR,707_TUR MIR_TUR MIR_707_TUR MIR,2,shape_633,weekday,5,1
+TUR  ITESO_709_TUR  ITESO,709_TUR  ITESO_TUR  ITESO_709_TUR  ITESO,2,shape_644,weekday,5,1
+Punta de Mita_Línea Puerto Vallarta_Punta de Mita,Línea Puerto Vallarta_Punta de Mita_Punta de Mita_Línea Puerto Vallarta_Punta de Mita,2,shape_662,weekday,5,1
+Valle Dorado_Línea Puerto Vallarta_Valle Dorado,Línea Puerto Vallarta_Valle Dorado_Valle Dorado_Línea Puerto Vallarta_Valle Dorado,2,shape_664,weekday,5,1
+Línea 1_Macrobus_Línea 1,Macrobus_Línea 1_Línea 1_Macrobus_Línea 1,2,shape_591,weekday,5,1
+Línea 3 (Ruta 400)_SiTren_Línea 3 (Ruta 400),SiTren_Línea 3 (Ruta 400)_Línea 3 (Ruta 400)_SiTren_Línea 3 (Ruta 400),2,shape_588,weekday,5,1
+Línea 1_SiTren_Línea 1,SiTren_Línea 1_Línea 1_SiTren_Línea 1,2,shape_589,weekday,5,1
+Línea 2_SiTren_Línea 2,SiTren_Línea 2_Línea 2_SiTren_Línea 2,2,shape_590,weekday,5,1
+Línea 1_Tren Ligero_Línea 1,Tren Ligero_Línea 1_Línea 1_Tren Ligero_Línea 1,2,shape_592,weekday,5,1
+Línea 2_Tren Ligero_Línea 2,Tren Ligero_Línea 2_Línea 2_Tren Ligero_Línea 2,2,shape_593,weekday,5,1
