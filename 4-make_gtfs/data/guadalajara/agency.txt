@@ -1,2 +1,0 @@
-agency_name,agency_url,agency_timezone
-guadalajara agency,https://guadalajaraagency.com,Pacific/Auckland

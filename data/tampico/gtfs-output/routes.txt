@@ -1,0 +1,139 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+Route_1,IMEPLAN_Tampico,Route_1,Mirador - Aviación por Boulevard,3
+Route_2,IMEPLAN_Tampico,Route_2,Tampico - Bosque Central de Abastos - Casa Blanca,3
+Route_3,IMEPLAN_Tampico,Route_3,Madero - Revolución Verde - Central de Abastos,3
+Route_9,IMEPLAN_Tampico,Route_9,Santa Elena - Colonias - Tampico,3
+Route_4,IMEPLAN_Tampico,Route_4,Colosio - Águila Madero - Golfo,3
+Route_6,IMEPLAN_Tampico,Route_6,Madero - Revolución Verde - Las Torres,3
+Route_8,IMEPLAN_Tampico,Route_8,Seguro Social - Lomas de Infonavit,3
+Route_5,IMEPLAN_Tampico,Route_5,Madero - Blanco Palmas - Albañiles,3
+Route_7,IMEPLAN_Tampico,Route_7,Tampico - Playa por Boulevard,3
+Route_10,IMEPLAN_Tampico,Route_10,Enrique Cárdenas - Central Camionera - Tampico,3
+Route_11_A,IMEPLAN_Tampico,Route_11_A,Puerto Alegre - Candelario Garza Tampico,3
+Route_12,IMEPLAN_Tampico,Route_12,Morelos - Moralillo,3
+Route_11_B,IMEPLAN_Tampico,Route_11_B,Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento,3
+Route_13,IMEPLAN_Tampico,Route_13,Col - Primavera - Natividad Garza Leal,3
+Route_14,IMEPLAN_Tampico,Route_14,Tampico Cañada,3
+Route_15,IMEPLAN_Tampico,Route_15,Madero - UAT - Niños Héroes,3
+Route_16,IMEPLAN_Tampico,Route_16,Ejido Contadero - Germinal - Águila,3
+Route_17,IMEPLAN_Tampico,Route_17,Maun - Revolución Verde - Madero,3
+Route_18,IMEPLAN_Tampico,Route_18,Tampico - Universidad - Echeverría,3
+Route_21,IMEPLAN_Tampico,Route_21,FOVISSTE - Lucio Blanco,3
+Route_23,IMEPLAN_Tampico,Route_23,E. Cárdenas González - Universidad,3
+Route_20,IMEPLAN_Tampico,Route_20,Miramar - Borreguera - Madero,3
+Route_19,IMEPLAN_Tampico,Route_19,Nuevo Madero - Serapio Venegas,3
+Route_24,IMEPLAN_Tampico,Route_24,Tampico - Tancol - Col del Bosque,3
+Route_22,IMEPLAN_Tampico,Route_22,Tampico - Borreguera por boulevard Zona Conurbada Tampico - Madero - Altamira,3
+Route_25,IMEPLAN_Tampico,Route_25,Madero - Col Echeverría,3
+Route_26,IMEPLAN_Tampico,Route_26,Tampico - Puertas Coloradas - Divisoria,3
+Route_27,IMEPLAN_Tampico,Route_27,Tampico - Santa Elena,3
+Route_28,IMEPLAN_Tampico,Route_28,Unidad Morelos,3
+Route_30,IMEPLAN_Tampico,Route_30,Ganadera por Divisoria,3
+Route_32,IMEPLAN_Tampico,Route_32,Madero - Heriberto Kehoe - Las Flores,3
+Route_31,IMEPLAN_Tampico,Route_31,Tierra Alta - Niños Héroes - Casa Blanca,3
+Route_29,IMEPLAN_Tampico,Route_29,Águila Echeverría - Panteón,3
+Route_33,IMEPLAN_Tampico,Route_33,Madero - La Paz,3
+Route_34,IMEPLAN_Tampico,Route_34,Las flores - Madero -,3
+Route_35,IMEPLAN_Tampico,Route_35,Madero - Ganadera - Niños Héroes,3
+Route_40,IMEPLAN_Tampico,Route_40,Playa Norte - Refinería,3
+Route_37,IMEPLAN_Tampico,Route_37,Escolleras - Madero,3
+Route_39,IMEPLAN_Tampico,Route_39,Playa Sur - Refinería,3
+Route_36,IMEPLAN_Tampico,Route_36,Santa Amalia - Polvorín - Madero -,3
+Route_38,IMEPLAN_Tampico,Route_38,Circuito Norte,3
+Route_41,IMEPLAN_Tampico,Route_41,Unidad Morelos UAT - Madero - Col Árbol Grande,3
+Route_42,IMEPLAN_Tampico,Route_42,Pedro José Méndez - Carnitas Orta,3
+Route_43,IMEPLAN_Tampico,Route_43,Aviación por Boulevard,3
+Route_47,IMEPLAN_Tampico,Route_47,Cetir 78 Bosques por Boulevard,3
+Route_44,IMEPLAN_Tampico,Route_44,Obrera por Republica de Cuba,3
+Route_45,IMEPLAN_Tampico,Route_45,E. C. González por Av. Hidalgo,3
+Route_48,IMEPLAN_Tampico,Route_48,Germinal por Boulevard,3
+Route_46,IMEPLAN_Tampico,Route_46,El Blanco - Kínder - Las Flores,3
+Route_50,IMEPLAN_Tampico,Route_50,Colonia Del Valle,3
+Route_49,IMEPLAN_Tampico,Route_49,Tancol,3
+Route_51,IMEPLAN_Tampico,Route_51,Serapio Venegas por Boulevard,3
+Route_52,IMEPLAN_Tampico,Route_52,Santa Elena - Ampliación. - U. Nacional por Boulevard,3
+Route_55,IMEPLAN_Tampico,Route_55,Bosque,3
+Route_53,IMEPLAN_Tampico,Route_53,Altamira,3
+Route_54,IMEPLAN_Tampico,Route_54,Col Nuevo Tampico - Altamira por Carnitas Ortas,3
+Route_56,IMEPLAN_Tampico,Route_56,Bellavista,3
+Route_58,IMEPLAN_Tampico,Route_58,Madero - Rev. Verde,3
+Route_57,IMEPLAN_Tampico,Route_57,Tancol,3
+Route_59,IMEPLAN_Tampico,Route_59,Águila - Madero,3
+Route_60,IMEPLAN_Tampico,Route_60,Madero - Blanco Palmas,3
+Route_64,IMEPLAN_Tampico,Route_64,Madero - Barra,3
+Route_63,IMEPLAN_Tampico,Route_63,Seguro Social - Lomas de Infonavit,3
+Route_61,IMEPLAN_Tampico,Route_61,Obrera - Penal,3
+Route_62,IMEPLAN_Tampico,Route_62,Obrera - Madero,3
+Route_65,IMEPLAN_Tampico,Route_65,Águila,3
+Route_66,IMEPLAN_Tampico,Route_66,Madero - El Blanco,3
+Route_67,IMEPLAN_Tampico,Route_67,Central Camionera - Madero,3
+Route_68,IMEPLAN_Tampico,Route_68,Madero,3
+Route_69,IMEPLAN_Tampico,Route_69,Madero - Candelario Garza,3
+Route_71,IMEPLAN_Tampico,Route_71,Galeana por Sección 21,3
+Route_70,IMEPLAN_Tampico,Route_70,Germinal por Boulevard,3
+Route_72,IMEPLAN_Tampico,Route_72,Colonias,3
+Route_73,IMEPLAN_Tampico,Route_73,Central Camionera por Perimetral,3
+Route_74,IMEPLAN_Tampico,Route_74,Isleta Pérez,3
+Route_75,IMEPLAN_Tampico,Route_75,Morelos - Moralillo,3
+Route_76,IMEPLAN_Tampico,Route_76,Cascajal,3
+Route_77,IMEPLAN_Tampico,Route_77,Madero - Universidad,3
+Route_78,IMEPLAN_Tampico,Route_78,Germinal por Águilas,3
+Route_79,IMEPLAN_Tampico,Route_79,MAUN,3
+Route_80,IMEPLAN_Tampico,Route_80,Universidad,3
+Route_81,IMEPLAN_Tampico,Route_81,Golfo,3
+Route_82,IMEPLAN_Tampico,Route_82,Bellavista,3
+Route_83,IMEPLAN_Tampico,Route_83,Tampico - Playa,3
+Route_84,IMEPLAN_Tampico,Route_84,Moralillo Veracruz.,3
+Route_85,IMEPLAN_Tampico,Route_85,Madero Polvorín,3
+Route_86,IMEPLAN_Tampico,Route_86,Águila Echeverría,3
+Route_87,IMEPLAN_Tampico,Route_87,Madero - Heriberto Kehoe - Las Flores,3
+Route_88,IMEPLAN_Tampico,Route_88,Altamira - Batería 7 Ampliación. Adolfo López Mateos,3
+Route_88A,IMEPLAN_Tampico,Route_88A,Altamira - Batería 7 - Los Presidentes,3
+Route_89A,IMEPLAN_Tampico,Route_89A,Altamira - Tampiquito por Soriana,3
+Route_90,IMEPLAN_Tampico,Route_90,Altamira - Ej. Lomas del Real - Barranco,3
+Route_90A,IMEPLAN_Tampico,Route_90A,Altamira - Ej. Lomas del Real - Barranco por Quinta Martha,3
+Route_91,IMEPLAN_Tampico,Route_91,Altamira - Infonavit,3
+Route_91A,IMEPLAN_Tampico,Route_91A,Altamira - Los Sábalos - Santa Anita,3
+Route_92,IMEPLAN_Tampico,Route_92,Tampico - Altamira,3
+Route_93,IMEPLAN_Tampico,Route_93,Ejido Ricardo Flores Magón - Altamira,3
+Route_95,IMEPLAN_Tampico,Route_95,Altamira - Santa Amalia - Felipe Carrillo Puerto por Colonias Briones,3
+Route_94,IMEPLAN_Tampico,Route_94,Altamira - Estación Colonias - Ej. 3 de Mayo,3
+Route_95A,IMEPLAN_Tampico,Route_95A,Altamira - Santa Amalia - Felipe Carrillo Puerto por Colonia México,3
+Route_96,IMEPLAN_Tampico,Route_96,Altamira Km.40,3
+Route_95B,IMEPLAN_Tampico,Route_95B,Altamira El Repecho,3
+Route_97,IMEPLAN_Tampico,Route_97,Altamira - Central Camionera,3
+Route_98,IMEPLAN_Tampico,Route_98,Altamira - Brisas - Monte alto,3
+Route_99,IMEPLAN_Tampico,Route_99,Altamira - Francisco villa - Las Margaritas,3
+Route_100A,IMEPLAN_Tampico,Route_100A,Infonavit - Altamira - Tampico por Av. Ayuntamiento y Av. Hidalgo,3
+Route_100,IMEPLAN_Tampico,Route_100,Infonavit - Altamira - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_101,IMEPLAN_Tampico,Route_101,Nuevo Madero - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_102,IMEPLAN_Tampico,Route_102,Azteca - Tampico - por Av. Hidalgo y Ayuntamiento,3
+Route_101A,IMEPLAN_Tampico,Route_101A,Nuevo Madero - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico - Madero - Altamira,3
+Route_103,IMEPLAN_Tampico,Route_103,Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_104,IMEPLAN_Tampico,Route_104,Lomas de Altamira - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_103A,IMEPLAN_Tampico,Route_103A,Pedrera - Arboledas - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_103B,IMEPLAN_Tampico,Route_103B,Electricistas - Arboledas - Tampico por H. Ayuntamiento y Av. Hidalgo,3
+Route_104A,IMEPLAN_Tampico,Route_104A,Lomas de Altamira - Tampico por Ayuntamiento y Av. Hidalgo,3
+Route_105,IMEPLAN_Tampico,Route_105,Zapata - Haciendas - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_105A,IMEPLAN_Tampico,Route_105A,Zapata - Haciendas - Tampico por Ayuntamiento y Av. Hidalgo Zona Conurbada Tampico Madero - Altamira,3
+Route_106,IMEPLAN_Tampico,Route_106,Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_106A,IMEPLAN_Tampico,Route_106A,Puerto Industrial - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_107,IMEPLAN_Tampico,Route_107,Santa Amalia - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_107A,IMEPLAN_Tampico,Route_107A,Santa Amalia - Tampico por  Ayuntamiento y Av. Hidalgo,3
+Route_108,IMEPLAN_Tampico,Route_108,Cuauhtémoc - Tampico - Universidad Politécnica de Altamira por Av. Hidalgo y Ayuntamiento Zona Conurbada Tampico - Madero - Altamira,3
+Route_108A,IMEPLAN_Tampico,Route_108A,Cuauhtémoc - Tampico - Univ. Politécnica de Altamira por Ayuntamiento y Av. Hidalgo,3
+Route_109,IMEPLAN_Tampico,Route_109,Aldama - Lomas del Real - Tampico por Ayuntamiento y Av. Hidalgo,3
+Route_109A,IMEPLAN_Tampico,Route_109A,Aldama - Lomas del Real - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_110,IMEPLAN_Tampico,Route_110,Universidad Politécnica de Altamira - Santa Amalia - Germinal Zona Conurbada Tampico - Madero - Altamira,3
+Route_111A,IMEPLAN_Tampico,Route_111A,Tampico - Colonias - El Fuerte - Penal por Av. Hidalgo y Ayuntamiento,3
+Route_112,IMEPLAN_Tampico,Route_112,Cuauhtémoc - Mariano - Matamoros,3
+Route_113,IMEPLAN_Tampico,Route_113,Univ. Politécnica de Altamira - Santa Amalia - Santa Elena,3
+Route_114,IMEPLAN_Tampico,Route_114,López Mateos - Margaritas - Tampico por Av. Hidalgo y Ayuntamiento,3
+Route_114A,IMEPLAN_Tampico,Route_114A,López Mateos - Margaritas - Tampico por Ayuntamiento Av. Hidalgo,3
+Route_115,IMEPLAN_Tampico,Route_115,Altamira - Zapata por Arboledas,3
+Route_116,IMEPLAN_Tampico,Route_116,Altamira - Intramunicipal,3
+Route_118,IMEPLAN_Tampico,Route_118,Frac. Haciendas - Soriana - Aeropuerto,3
+Route_117,IMEPLAN_Tampico,Route_117,Altamira - San Jacinto - Paseo del Real,3
+Route_119,IMEPLAN_Tampico,Route_119,Pedrera - Soriana - Aeropuerto,3
+Route_FRACC,IMEPLAN_Tampico,Route_FRACC,Sotavento - Soriana Aeropuerto - AUT,3
+Route_120,IMEPLAN_Tampico,Route_120,Fracc. Arboledas - Soriana - Aeropuerto,3

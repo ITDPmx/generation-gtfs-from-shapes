@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "speed_zones",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "shape_id": "shape_basic_1", "speed_zone_id": "shape_basic_1", "route_type": 2, "speed": 15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -103.17045, 20.44435 ], [ -103.17045, 20.92041 ], [ -105.52108, 20.92041 ], [ -105.52108, 20.44435 ], [ -103.17045, 20.44435 ] ] ] } }
-]
-}
