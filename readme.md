@@ -90,5 +90,5 @@ Especificación de tablas GTFS: `files_gtfs_to_generate.md`.
 
 ## TODO
 
-- **Velocidad y headway por ruta:** parametrizar velocidad de operación y headway por ruta (en lugar de valores globales).
-- **Velocidad por zona:** hacer que la velocidad dependa de la zona de la ciudad (p. ej. polígono o atributo espacial).
+- [ ] **Velocidad y headway por ruta:** parametrizar velocidad de operación y headway por ruta (en lugar de valores globales).
+- [ ] **Velocidad por zona:** hacer que la velocidad dependa de la zona de la ciudad (p. ej. polígono o atributo espacial).
