@@ -1,0 +1,57 @@
+route_name,agency_id,route_name_short,route_long_name,route_type
+2_42 Caseta,Red_de_Transporte_Merida,2_42 Caseta,2_42 Caseta,3
+6_42 Sur Imss,Red_de_Transporte_Merida,6_42 Sur Imss,6_42 Sur Imss,3
+11_50 Penal Paso Texas,Red_de_Transporte_Merida,11_50 Penal Paso Texas,11_50 Penal Paso Texas,3
+13_50 Sur Villa Magna,Red_de_Transporte_Merida,13_50 Sur Villa Magna,13_50 Sur Villa Magna,3
+16_Zazil-Ha,Red_de_Transporte_Merida,16_Zazil-Ha,16_Zazil-Ha,3
+17_58 Emiliano Zapata Azul Y Rojo,Red_de_Transporte_Merida,17_58 Emiliano Zapata Azul Y Rojo,17_58 Emiliano Zapata Azul Y Rojo,3
+19_5A Avenida,Red_de_Transporte_Merida,19_5A Avenida,19_5A Avenida,3
+26_65 Periferico-Kanasín,Red_de_Transporte_Merida,26_65 Periferico-Kanasín,26_65 Periferico-Kanasín,3
+20_60 Penal Directo,Red_de_Transporte_Merida,20_60 Penal Directo,20_60 Penal Directo,3
+21_60 Penal Periférico,Red_de_Transporte_Merida,21_60 Penal Periférico,21_60 Penal Periférico,3
+65_82 García Gineres Tanlum,Red_de_Transporte_Merida,65_82 García Gineres Tanlum,65_82 García Gineres Tanlum,3
+62_50 Xmatkuil,Red_de_Transporte_Merida,62_50 Xmatkuil,62_50 Xmatkuil,3
+40_60 Emiliano Zapata Azul Y Rojo,Red_de_Transporte_Merida,40_60 Emiliano Zapata Azul Y Rojo,40_60 Emiliano Zapata Azul Y Rojo,3
+70_66 Ibrica,Red_de_Transporte_Merida,70_66 Ibrica,70_66 Ibrica,3
+67_Polígono 108-López Mateos,Red_de_Transporte_Merida,67_Polígono 108-López Mateos,67_Polígono 108-López Mateos,3
+71_Itzimná Díaz Ordaz,Red_de_Transporte_Merida,71_Itzimná Díaz Ordaz,71_Itzimná Díaz Ordaz,3
+"73_Caucel R1, R2, R3 Y R5",Red_de_Transporte_Merida,"73_Caucel R1, R2, R3 Y R5","73_Caucel R1, R2, R3 Y R5",3
+74_66 Amapola,Red_de_Transporte_Merida,74_66 Amapola,74_66 Amapola,3
+"82_Brisas, Brisas Normal, Conalep Y Sct",Red_de_Transporte_Merida,"82_Brisas, Brisas Normal, Conalep Y Sct","82_Brisas, Brisas Normal, Conalep Y Sct",3
+85_Ibérica (F.U.T.V.),Red_de_Transporte_Merida,85_Ibérica (F.U.T.V.),85_Ibérica (F.U.T.V.),3
+86_Itzimná Aguilas (F.U.T.V.),Red_de_Transporte_Merida,86_Itzimná Aguilas (F.U.T.V.),86_Itzimná Aguilas (F.U.T.V.),3
+87_Lindavista R-1,Red_de_Transporte_Merida,87_Lindavista R-1,87_Lindavista R-1,3
+87_Lindavista R-2,Red_de_Transporte_Merida,87_Lindavista R-2,87_Lindavista R-2,3
+90_Pensiones Chenku (Futv),Red_de_Transporte_Merida,90_Pensiones Chenku (Futv),90_Pensiones Chenku (Futv),3
+91_49 Petronila,Red_de_Transporte_Merida,91_49 Petronila,91_49 Petronila,3
+92_Serapio Rendón R-1,Red_de_Transporte_Merida,92_Serapio Rendón R-1,92_Serapio Rendón R-1,3
+94_Mulsay,Red_de_Transporte_Merida,94_Mulsay,94_Mulsay,3
+92_Serapio Rendón R2 F.U.T.V,Red_de_Transporte_Merida,92_Serapio Rendón R2 F.U.T.V,92_Serapio Rendón R2 F.U.T.V,3
+99_Santa Gertrudis Copo R-3,Red_de_Transporte_Merida,99_Santa Gertrudis Copo R-3,99_Santa Gertrudis Copo R-3,3
+121_Pensiones,Red_de_Transporte_Merida,121_Pensiones,121_Pensiones,3
+112_Mulsay Juan Pablo Ii,Red_de_Transporte_Merida,112_Mulsay Juan Pablo Ii,112_Mulsay Juan Pablo Ii,3
+115_San Lucas,Red_de_Transporte_Merida,115_San Lucas,115_San Lucas,3
+114_Carranza,Red_de_Transporte_Merida,114_Carranza,114_Carranza,3
+100_52 Norte Villas La Hacienda R-1,Red_de_Transporte_Merida,100_52 Norte Villas La Hacienda R-1,100_52 Norte Villas La Hacienda R-1,3
+128_67 Mulsay R-1,Red_de_Transporte_Merida,128_67 Mulsay R-1,128_67 Mulsay R-1,3
+"124_Chichí Suárez, Sitpach",Red_de_Transporte_Merida,"124_Chichí Suárez, Sitpach","124_Chichí Suárez, Sitpach",3
+126_63 Periferico-San Camilo,Red_de_Transporte_Merida,126_63 Periferico-San Camilo,126_63 Periferico-San Camilo,3
+141_Chuburná Inn,Red_de_Transporte_Merida,141_Chuburná Inn,141_Chuburná Inn,3
+140_Francisco De Montejo R-1,Red_de_Transporte_Merida,140_Francisco De Montejo R-1,140_Francisco De Montejo R-1,3
+133_49 Petrolina R1,Red_de_Transporte_Merida,133_49 Petrolina R1,133_49 Petrolina R1,3
+132_79 Aviación,Red_de_Transporte_Merida,132_79 Aviación,132_79 Aviación,3
+142_Chuburna 21,Red_de_Transporte_Merida,142_Chuburna 21,142_Chuburna 21,3
+169_77 Sambulá,Red_de_Transporte_Merida,169_77 Sambulá,169_77 Sambulá,3
+145_Tapetes,Red_de_Transporte_Merida,145_Tapetes,145_Tapetes,3
+148_Francisco De Montejo R-2 Dzityá,Red_de_Transporte_Merida,148_Francisco De Montejo R-2 Dzityá,148_Francisco De Montejo R-2 Dzityá,3
+"190_Dzityá, Xcanatún, Las Américas",Red_de_Transporte_Merida,"190_Dzityá, Xcanatún, Las Américas","190_Dzityá, Xcanatún, Las Américas",3
+Caucel R2_Caucel R2 (Herradura),Red_de_Transporte_Merida,Caucel R2_Caucel R2 (Herradura),Caucel R2_Caucel R2 (Herradura),3
+"182_Alemán, Pinoa, Tulias R1",Red_de_Transporte_Merida,"182_Alemán, Pinoa, Tulias R1","182_Alemán, Pinoa, Tulias R1",3
+"Circuito Aviación,_Circuito Aviación, Pacaptún (Azul Y Rojo)",Red_de_Transporte_Merida,"Circuito Aviación,_Circuito Aviación, Pacaptún (Azul Y Rojo)","Circuito Aviación,_Circuito Aviación, Pacaptún (Azul Y Rojo)",3
+Caucel R3_Caucel R3 (Arboledas),Red_de_Transporte_Merida,Caucel R3_Caucel R3 (Arboledas),Caucel R3_Caucel R3 (Arboledas),3
+Circuito Poniente_Circuito Poniente Plazas,Red_de_Transporte_Merida,Circuito Poniente_Circuito Poniente Plazas,Circuito Poniente_Circuito Poniente Plazas,3
+Circuito Colonias_Circuito Colonias Y Hospitales,Red_de_Transporte_Merida,Circuito Colonias_Circuito Colonias Y Hospitales,Circuito Colonias_Circuito Colonias Y Hospitales,3
+Circuito Metropolitano_Circuito Metropolitano Ruta 1,Red_de_Transporte_Merida,Circuito Metropolitano_Circuito Metropolitano Ruta 1,Circuito Metropolitano_Circuito Metropolitano Ruta 1,3
+F3_Acim (F.U.T.V.),Red_de_Transporte_Merida,F3_Acim (F.U.T.V.),F3_Acim (F.U.T.V.),3
+F1_Caucel (F.U.T.V.),Red_de_Transporte_Merida,F1_Caucel (F.U.T.V.),F1_Caucel (F.U.T.V.),3
+F15_San Pedro Noh-Pat R2,Red_de_Transporte_Merida,F15_San Pedro Noh-Pat R2,F15_San Pedro Noh-Pat R2,3

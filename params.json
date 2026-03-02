@@ -1,0 +1,42 @@
+{
+  "city": "merida",
+  "agency": {
+    "name": "IMEPLAN_Merida",
+    "id": "Red_de_Transporte_Merida",
+    "url": "http://www.imeplansurdeyucatan.gob.mx",
+    "timezone": "America/Merida",
+    "lang": "es"
+  },
+  "calendar": {
+    "start_date": "20260101",
+    "end_date": "20260102",
+    "SERVICE_ID": "standard-schedule"
+  },
+  "stops": {
+    "distance_between_stops": 200
+  },
+  "stop_times": {
+    "dwell_time_station_minutes": 0.2,
+    "speed_by_route": {
+      "42 Caseta": 25.0,
+      "42 Sur IMSS": 18.5,
+      "50 Penal Paso Texas": 22.0,
+      "50 Sur Villa Magna": 24.0,
+      "60 Penal Directo": 28.0,
+      "default": 20.13
+    }
+  },
+  "frequencies": {
+    "headway_by_route": {
+      "42 Caseta": 10.0,
+      "42 Sur IMSS": 15.0,
+      "50 Penal Paso Texas": 12.0,
+      "50 Sur Villa Magna": 11.0,
+      "60 Penal Directo": 8.0,
+      "default": 13.11
+    },
+    "start_time": "06:00:00",
+    "end_time": "07:00:00",
+    "exact_times": 1
+  }
+}

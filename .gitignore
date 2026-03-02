@@ -5,8 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+0-generacion_shapes
+data/shapes_cities
 # Distribution / packaging
+0-shape-generation
+data/tampico
 .Python
 build/
 develop-eggs/
