@@ -150,17 +150,15 @@ The `route_type` for each route should follow the [GTFS specification](https://g
 
 ## Next Steps
 
-- [ ] **Snap stops to OSM network** — Make generated stops lie on the OSM network
+- [ ] **Distance between stops and dwell time by route** — Define distance between stops by routes from input data
 - [ ] **Speed by zone** — Make operating speed depend on city zone (polygon or spatial attribute)
 - [ ] **Multiple operation schedules** — Peak hours, off-peak hours, etc.
 - [ ] **Predefined route stops** — Load existing stop information if available
-- [ ] **Distance between stops by route** — Define distance between stops by routes from input data
 - [ ] **Multiple routes per direction** — Support multiple routes in the same direction
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. 
-
 
 ## Authors
 
