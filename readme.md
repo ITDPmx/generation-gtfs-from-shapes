@@ -42,18 +42,18 @@ The generated **synthetic GTFS** is designed to work with tools like **[r5r](htt
 
 1. **Install dependencies**
    ```bash
-   pip install pandas geopandas shapely
+   pip install -r requirements.txt
    ```
 
 2. **Prepare your data**
-   - Edit `1-gtfs-generation/params.json` with your city configuration
+   - Edit `params.json` in the repository root with your city configuration
    - Place route geometries in `data/{city}/routes-shapes/{city}.geojson` (see [Input Data Format](#input-data-format) below)
 
 3. **Generate GTFS**
    - Run notebooks 1-7 sequentially in `1-gtfs-generation/`
-   - Output: `data/{city}/gtfs_frequencies.zip`
+   - Output: `data/{city}/gtfs-frequencies.zip`
 
-3. **Optional: Generate stop times GTFS**
+4. **Optional: Generate stop times GTFS**
    - Install R dependencies:
      ```r
      install.packages("gtfstools")
@@ -61,14 +61,14 @@ The generated **synthetic GTFS** is designed to work with tools like **[r5r](htt
    - Run notebook `8-convert_gtfs.ipynb` 
    - Output: `data/{city}/gtfs_stop_times.zip`
 
-4. **Validate** → [MobilityData GTFS Validator](https://gtfs-validator.mobilitydata.org/)
+5. **Validate** → [MobilityData GTFS Validator](https://gtfs-validator.mobilitydata.org/), or run `python 1-gtfs-generation/validate_feed.py`
 
 
 ## Configuration Parameters
 
-All pipeline parameters are configured in a single JSON file: `params.json`
+All pipeline parameters are configured in a single JSON file at the repository root: `params.json`. The Mérida feed in this repo is the worked example (`"city": "merida"`).
 
-> 📋 **See a complete example:** Check `params-merida-city.json` for a real-world configuration example.
+Keys inside `speed_by_route` and `headway_by_route` match a route's `route_id` or its `route_short_name`. Unmatched routes use `default`.
 
 ```json
 {
@@ -117,7 +117,7 @@ All pipeline parameters are configured in a single JSON file: `params.json`
 
 This project uses a GeoJSON file as input data. The input file must be a **GeoJSON FeatureCollection** with **LineString geometries** representing transit routes. Place this file at: `data/{city}/routes-shapes/{city}.geojson`
 
-> 📂 **Example data:** See `data/merida/` for a complete example of processed GTFS outputs, and `data/shapes_cities/` for example input route geometries.
+> 📂 **Example data:** See `data/merida/` for input geometries and the generated GTFS.
 
 **Required properties for each feature:**
 

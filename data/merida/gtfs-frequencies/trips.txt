@@ -1,6 +1,6 @@
-route_name,service_id,trip_id,trip_headsign,direction_id,shape_id
-100_52 Norte Villas La Hacienda R-1,standard-schedule,100_52 Norte Villas La Hacienda R-1_trip_00,,1,Shape_100_52 Norte Villas La Hacienda R-1
-112_Mulsay Juan Pablo Ii,standard-schedule,112_Mulsay Juan Pablo Ii_trip_00,,1,Shape_112_Mulsay Juan Pablo Ii
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+100_52 Norte Villas la Hacienda R-1,standard-schedule,100_52 Norte Villas la Hacienda R-1_trip_00,,1,Shape_100_52 Norte Villas la Hacienda R-1
+112_Mulsay Juan Pablo II,standard-schedule,112_Mulsay Juan Pablo II_trip_00,,1,Shape_112_Mulsay Juan Pablo II
 114_Carranza,standard-schedule,114_Carranza_trip_00,,1,Shape_114_Carranza
 115_San Lucas,standard-schedule,115_San Lucas_trip_00,,1,Shape_115_San Lucas
 11_50 Penal Paso Texas,standard-schedule,11_50 Penal Paso Texas_trip_00,,1,Shape_11_50 Penal Paso Texas
@@ -11,14 +11,14 @@ route_name,service_id,trip_id,trip_headsign,direction_id,shape_id
 132_79 Aviación,standard-schedule,132_79 Aviación_trip_00,,1,Shape_132_79 Aviación
 133_49 Petrolina R1,standard-schedule,133_49 Petrolina R1_trip_00,,1,Shape_133_49 Petrolina R1
 13_50 Sur Villa Magna,standard-schedule,13_50 Sur Villa Magna_trip_00,,1,Shape_13_50 Sur Villa Magna
-140_Francisco De Montejo R-1,standard-schedule,140_Francisco De Montejo R-1_trip_00,,1,Shape_140_Francisco De Montejo R-1
+140_Francisco de Montejo R-1,standard-schedule,140_Francisco de Montejo R-1_trip_00,,1,Shape_140_Francisco de Montejo R-1
 141_Chuburná Inn,standard-schedule,141_Chuburná Inn_trip_00,,1,Shape_141_Chuburná Inn
 142_Chuburna 21,standard-schedule,142_Chuburna 21_trip_00,,1,Shape_142_Chuburna 21
 145_Tapetes,standard-schedule,145_Tapetes_trip_00,,1,Shape_145_Tapetes
-148_Francisco De Montejo R-2 Dzityá,standard-schedule,148_Francisco De Montejo R-2 Dzityá_trip_00,,1,Shape_148_Francisco De Montejo R-2 Dzityá
-169_77 Sambulá,standard-schedule,169_77 Sambulá_trip_00,,1,Shape_169_77 Sambulá
+148_Francisco de Montejo R-2 Dzityá,standard-schedule,148_Francisco de Montejo R-2 Dzityá_trip_00,,1,Shape_148_Francisco de Montejo R-2 Dzityá
+169_77 SAMBULÁ,standard-schedule,169_77 SAMBULÁ_trip_00,,1,Shape_169_77 SAMBULÁ
 16_Zazil-Ha,standard-schedule,16_Zazil-Ha_trip_00,,1,Shape_16_Zazil-Ha
-17_58 Emiliano Zapata Azul Y Rojo,standard-schedule,17_58 Emiliano Zapata Azul Y Rojo_trip_00,,1,Shape_17_58 Emiliano Zapata Azul Y Rojo
+17_58 Emiliano Zapata Azul y Rojo,standard-schedule,17_58 Emiliano Zapata Azul y Rojo_trip_00,,1,Shape_17_58 Emiliano Zapata Azul y Rojo
 "182_Alemán, Pinoa, Tulias R1",standard-schedule,"182_Alemán, Pinoa, Tulias R1_trip_00",,1,"Shape_182_Alemán, Pinoa, Tulias R1"
 "190_Dzityá, Xcanatún, Las Américas",standard-schedule,"190_Dzityá, Xcanatún, Las Américas_trip_00",,1,"Shape_190_Dzityá, Xcanatún, Las Américas"
 19_5A Avenida,standard-schedule,19_5A Avenida_trip_00,,1,Shape_19_5A Avenida
@@ -26,30 +26,30 @@ route_name,service_id,trip_id,trip_headsign,direction_id,shape_id
 21_60 Penal Periférico,standard-schedule,21_60 Penal Periférico_trip_00,,1,Shape_21_60 Penal Periférico
 26_65 Periferico-Kanasín,standard-schedule,26_65 Periferico-Kanasín_trip_00,,1,Shape_26_65 Periferico-Kanasín
 2_42 Caseta,standard-schedule,2_42 Caseta_trip_00,,1,Shape_2_42 Caseta
-40_60 Emiliano Zapata Azul Y Rojo,standard-schedule,40_60 Emiliano Zapata Azul Y Rojo_trip_00,,1,Shape_40_60 Emiliano Zapata Azul Y Rojo
+40_60 Emiliano Zapata Azul y Rojo,standard-schedule,40_60 Emiliano Zapata Azul y Rojo_trip_00,,1,Shape_40_60 Emiliano Zapata Azul y Rojo
 62_50 Xmatkuil,standard-schedule,62_50 Xmatkuil_trip_00,,1,Shape_62_50 Xmatkuil
 65_82 García Gineres Tanlum,standard-schedule,65_82 García Gineres Tanlum_trip_00,,1,Shape_65_82 García Gineres Tanlum
 67_Polígono 108-López Mateos,standard-schedule,67_Polígono 108-López Mateos_trip_00,,1,Shape_67_Polígono 108-López Mateos
-6_42 Sur Imss,standard-schedule,6_42 Sur Imss_trip_00,,1,Shape_6_42 Sur Imss
+6_42 Sur IMSS,standard-schedule,6_42 Sur IMSS_trip_00,,1,Shape_6_42 Sur IMSS
 70_66 Ibrica,standard-schedule,70_66 Ibrica_trip_00,,1,Shape_70_66 Ibrica
 71_Itzimná Díaz Ordaz,standard-schedule,71_Itzimná Díaz Ordaz_trip_00,,1,Shape_71_Itzimná Díaz Ordaz
 "73_Caucel R1, R2, R3 Y R5",standard-schedule,"73_Caucel R1, R2, R3 Y R5_trip_00",,1,"Shape_73_Caucel R1, R2, R3 Y R5"
 74_66 Amapola,standard-schedule,74_66 Amapola_trip_00,,1,Shape_74_66 Amapola
-"82_Brisas, Brisas Normal, Conalep Y Sct",standard-schedule,"82_Brisas, Brisas Normal, Conalep Y Sct_trip_00",,1,"Shape_82_Brisas, Brisas Normal, Conalep Y Sct"
+"82_Brisas, Brisas Normal, Conalep y SCT",standard-schedule,"82_Brisas, Brisas Normal, Conalep y SCT_trip_00",,1,"Shape_82_Brisas, Brisas Normal, Conalep y SCT"
 85_Ibérica (F.U.T.V.),standard-schedule,85_Ibérica (F.U.T.V.)_trip_00,,1,Shape_85_Ibérica (F.U.T.V.)
 86_Itzimná Aguilas (F.U.T.V.),standard-schedule,86_Itzimná Aguilas (F.U.T.V.)_trip_00,,1,Shape_86_Itzimná Aguilas (F.U.T.V.)
 87_Lindavista R-1,standard-schedule,87_Lindavista R-1_trip_00,,1,Shape_87_Lindavista R-1
 87_Lindavista R-2,standard-schedule,87_Lindavista R-2_trip_00,,1,Shape_87_Lindavista R-2
-90_Pensiones Chenku (Futv),standard-schedule,90_Pensiones Chenku (Futv)_trip_00,,1,Shape_90_Pensiones Chenku (Futv)
+90_Pensiones Chenku (FUTV),standard-schedule,90_Pensiones Chenku (FUTV)_trip_00,,1,Shape_90_Pensiones Chenku (FUTV)
 91_49 Petronila,standard-schedule,91_49 Petronila_trip_00,,1,Shape_91_49 Petronila
 92_Serapio Rendón R-1,standard-schedule,92_Serapio Rendón R-1_trip_00,,1,Shape_92_Serapio Rendón R-1
 92_Serapio Rendón R2 F.U.T.V,standard-schedule,92_Serapio Rendón R2 F.U.T.V_trip_00,,1,Shape_92_Serapio Rendón R2 F.U.T.V
 94_Mulsay,standard-schedule,94_Mulsay_trip_00,,1,Shape_94_Mulsay
-99_Santa Gertrudis Copo R-3,standard-schedule,99_Santa Gertrudis Copo R-3_trip_00,,1,Shape_99_Santa Gertrudis Copo R-3
+99_Santa Gertrudis COPO R-3,standard-schedule,99_Santa Gertrudis COPO R-3_trip_00,,1,Shape_99_Santa Gertrudis COPO R-3
 Caucel R2_Caucel R2 (Herradura),standard-schedule,Caucel R2_Caucel R2 (Herradura)_trip_00,,1,Shape_Caucel R2_Caucel R2 (Herradura)
 Caucel R3_Caucel R3 (Arboledas),standard-schedule,Caucel R3_Caucel R3 (Arboledas)_trip_00,,1,Shape_Caucel R3_Caucel R3 (Arboledas)
-"Circuito Aviación,_Circuito Aviación, Pacaptún (Azul Y Rojo)",standard-schedule,"Circuito Aviación,_Circuito Aviación, Pacaptún (Azul Y Rojo)_trip_00",,1,"Shape_Circuito Aviación,_Circuito Aviación, Pacaptún (Azul Y Rojo)"
-Circuito Colonias_Circuito Colonias Y Hospitales,standard-schedule,Circuito Colonias_Circuito Colonias Y Hospitales_trip_00,,1,Shape_Circuito Colonias_Circuito Colonias Y Hospitales
+"Circuito Aviación,_Circuito Aviación, Pacaptún (azul y rojo)",standard-schedule,"Circuito Aviación,_Circuito Aviación, Pacaptún (azul y rojo)_trip_00",,1,"Shape_Circuito Aviación,_Circuito Aviación, Pacaptún (azul y rojo)"
+Circuito Colonias_Circuito Colonias y Hospitales,standard-schedule,Circuito Colonias_Circuito Colonias y Hospitales_trip_00,,1,Shape_Circuito Colonias_Circuito Colonias y Hospitales
 Circuito Metropolitano_Circuito Metropolitano Ruta 1,standard-schedule,Circuito Metropolitano_Circuito Metropolitano Ruta 1_trip_00,,1,Shape_Circuito Metropolitano_Circuito Metropolitano Ruta 1
 Circuito Poniente_Circuito Poniente Plazas,standard-schedule,Circuito Poniente_Circuito Poniente Plazas_trip_00,,1,Shape_Circuito Poniente_Circuito Poniente Plazas
 F15_San Pedro Noh-Pat R2,standard-schedule,F15_San Pedro Noh-Pat R2_trip_00,,1,Shape_F15_San Pedro Noh-Pat R2

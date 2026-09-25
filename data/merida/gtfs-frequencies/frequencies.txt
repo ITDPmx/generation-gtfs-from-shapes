@@ -1,57 +1,57 @@
 trip_id,start_time,end_time,headway_secs,exact_times
-100_52 Norte Villas La Hacienda R-1_trip_00,06:00:00,07:00:00,786,1
-112_Mulsay Juan Pablo Ii_trip_00,06:00:00,07:00:00,786,1
-114_Carranza_trip_00,06:00:00,07:00:00,786,1
-115_San Lucas_trip_00,06:00:00,07:00:00,786,1
-11_50 Penal Paso Texas_trip_00,06:00:00,07:00:00,786,1
-121_Pensiones_trip_00,06:00:00,07:00:00,786,1
-"124_Chichí Suárez, Sitpach_trip_00",06:00:00,07:00:00,786,1
-126_63 Periferico-San Camilo_trip_00,06:00:00,07:00:00,786,1
-128_67 Mulsay R-1_trip_00,06:00:00,07:00:00,786,1
-132_79 Aviación_trip_00,06:00:00,07:00:00,786,1
-133_49 Petrolina R1_trip_00,06:00:00,07:00:00,786,1
-13_50 Sur Villa Magna_trip_00,06:00:00,07:00:00,786,1
-140_Francisco De Montejo R-1_trip_00,06:00:00,07:00:00,786,1
-141_Chuburná Inn_trip_00,06:00:00,07:00:00,786,1
-142_Chuburna 21_trip_00,06:00:00,07:00:00,786,1
-145_Tapetes_trip_00,06:00:00,07:00:00,786,1
-148_Francisco De Montejo R-2 Dzityá_trip_00,06:00:00,07:00:00,786,1
-169_77 Sambulá_trip_00,06:00:00,07:00:00,786,1
-16_Zazil-Ha_trip_00,06:00:00,07:00:00,786,1
-17_58 Emiliano Zapata Azul Y Rojo_trip_00,06:00:00,07:00:00,786,1
-"182_Alemán, Pinoa, Tulias R1_trip_00",06:00:00,07:00:00,786,1
-"190_Dzityá, Xcanatún, Las Américas_trip_00",06:00:00,07:00:00,786,1
-19_5A Avenida_trip_00,06:00:00,07:00:00,786,1
-20_60 Penal Directo_trip_00,06:00:00,07:00:00,786,1
-21_60 Penal Periférico_trip_00,06:00:00,07:00:00,786,1
-26_65 Periferico-Kanasín_trip_00,06:00:00,07:00:00,786,1
-2_42 Caseta_trip_00,06:00:00,07:00:00,786,1
-40_60 Emiliano Zapata Azul Y Rojo_trip_00,06:00:00,07:00:00,786,1
-62_50 Xmatkuil_trip_00,06:00:00,07:00:00,786,1
-65_82 García Gineres Tanlum_trip_00,06:00:00,07:00:00,786,1
-67_Polígono 108-López Mateos_trip_00,06:00:00,07:00:00,786,1
-6_42 Sur Imss_trip_00,06:00:00,07:00:00,786,1
-70_66 Ibrica_trip_00,06:00:00,07:00:00,786,1
-71_Itzimná Díaz Ordaz_trip_00,06:00:00,07:00:00,786,1
-"73_Caucel R1, R2, R3 Y R5_trip_00",06:00:00,07:00:00,786,1
-74_66 Amapola_trip_00,06:00:00,07:00:00,786,1
-"82_Brisas, Brisas Normal, Conalep Y Sct_trip_00",06:00:00,07:00:00,786,1
-85_Ibérica (F.U.T.V.)_trip_00,06:00:00,07:00:00,786,1
-86_Itzimná Aguilas (F.U.T.V.)_trip_00,06:00:00,07:00:00,786,1
-87_Lindavista R-1_trip_00,06:00:00,07:00:00,786,1
-87_Lindavista R-2_trip_00,06:00:00,07:00:00,786,1
-90_Pensiones Chenku (Futv)_trip_00,06:00:00,07:00:00,786,1
-91_49 Petronila_trip_00,06:00:00,07:00:00,786,1
-92_Serapio Rendón R-1_trip_00,06:00:00,07:00:00,786,1
-92_Serapio Rendón R2 F.U.T.V_trip_00,06:00:00,07:00:00,786,1
-94_Mulsay_trip_00,06:00:00,07:00:00,786,1
-99_Santa Gertrudis Copo R-3_trip_00,06:00:00,07:00:00,786,1
-Caucel R2_Caucel R2 (Herradura)_trip_00,06:00:00,07:00:00,786,1
-Caucel R3_Caucel R3 (Arboledas)_trip_00,06:00:00,07:00:00,786,1
-"Circuito Aviación,_Circuito Aviación, Pacaptún (Azul Y Rojo)_trip_00",06:00:00,07:00:00,786,1
-Circuito Colonias_Circuito Colonias Y Hospitales_trip_00,06:00:00,07:00:00,786,1
-Circuito Metropolitano_Circuito Metropolitano Ruta 1_trip_00,06:00:00,07:00:00,786,1
-Circuito Poniente_Circuito Poniente Plazas_trip_00,06:00:00,07:00:00,786,1
-F15_San Pedro Noh-Pat R2_trip_00,06:00:00,07:00:00,786,1
-F1_Caucel (F.U.T.V.)_trip_00,06:00:00,07:00:00,786,1
-F3_Acim (F.U.T.V.)_trip_00,06:00:00,07:00:00,786,1
+100_52 Norte Villas la Hacienda R-1_trip_00,06:00:00,07:00:00,787,1
+112_Mulsay Juan Pablo II_trip_00,06:00:00,07:00:00,787,1
+114_Carranza_trip_00,06:00:00,07:00:00,787,1
+115_San Lucas_trip_00,06:00:00,07:00:00,787,1
+11_50 Penal Paso Texas_trip_00,06:00:00,07:00:00,720,1
+121_Pensiones_trip_00,06:00:00,07:00:00,787,1
+"124_Chichí Suárez, Sitpach_trip_00",06:00:00,07:00:00,787,1
+126_63 Periferico-San Camilo_trip_00,06:00:00,07:00:00,787,1
+128_67 Mulsay R-1_trip_00,06:00:00,07:00:00,787,1
+132_79 Aviación_trip_00,06:00:00,07:00:00,787,1
+133_49 Petrolina R1_trip_00,06:00:00,07:00:00,787,1
+13_50 Sur Villa Magna_trip_00,06:00:00,07:00:00,660,1
+140_Francisco de Montejo R-1_trip_00,06:00:00,07:00:00,787,1
+141_Chuburná Inn_trip_00,06:00:00,07:00:00,787,1
+142_Chuburna 21_trip_00,06:00:00,07:00:00,787,1
+145_Tapetes_trip_00,06:00:00,07:00:00,787,1
+148_Francisco de Montejo R-2 Dzityá_trip_00,06:00:00,07:00:00,787,1
+169_77 SAMBULÁ_trip_00,06:00:00,07:00:00,787,1
+16_Zazil-Ha_trip_00,06:00:00,07:00:00,787,1
+17_58 Emiliano Zapata Azul y Rojo_trip_00,06:00:00,07:00:00,787,1
+"182_Alemán, Pinoa, Tulias R1_trip_00",06:00:00,07:00:00,787,1
+"190_Dzityá, Xcanatún, Las Américas_trip_00",06:00:00,07:00:00,787,1
+19_5A Avenida_trip_00,06:00:00,07:00:00,787,1
+20_60 Penal Directo_trip_00,06:00:00,07:00:00,480,1
+21_60 Penal Periférico_trip_00,06:00:00,07:00:00,787,1
+26_65 Periferico-Kanasín_trip_00,06:00:00,07:00:00,787,1
+2_42 Caseta_trip_00,06:00:00,07:00:00,600,1
+40_60 Emiliano Zapata Azul y Rojo_trip_00,06:00:00,07:00:00,787,1
+62_50 Xmatkuil_trip_00,06:00:00,07:00:00,787,1
+65_82 García Gineres Tanlum_trip_00,06:00:00,07:00:00,787,1
+67_Polígono 108-López Mateos_trip_00,06:00:00,07:00:00,787,1
+6_42 Sur IMSS_trip_00,06:00:00,07:00:00,900,1
+70_66 Ibrica_trip_00,06:00:00,07:00:00,787,1
+71_Itzimná Díaz Ordaz_trip_00,06:00:00,07:00:00,787,1
+"73_Caucel R1, R2, R3 Y R5_trip_00",06:00:00,07:00:00,787,1
+74_66 Amapola_trip_00,06:00:00,07:00:00,787,1
+"82_Brisas, Brisas Normal, Conalep y SCT_trip_00",06:00:00,07:00:00,787,1
+85_Ibérica (F.U.T.V.)_trip_00,06:00:00,07:00:00,787,1
+86_Itzimná Aguilas (F.U.T.V.)_trip_00,06:00:00,07:00:00,787,1
+87_Lindavista R-1_trip_00,06:00:00,07:00:00,787,1
+87_Lindavista R-2_trip_00,06:00:00,07:00:00,787,1
+90_Pensiones Chenku (FUTV)_trip_00,06:00:00,07:00:00,787,1
+91_49 Petronila_trip_00,06:00:00,07:00:00,787,1
+92_Serapio Rendón R-1_trip_00,06:00:00,07:00:00,787,1
+92_Serapio Rendón R2 F.U.T.V_trip_00,06:00:00,07:00:00,787,1
+94_Mulsay_trip_00,06:00:00,07:00:00,787,1
+99_Santa Gertrudis COPO R-3_trip_00,06:00:00,07:00:00,787,1
+Caucel R2_Caucel R2 (Herradura)_trip_00,06:00:00,07:00:00,787,1
+Caucel R3_Caucel R3 (Arboledas)_trip_00,06:00:00,07:00:00,787,1
+"Circuito Aviación,_Circuito Aviación, Pacaptún (azul y rojo)_trip_00",06:00:00,07:00:00,787,1
+Circuito Colonias_Circuito Colonias y Hospitales_trip_00,06:00:00,07:00:00,787,1
+Circuito Metropolitano_Circuito Metropolitano Ruta 1_trip_00,06:00:00,07:00:00,787,1
+Circuito Poniente_Circuito Poniente Plazas_trip_00,06:00:00,07:00:00,787,1
+F15_San Pedro Noh-Pat R2_trip_00,06:00:00,07:00:00,787,1
+F1_Caucel (F.U.T.V.)_trip_00,06:00:00,07:00:00,787,1
+F3_Acim (F.U.T.V.)_trip_00,06:00:00,07:00:00,787,1
